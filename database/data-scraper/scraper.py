@@ -79,7 +79,9 @@ def scrape(url):
 def main(set_code, file):
     print("will fetch data for: ", set_code)
     url = "https://scryfall.com/sets/" + set_code.lower() + "?dir=asc&as=checklist"
-    file.write(scrape(url).strip() + "\n")
+    csv_header = "set;number;name;cost\n"
+    csv_body = scrape(url).strip() + "\n"
+    file.write(csv_header + csv_body)
     print("data compiled, written to: " + file.name)
     file.close()
 
