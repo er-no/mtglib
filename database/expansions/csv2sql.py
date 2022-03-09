@@ -61,15 +61,16 @@ def main(set_code):
     sql_file.write("INSERT OR IGNORE INTO mana_costs (cost) VALUES\n")
     width = 0
     for mana in manas:
+        if width >= 50: # formatting, estetical, never get too wide
+            sql_file.write(",\n")
+            width = 0
+
         s = ", (\"" + mana + "\")"
         if width == 0: # if first like, remove the comma and space
             s = s[2:len(s)]
 
         sql_file.write(s)
         width += len(s)
-        if width >= 50: # formatting, estetical, never get too wide
-            sql_file.write(",\n")
-            width = 0
 
     sql_file.write(";\n\n-- populate with card data\n")
     sql_file.write("INSERT INTO cards (expansion_code, card_number, card_name, mana_id, rarity) VALUES\n")
