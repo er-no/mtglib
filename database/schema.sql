@@ -20,13 +20,13 @@ CREATE TABLE users (
 );
 
 CREATE TABLE card_inventories (
-    inventory_id INTEGER,
-    owner_id     INTEGER,
-    card_number  INTEGER,
-    expansion    INTEGER,
-    FOREIGN KEY  (owner_id) REFERENCES users(user_id),
-    FOREIGN KEY  (card_number, expansion) REFERENCES cards(card_number, expansion),
-    PRIMARY KEY  (inventory_id)
+    inventory_id   INTEGER,
+    owner_id       INTEGER,
+    card_number    INTEGER,
+    expansion_code INTEGER,
+    FOREIGN KEY    (owner_id) REFERENCES users(user_id),
+    FOREIGN KEY    (card_number, expansion_code) REFERENCES cards(card_number, expansion_code),
+    PRIMARY KEY    (inventory_id)
 );
 
 CREATE TABLE decks (
@@ -41,21 +41,21 @@ CREATE TABLE deck_lists ( -- renamed from DeckEntry in ER.png
     deck_list_id   INTEGER,
     deck_reference INTEGER,
     card_number    INTEGER,
-    expansion      TEXT,
+    expansion_code TEXT,
     FOREIGN KEY    (deck_reference) REFERENCES decks(deck_id),
-    FOREIGN KEY    (card_number, expansion) REFERENCES cards(card_number, expansion)
+    FOREIGN KEY    (card_number, expansion_code) REFERENCES cards(card_number, expansion_code)
 );
 
 CREATE TABLE cards (
-    card_name      TEXT,
-    card_number    INTEGER,
-    expansion,     TEXT,
-    rarity         INTEGER,
-    mana_cost      INTEGER,
-    UNIQUE         (card_name, card_number, expansion),
-    FOREIGN KEY    (expansion) REFERENCES expansions(expansion_id),
-    FOREIGN KEY    (mana_cost) REFERENCES mana_costs(mana_id),
-    PRIMARY KEY    (card_number, expansion)
+    expansion_code  TEXT,
+    card_number     INTEGER,
+    card_name       TEXT,
+    rarity          INTEGER,
+    mana_id         INTEGER,
+    UNIQUE          (card_name, card_number, expansion_code),
+    FOREIGN KEY     (expansion_code) REFERENCES expansions(expansion_id),
+    FOREIGN KEY     (mana_id) REFERENCES mana_costs(mana_id),
+    PRIMARY KEY     (expansion_code, card_number)
 );
 
 CREATE TABLE mana_costs (
@@ -72,3 +72,5 @@ CREATE TABLE expansions ( -- renamed from Set in /docs/ER.png
     UNIQUE         (expansion_name),
     PRIMARY KEY    (expansion_id)
 );
+
+INSERT INTO mana_costs(mana_id, cost) VALUES (1, "[L]")
