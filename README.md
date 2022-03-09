@@ -1,0 +1,2 @@
+# MTG library
+I will practice some database handeling before writing my exam on the subject. I will do this by creating a complete database system that will store magic the gathering cards, decks and collections. A user can collect cards and then construct decks with those cards. I want to make the data as normalized as possible and using triggers I want to disallow users to create decks they don't have the cards for.
