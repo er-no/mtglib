@@ -26,8 +26,13 @@ rarity_to_int = {
 
 def main(set_code):
     if set_code not in codes_to_expansion_info:
-        print("ERROR: UNKNOWN_SET [" + set_code + "]")
-        exit(1)
+        if set_code == "ALL":
+            print("generating for all known sets!")
+            for code in codes_to_expansion_info.keys():
+                main(code)
+        else:
+            print("ERROR: UNKNOWN_SET [" + set_code + "]")
+            exit(1)
 
     if not exists("../data/" + set_code + ".csv"):
         print("ERROR: UNKNOWN_FILE [../data/" + set_code + ".csv]")
@@ -44,6 +49,7 @@ def main(set_code):
     csv_file = open("../data/" + set_code + ".csv", "r")
     csv_raw = csv_file.read()
     cards = csv_raw.splitlines()
+    # TODO: Handle alternate arts
 
     # find all unique mana costs, lands exists 100%
     manas = {"[L]"}
