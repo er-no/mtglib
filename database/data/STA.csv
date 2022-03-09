@@ -1,0 +1,127 @@
+set;number;name;cost;rarity
+STA;1;Approach of the Second Sun;[6][W];M
+STA;2;Day of Judgment;[2][W][W];M
+STA;3;Defiant Strike;[W];U
+STA;4;Divine Gambit;[W][W];U
+STA;5;Ephemerate;[W];R
+STA;6;Gift of Estates;[1][W];R
+STA;7;Gods Willing;[W];R
+STA;8;Mana Tithe;[W];R
+STA;9;Revitalize;[1][W];U
+STA;10;Swords to Plowshares;[W];R
+STA;11;Teferi's Protection;[2][W];M
+STA;12;Blue Sun's Zenith;[X][U][U][U];M
+STA;13;Brainstorm;[U];R
+STA;14;Compulsive Research;[2][U];R
+STA;15;Counterspell;[U][U];R
+STA;16;Memory Lapse;[1][U];R
+STA;17;Mind's Desire;[4][U][U];M
+STA;18;Negate;[1][U];U
+STA;19;Opt;[U];U
+STA;20;Strategic Planning;[1][U];U
+STA;21;Tezzeret's Gambit;[3][U/P];R
+STA;22;Time Warp;[3][U][U];M
+STA;23;Whirlwind Denial;[2][U];U
+STA;24;Agonizing Remorse;[1][B];U
+STA;25;Crux of Fate;[3][B][B];M
+STA;26;Dark Ritual;[B];R
+STA;27;Demonic Tutor;[1][B];M
+STA;28;Doom Blade;[1][B];R
+STA;29;Duress;[B];U
+STA;30;Eliminate;[1][B];U
+STA;31;Inquisition of Kozilek;[B];R
+STA;32;Sign in Blood;[B][B];R
+STA;33;Tainted Pact;[1][B];M
+STA;34;Tendrils of Agony;[2][B][B];R
+STA;35;Village Rites;[B];U
+STA;36;Chaos Warp;[2][R];M
+STA;37;Claim the Firstborn;[R];U
+STA;38;Faithless Looting;[R];R
+STA;39;Grapeshot;[1][R];R
+STA;40;Increasing Vengeance;[R][R];M
+STA;41;Infuriate;[R];U
+STA;42;Lightning Bolt;[R];R
+STA;43;Mizzix's Mastery;[3][R];M
+STA;44;Shock;[R];U
+STA;45;Stone Rain;[2][R];R
+STA;46;Thrill of Possibility;[1][R];U
+STA;47;Urza's Rage;[2][R];R
+STA;48;Abundant Harvest;[G];R
+STA;49;Adventurous Impulse;[G];U
+STA;50;Channel;[G][G];M
+STA;51;Cultivate;[2][G];U
+STA;52;Harmonize;[2][G][G];R
+STA;53;Krosan Grip;[2][G];R
+STA;54;Natural Order;[2][G][G];M
+STA;55;Primal Command;[3][G][G];M
+STA;56;Regrowth;[1][G];R
+STA;57;Snakeskin Veil;[G];U
+STA;58;Weather the Storm;[1][G];R
+STA;59;Despark;[W][B];R
+STA;60;Electrolyze;[1][U][R];R
+STA;61;Growth Spiral;[G][U];R
+STA;62;Lightning Helix;[R][W];R
+STA;63;Putrefy;[1][B][G];R
+STA;64;Approach of the Second Sun;[6][W];M
+STA;65;Day of Judgment;[2][W][W];M
+STA;66;Defiant Strike;[W];U
+STA;67;Divine Gambit;[W][W];U
+STA;68;儚い存在;[W];R
+STA;69;土地の寄進;[1][W];R
+STA;70;神々の思し召し;[W];R
+STA;71;マナの税収;[W];R
+STA;72;活力回復;[1][W];U
+STA;73;剣を鍬に;[W];R
+STA;74;テフェリーの防御;[2][W];M
+STA;75;青の太陽の頂点;[X][U][U][U];M
+STA;76;渦まく知識;[U];R
+STA;77;強迫的な研究;[2][U];R
+STA;78;対抗呪文;[U][U];R
+STA;79;記憶の欠落;[1][U];R
+STA;80;精神の願望;[4][U][U];M
+STA;81;否認;[1][U];U
+STA;82;選択;[U];U
+STA;83;巧みな軍略;[1][U];U
+STA;84;テゼレットの計略;[3][U/P];R
+STA;85;時間のねじれ;[3][U][U];M
+STA;86;旋風のごとき否定;[2][U];U
+STA;87;苦悶の悔恨;[1][B];U
+STA;88;命運の核心;[3][B][B];M
+STA;89;暗黒の儀式;[B];R
+STA;90;悪魔の教示者;[1][B];M
+STA;91;破滅の刃;[1][B];R
+STA;92;強迫;[B];U
+STA;93;取り除き;[1][B];U
+STA;94;コジレックの審問;[B];R
+STA;95;血の署名;[B][B];R
+STA;96;汚れた契約;[1][B];M
+STA;97;苦悶の触手;[2][B][B];R
+STA;98;村の儀式;[B];U
+STA;99;混沌のねじれ;[2][R];M
+STA;100;初子さらい;[R];U
+STA;101;信仰無き物あさり;[R];R
+STA;102;ぶどう弾;[1][R];R
+STA;103;高まる復讐心;[R][R];M
+STA;104;立腹;[R];U
+STA;105;稲妻;[R];R
+STA;106;ミジックスの熟達;[3][R];M
+STA;107;ショック;[R];U
+STA;108;石の雨;[2][R];R
+STA;109;胸躍る可能性;[1][R];U
+STA;110;ウルザの激怒;[2][R];R
+STA;111;豊穣な収穫;[G];R
+STA;112;冒険の衝動;[G];U
+STA;113;チャネル;[G][G];M
+STA;114;耕作;[2][G];U
+STA;115;調和;[2][G][G];R
+STA;116;クローサの掌握;[2][G];R
+STA;117;自然の秩序;[2][G][G];M
+STA;118;原初の命令;[3][G][G];M
+STA;119;新たな芽吹き;[1][G];R
+STA;120;蛇皮のヴェール;[G];U
+STA;121;嵐の乗り切り;[1][G];R
+STA;122;灯の燼滅;[W][B];R
+STA;123;電解;[1][U][R];R
+STA;124;成長のらせん;[G][U];R
+STA;125;稲妻のらせん;[R][W];R
+STA;126;化膿;[1][B][G];R

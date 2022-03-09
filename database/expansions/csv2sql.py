@@ -1,16 +1,12 @@
 from os.path import exists
 import sys
 
-# open csv
-# read csv line by line
-# for every line
-# create sql insert statement
-
 # supports standard format
 codes_to_expansion_info = {
     'ZNR' : ['\"Zendikar Rising\"', 391],
     'KHM' : ['\"Kaldheim\"', 405],
     'STX' : ['\"Strixhaven: School of Mages\"', 382],
+    'STA' : ['\"Strixhaven: Mystical Archive\"', 126],
     'AFR' : ['\"Dungeons & Dragons: Adventures in the Forgotten Realms\"', 402],
     'MID' : ['\"Innistrad: Midnight Hunt\"', 391],
     'VOW' : ['\"Innistrad: Crimson Vow\"', 412],
@@ -30,6 +26,8 @@ def main(set_code):
             print("generating for all known sets!")
             for code in codes_to_expansion_info.keys():
                 main(code)
+                print(code + "... done!")
+            exit(0)
         else:
             print("ERROR: UNKNOWN_SET [" + set_code + "]")
             exit(1)
@@ -47,14 +45,14 @@ def main(set_code):
 
     # lets read the csv file
     csv_file = open("../data/" + set_code + ".csv", "r")
-    csv_raw = csv_file.read()
-    cards = csv_raw.splitlines()
-    # TODO: Handle alternate arts
+    csv_raw = csv_file.read().splitlines()
+    # cards filtered where cardnumber MUST be numeric (skipping alternate arts)
+    cards = [c.split(";") for c in csv_raw if c.split(";")[1].isnumeric()]
 
     # find all unique mana costs, lands exists 100%
     manas = {"[L]"}
     for card in cards:
-        mana = card.split(";")[3]
+        mana = card[3]
         if mana != "" and mana != "cost" and mana not in manas:
             manas.add(mana)
 
@@ -64,34 +62,35 @@ def main(set_code):
     width = 0
     for mana in manas:
         s = ", (\"" + mana + "\")"
-        if width == 0:
-            s = s[2:len(s)] # if first in line, skip comma
+        if width == 0: # if first like, remove the comma and space
+            s = s[2:len(s)]
+
         sql_file.write(s)
         width += len(s)
-        if width >= 50:
+        if width >= 50: # formatting, estetical, never get too wide
             sql_file.write(",\n")
             width = 0
 
     sql_file.write(";\n\n-- populate with card data\n")
     sql_file.write("INSERT INTO cards (expansion_code, card_number, card_name, mana_id, rarity) VALUES\n")
     for card in cards:
-        if card[0] != "s": # this is header row
-            card = card.split(";")
-            expansion_code = card[0]
-            card_number = card[1]
-            card_name = card[2]
-            mana_cost = card[3] if card[3] != "" else "[L]"
-            card_rarity = card[4]
-            sql_file.write(
-                "(\"" + expansion_code +
-                "\", " + card_number +
-                ", \"" + card_name +
-                "\", (SELECT mana_id FROM mana_costs WHERE cost = \"" + mana_cost + "\")" +
-                ", " + rarity_to_int.get(card_rarity) + ")")
-            if int(card_number) == codes_to_expansion_info.get(set_code)[1]: # if it is the last card
-                sql_file.write(";\n")
-            else: # its not the last card
-                sql_file.write(",\n")
+        expansion_code = card[0]
+        card_number = card[1]
+        card_name = card[2]
+        # make sure lands are represented as [L] cost
+        mana_cost = card[3] if card[3] != "" else "[L]"
+        card_rarity = card[4]
+        # writing ("exp_code", card_nbr, "card_name", (QUERY FOR MANA), rarity)
+        sql_file.write(
+            "(\"" + expansion_code +
+            "\", " + card_number +
+            ", \"" + card_name +
+            "\", (SELECT mana_id FROM mana_costs WHERE cost = \"" + mana_cost + "\")" +
+            ", " + rarity_to_int.get(card_rarity) + ")")
+        if int(card_number) == codes_to_expansion_info.get(set_code)[1]: # if it is the last card
+            sql_file.write(";\n") # append a semicolon
+        else: # elese -- its not the last card
+            sql_file.write(",\n") # so append a comma
 
 
 
