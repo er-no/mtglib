@@ -1,396 +1,396 @@
-set;number;name;cost
-ZNR;1;Allied Assault;[2][W]
-ZNR;2;Angel of Destiny;[3][W][W]
-ZNR;3;Angelheart Protector;[2][W]
-ZNR;4;Archon of Emeria;[2][W]
-ZNR;5;Archpriest of Iona;[W]
-ZNR;6;Attended Healer;[3][W]
-ZNR;7;Canyon Jerboa;[2][W]
-ZNR;8;Cliffhaven Sell-Sword;[1][W]
-ZNR;9;Dauntless Unity;[1][W]
-ZNR;10;Disenchant;[1][W]
-ZNR;11;Emeria Captain;[3][W]
-ZNR;12;Emeria's Call // Emeria, Shattered Skyclave;[4][W][W][W]
-ZNR;13;Expedition Healer;[1][W]
-ZNR;14;Farsight Adept;[2][W]
-ZNR;15;Fearless Fledgling;[1][W]
-ZNR;16;Felidar Retreat;[3][W]
-ZNR;17;Journey to Oblivion;[4][W]
-ZNR;18;Kabira Outrider;[3][W]
-ZNR;19;Kabira Takedown // Kabira Plateau;[1][W]
-ZNR;20;Kitesail Cleric;[W]
-ZNR;21;Kor Blademaster;[1][W]
-ZNR;22;Kor Celebrant;[2][W]
-ZNR;23;Legion Angel;[2][W][W]
-ZNR;24;Luminarch Aspirant;[1][W]
-ZNR;A-24;A-Luminarch Aspirant;[1][W]
-ZNR;25;Makindi Ox;[4][W]
-ZNR;26;Makindi Stampede // Makindi Mesas;[3][W][W]
-ZNR;27;Maul of the Skyclaves;[2][W]
-ZNR;28;Mesa Lynx;[1][W]
-ZNR;29;Nahiri's Binding;[1][W][W]
-ZNR;30;Ondu Inversion // Ondu Skyruins;[6][W][W]
-ZNR;31;Paired Tactician;[2][W]
-ZNR;32;Practiced Tactics;[W]
-ZNR;33;Pressure Point;[1][W]
-ZNR;34;Prowling Felidar;[3][W]
-ZNR;35;Resolute Strike;[W]
-ZNR;36;Sea Gate Banneret;[W]
-ZNR;37;Sejiri Shelter // Sejiri Glacier;[1][W]
-ZNR;38;Shepherd of Heroes;[4][W]
-ZNR;39;Skyclave Apparition;[1][W][W]
-ZNR;40;Skyclave Cleric // Skyclave Basilica;[1][W]
-ZNR;41;Squad Commander;[3][W]
-ZNR;42;Smite the Monstrous;[3][W]
-ZNR;43;Tazeem Raptor;[2][W]
-ZNR;44;Tazri, Beacon of Unity;[4][W]
-ZNR;45;Anticognition;[1][U]
-ZNR;46;Beyeen Veil // Beyeen Coast;[1][U]
-ZNR;47;Bubble Snare;[U]
-ZNR;48;Cascade Seer;[3][U]
-ZNR;49;Charix, the Raging Isle;[2][U][U]
-ZNR;50;Chilling Trap;[U]
-ZNR;51;Cleric of Chill Depths;[1][U]
-ZNR;52;Concerted Defense;[U]
-ZNR;53;Confounding Conundrum;[1][U]
-ZNR;54;Coralhelm Chronicler;[2][U]
-ZNR;55;Cunning Geysermage;[2][U]
-ZNR;56;Deliberate;[1][U]
-ZNR;57;Expedition Diviner;[3][U]
-ZNR;58;Field Research;[2][U]
-ZNR;59;Glacial Grasp;[2][U]
-ZNR;60;Glasspool Mimic // Glasspool Shore;[2][U]
-ZNR;61;Inscription of Insight;[3][U]
-ZNR;62;Into the Roil;[1][U]
-ZNR;63;Jace, Mirror Mage;[1][U][U]
-ZNR;64;Jwari Disruption // Jwari Ruins;[1][U]
-ZNR;65;Living Tempest;[4][U]
-ZNR;66;Lullmage's Domination;[X][U][U][U]
-ZNR;67;Maddening Cacophony;[1][U]
-ZNR;68;Master of Winds;[2][U][U]
-ZNR;69;Merfolk Falconer;[3][U][U]
-ZNR;70;Merfolk Windrobber;[U]
-ZNR;71;Negate;[1][U]
-ZNR;72;Nimble Trapfinder;[1][U]
-ZNR;73;Risen Riptide;[2][U]
-ZNR;74;Roost of Drakes;[U]
-ZNR;75;Ruin Crab;[U]
-ZNR;76;Sea Gate Restoration // Sea Gate, Reborn;[4][U][U][U]
-ZNR;77;Sea Gate Stormcaller;[1][U]
-ZNR;78;Seafloor Stalker;[2][U]
-ZNR;79;Shell Shield;[U]
-ZNR;80;Silundi Vision // Silundi Isle;[2][U]
-ZNR;81;Skyclave Plunder;[4][U]
-ZNR;82;Skyclave Squid;[1][U]
-ZNR;83;Sure-Footed Infiltrator;[3][U]
-ZNR;84;Tazeem Roilmage;[1][U]
-ZNR;85;Thieving Skydiver;[1][U]
-ZNR;86;Umara Wizard // Umara Skyfalls;[4][U]
-ZNR;87;Windrider Wizard;[2][U]
-ZNR;88;Zulaport Duelist;[U]
-ZNR;89;Acquisitions Expert;[1][B]
-ZNR;90;Agadeem's Awakening // Agadeem, the Undercrypt;[X][B][B][B]
-ZNR;91;Blackbloom Rogue // Blackbloom Bog;[2][B]
-ZNR;92;Blood Beckoning;[B]
-ZNR;93;Blood Price;[3][B]
-ZNR;94;Bloodchief's Thirst;[B]
-ZNR;95;Coveted Prize;[4][B]
-ZNR;96;Deadly Alliance;[4][B]
-ZNR;97;Demon's Disciple;[2][B]
-ZNR;98;Drana, the Last Bloodchief;[3][B][B]
-ZNR;99;Drana's Silencer;[5][B]
-ZNR;100;Dreadwurm;[4][B]
-ZNR;101;Expedition Skulker;[1][B]
-ZNR;102;Feed the Swarm;[1][B]
-ZNR;103;Ghastly Gloomhunter;[1][B]
-ZNR;104;Guul Draz Mucklord;[2][B]
-ZNR;105;Hagra Constrictor;[2][B]
-ZNR;106;Hagra Mauling // Hagra Broodpit;[2][B][B]
-ZNR;107;Highborn Vampire;[3][B]
-ZNR;108;Inscription of Ruin;[2][B]
-ZNR;109;Lithoform Blight;[1][B]
-ZNR;110;Malakir Blood-Priest;[1][B]
-ZNR;111;Malakir Rebirth // Malakir Mire;[B]
-ZNR;112;Marauding Blight-Priest;[2][B]
-ZNR;113;Mind Carver;[B]
-ZNR;114;Mind Drain;[2][B]
-ZNR;115;Nighthawk Scavenger;[1][B][B]
-ZNR;116;Nimana Skitter-Sneak;[3][B]
-ZNR;117;Nimana Skydancer;[2][B]
-ZNR;118;Nullpriest of Oblivion;[1][B]
-ZNR;119;Oblivion's Hunger;[1][B]
-ZNR;120;Pelakka Predation // Pelakka Caverns;[2][B]
-ZNR;121;Scion of the Swarm;[3][B][B]
-ZNR;122;Scourge of the Skyclaves;[1][B]
-ZNR;123;Shadow Stinger;[2][B]
-ZNR;124;Shadows' Verdict;[3][B][B]
-ZNR;125;Skyclave Shade;[1][B]
-ZNR;126;Skyclave Shadowcat;[3][B]
-ZNR;127;Soul Shatter;[2][B]
-ZNR;128;Subtle Strike;[1][B]
-ZNR;129;Taborax, Hope's Demise;[2][B]
-ZNR;130;Thwart the Grave;[4][B][B]
-ZNR;131;Vanquish the Weak;[2][B]
-ZNR;132;Zof Consumption // Zof Bloodbog;[4][B][B]
-ZNR;133;Akoum Hellhound;[R]
-ZNR;134;Akoum Warrior // Akoum Teeth;[5][R]
-ZNR;135;Ardent Electromancer;[2][R]
-ZNR;136;Cinderclasm;[1][R]
-ZNR;137;Cleansing Wildfire;[1][R]
-ZNR;138;Expedition Champion;[2][R]
-ZNR;139;Fireblade Charger;[R]
-ZNR;140;Fissure Wizard;[1][R]
-ZNR;141;Goma Fada Vanguard;[1][R]
-ZNR;142;Grotag Bug-Catcher;[1][R]
-ZNR;143;Grotag Night-Runner;[2][R]
-ZNR;144;Inordinate Rage;[1][R]
-ZNR;145;Kargan Intimidator;[1][R]
-ZNR;146;Kazuul's Fury // Kazuul's Cliffs;[2][R]
-ZNR;147;Leyline Tyrant;[2][R][R]
-ZNR;148;Magmatic Channeler;[1][R]
-ZNR;149;Molten Blast;[2][R]
-ZNR;150;Moraug, Fury of Akoum;[4][R][R]
-ZNR;151;Nahiri's Lithoforming;[X][R][R]
-ZNR;152;Pyroclastic Hellion;[4][R]
-ZNR;153;Relic Robber;[2][R]
-ZNR;154;Rockslide Sorcerer;[3][R]
-ZNR;155;Roil Eruption;[1][R]
-ZNR;156;Roiling Vortex;[1][R]
-ZNR;157;Scavenged Blade;[1][R]
-ZNR;158;Scorch Rider;[3][R]
-ZNR;159;Shatterskull Charger;[1][R][R]
-ZNR;160;Shatterskull Minotaur;[4][R][R]
-ZNR;161;Shatterskull Smashing // Shatterskull, the Hammer Pass;[X][R][R]
-ZNR;162;Sizzling Barrage;[1][R]
-ZNR;163;Skyclave Geopede;[2][R]
-ZNR;164;Sneaking Guide;[R]
-ZNR;165;Song-Mad Treachery // Song-Mad Ruins;[3][R][R]
-ZNR;166;Spikefield Hazard // Spikefield Cave;[R]
-ZNR;167;Spitfire Lagac;[3][R]
-ZNR;168;Synchronized Spellcraft;[4][R]
-ZNR;169;Teeterpeak Ambusher;[1][R]
-ZNR;170;Thundering Rebuke;[1][R]
-ZNR;171;Thundering Sparkmage;[3][R]
-ZNR;172;Tormenting Voice;[1][R]
-ZNR;173;Tuktuk Rubblefort;[2][R]
-ZNR;174;Valakut Awakening // Valakut Stoneforge;[2][R]
-ZNR;175;Valakut Exploration;[2][R]
-ZNR;176;Wayward Guide-Beast;[R]
-ZNR;177;Adventure Awaits;[1][G]
-ZNR;178;Ancient Greenwarden;[4][G][G]
-ZNR;179;Ashaya, Soul of the Wild;[3][G][G]
-ZNR;180;Bala Ged Recovery // Bala Ged Sanctuary;[2][G]
-ZNR;181;Broken Wings;[2][G]
-ZNR;182;Canopy Baloth;[3][G]
-ZNR;183;Cragplate Baloth;[5][G][G]
-ZNR;184;Dauntless Survivor;[1][G]
-ZNR;185;Gnarlid Colony;[1][G]
-ZNR;186;Inscription of Abundance;[1][G]
-ZNR;187;Iridescent Hornbeetle;[4][G]
-ZNR;188;Joraga Visionary;[3][G]
-ZNR;189;Kazandu Mammoth // Kazandu Valley;[1][G][G]
-ZNR;190;Kazandu Nectarpot;[1][G]
-ZNR;191;Kazandu Stomper;[5][G]
-ZNR;192;Khalni Ambush // Khalni Territory;[2][G]
-ZNR;193;Lotus Cobra;[1][G]
-ZNR;194;Might of Murasa;[1][G]
-ZNR;195;Murasa Brute;[2][G]
-ZNR;196;Murasa Sproutling;[2][G]
-ZNR;197;Nissa's Zendikon;[3][G]
-ZNR;198;Oran-Rief Ooze;[2][G]
-ZNR;199;Rabid Bite;[1][G]
-ZNR;200;Reclaim the Wastes;[G]
-ZNR;201;Roiling Regrowth;[2][G]
-ZNR;202;Scale the Heights;[2][G]
-ZNR;203;Scute Swarm;[2][G]
-ZNR;204;Skyclave Pick-Axe;[G]
-ZNR;205;Springmantle Cleric;[4][G]
-ZNR;206;Strength of Solidarity;[G]
-ZNR;207;Swarm Shambler;[G]
-ZNR;208;Tajuru Blightblade;[G]
-ZNR;209;Tajuru Paragon;[1][G]
-ZNR;210;Tajuru Snarecaster;[2][G]
-ZNR;211;Tangled Florahedron // Tangled Vale;[1][G]
-ZNR;212;Taunting Arbormage;[2][G]
-ZNR;213;Territorial Scythecat;[2][G]
-ZNR;214;Turntimber Ascetic;[4][G]
-ZNR;215;Turntimber Symbiosis // Turntimber, Serpentine Wood;[4][G][G][G]
-ZNR;216;Vastwood Fortification // Vastwood Thicket;[G]
-ZNR;217;Vastwood Surge;[3][G]
-ZNR;218;Veteran Adventurer;[5][G]
-ZNR;219;Vine Gecko;[1][G]
-ZNR;220;Akiri, Fearless Voyager;[1][R][W]
-ZNR;221;Brushfire Elemental;[R][G]
-ZNR;222;Cleric of Life's Bond;[W][B]
-ZNR;223;Grakmaw, Skyclave Ravager;[1][B][G]
-ZNR;224;Kargan Warleader;[1][R][W]
-ZNR;225;Kaza, Roil Chaser;[U][R]
-ZNR;226;Linvala, Shield of Sea Gate;[1][W][U]
-ZNR;227;Lullmage's Familiar;[1][G][U]
-ZNR;228;Moss-Pit Skeleton;[B][G]
-ZNR;229;Murasa Rootgrazer;[G][W]
-ZNR;230;Nahiri, Heir of the Ancients;[2][R][W]
-ZNR;231;Nissa of Shadowed Boughs;[2][B][G]
-ZNR;232;Omnath, Locus of Creation;[R][G][W][U]
-ZNR;A-232;A-Omnath, Locus of Creation;[1][R][G][W][U]
-ZNR;233;Orah, Skyclave Hierophant;[2][W][B]
-ZNR;234;Phylath, World Sculptor;[4][R][G]
-ZNR;A-234;A-Phylath, World Sculptor;[4][R][G]
-ZNR;235;Ravager's Mace;[1][B][R]
-ZNR;236;Soaring Thought-Thief;[U][B]
-ZNR;237;Spoils of Adventure;[4][W][U]
-ZNR;238;Umara Mystic;[1][U][R]
-ZNR;239;Verazol, the Split Current;[X][G][U]
-ZNR;240;Yasharn, Implacable Earth;[2][G][W]
-ZNR;241;Zagras, Thief of Heartbeats;[4][B][R]
-ZNR;242;Zareth San, the Trickster;[3][U][B]
-ZNR;243;Cliffhaven Kitesail;[1]
-ZNR;244;Forsaken Monument;[5]
-ZNR;245;Lithoform Engine;[4]
-ZNR;246;Myriad Construct;[4]
-ZNR;247;Relic Amulet;[2]
-ZNR;248;Relic Axe;[2]
-ZNR;249;Relic Golem;[3]
-ZNR;250;Relic Vial;[3]
-ZNR;251;Sea Gate Colossus;[7]
-ZNR;252;Skyclave Relic;[3]
-ZNR;253;Skyclave Sentinel;[3]
-ZNR;254;Spare Supplies;[2]
-ZNR;255;Stonework Packbeast;[2]
-ZNR;256;Utility Knife;[1]
-ZNR;257;Base Camp;
-ZNR;258;Branchloft Pathway // Boulderloft Pathway;
-ZNR;259;Brightclimb Pathway // Grimclimb Pathway;
-ZNR;260;Clearwater Pathway // Murkwater Pathway;
-ZNR;261;Cragcrown Pathway // Timbercrown Pathway;
-ZNR;262;Crawling Barrens;
-ZNR;263;Needleverge Pathway // Pillarverge Pathway;
-ZNR;264;Riverglide Pathway // Lavaglide Pathway;
-ZNR;265;Throne of Makindi;
-ZNR;266;Plains;
-ZNR;267;Plains;
-ZNR;268;Plains;
-ZNR;269;Island;
-ZNR;270;Island;
-ZNR;271;Island;
-ZNR;272;Swamp;
-ZNR;273;Swamp;
-ZNR;274;Swamp;
-ZNR;275;Mountain;
-ZNR;276;Mountain;
-ZNR;277;Mountain;
-ZNR;278;Forest;
-ZNR;279;Forest;
-ZNR;280;Forest;
-ZNR;281;Jace, Mirror Mage;[1][U][U]
-ZNR;282;Nahiri, Heir of the Ancients;[2][R][W]
-ZNR;283;Nissa of Shadowed Boughs;[2][B][G]
-ZNR;284;Branchloft Pathway // Boulderloft Pathway;
-ZNR;285;Brightclimb Pathway // Grimclimb Pathway;
-ZNR;286;Clearwater Pathway // Murkwater Pathway;
-ZNR;287;Cragcrown Pathway // Timbercrown Pathway;
-ZNR;288;Needleverge Pathway // Pillarverge Pathway;
-ZNR;288†;Needleverge Pathway // Pillarverge Pathway;
-ZNR;289;Riverglide Pathway // Lavaglide Pathway;
-ZNR;290;Canyon Jerboa;[2][W]
-ZNR;291;Fearless Fledgling;[1][W]
-ZNR;292;Felidar Retreat;[3][W]
-ZNR;293;Makindi Ox;[4][W]
-ZNR;294;Prowling Felidar;[3][W]
-ZNR;295;Ruin Crab;[U]
-ZNR;296;Skyclave Squid;[1][U]
-ZNR;297;Dreadwurm;[4][B]
-ZNR;298;Skyclave Shade;[1][B]
-ZNR;299;Akoum Hellhound;[R]
-ZNR;300;Moraug, Fury of Akoum;[4][R][R]
-ZNR;301;Skyclave Geopede;[2][R]
-ZNR;302;Spitfire Lagac;[3][R]
-ZNR;303;Valakut Exploration;[2][R]
-ZNR;304;Canopy Baloth;[3][G]
-ZNR;305;Kazandu Mammoth // Kazandu Valley;[1][G][G]
-ZNR;306;Kazandu Nectarpot;[1][G]
-ZNR;307;Lotus Cobra;[1][G]
-ZNR;308;Scute Swarm;[2][G]
-ZNR;309;Skyclave Pick-Axe;[G]
-ZNR;310;Territorial Scythecat;[2][G]
-ZNR;311;Brushfire Elemental;[R][G]
-ZNR;312;Omnath, Locus of Creation;[R][G][W][U]
-ZNR;313;Phylath, World Sculptor;[4][R][G]
-ZNR;314;Angel of Destiny;[3][W][W]
-ZNR;315;Archon of Emeria;[2][W]
-ZNR;316;Archpriest of Iona;[W]
-ZNR;317;Emeria's Call // Emeria, Shattered Skyclave;[4][W][W][W]
-ZNR;318;Legion Angel;[2][W][W]
-ZNR;319;Luminarch Aspirant;[1][W]
-ZNR;320;Maul of the Skyclaves;[2][W]
-ZNR;321;Ondu Inversion // Ondu Skyruins;[6][W][W]
-ZNR;322;Skyclave Apparition;[1][W][W]
-ZNR;323;Squad Commander;[3][W]
-ZNR;324;Tazri, Beacon of Unity;[4][W]
-ZNR;325;Charix, the Raging Isle;[2][U][U]
-ZNR;326;Confounding Conundrum;[1][U]
-ZNR;327;Coralhelm Chronicler;[2][U]
-ZNR;328;Glasspool Mimic // Glasspool Shore;[2][U]
-ZNR;329;Inscription of Insight;[3][U]
-ZNR;330;Maddening Cacophony;[1][U]
-ZNR;331;Master of Winds;[2][U][U]
-ZNR;332;Nimble Trapfinder;[1][U]
-ZNR;333;Sea Gate Restoration // Sea Gate, Reborn;[4][U][U][U]
-ZNR;334;Sea Gate Stormcaller;[1][U]
-ZNR;335;Thieving Skydiver;[1][U]
-ZNR;336;Agadeem's Awakening // Agadeem, the Undercrypt;[X][B][B][B]
-ZNR;337;Coveted Prize;[4][B]
-ZNR;338;Drana, the Last Bloodchief;[3][B][B]
-ZNR;339;Hagra Mauling // Hagra Broodpit;[2][B][B]
-ZNR;340;Inscription of Ruin;[2][B]
-ZNR;341;Nighthawk Scavenger;[1][B][B]
-ZNR;342;Nullpriest of Oblivion;[1][B]
-ZNR;343;Scourge of the Skyclaves;[1][B]
-ZNR;344;Shadows' Verdict;[3][B][B]
-ZNR;345;Soul Shatter;[2][B]
-ZNR;346;Taborax, Hope's Demise;[2][B]
-ZNR;347;Kargan Intimidator;[1][R]
-ZNR;348;Leyline Tyrant;[2][R][R]
-ZNR;349;Magmatic Channeler;[1][R]
-ZNR;350;Nahiri's Lithoforming;[X][R][R]
-ZNR;351;Relic Robber;[2][R]
-ZNR;352;Roiling Vortex;[1][R]
-ZNR;353;Shatterskull Charger;[1][R][R]
-ZNR;354;Shatterskull Smashing // Shatterskull, the Hammer Pass;[X][R][R]
-ZNR;355;Valakut Awakening // Valakut Stoneforge;[2][R]
-ZNR;356;Wayward Guide-Beast;[R]
-ZNR;357;Ancient Greenwarden;[4][G][G]
-ZNR;358;Ashaya, Soul of the Wild;[3][G][G]
-ZNR;359;Cragplate Baloth;[5][G][G]
-ZNR;360;Inscription of Abundance;[1][G]
-ZNR;361;Oran-Rief Ooze;[2][G]
-ZNR;362;Swarm Shambler;[G]
-ZNR;363;Tajuru Paragon;[1][G]
-ZNR;364;Turntimber Symbiosis // Turntimber, Serpentine Wood;[4][G][G][G]
-ZNR;365;Akiri, Fearless Voyager;[1][R][W]
-ZNR;366;Grakmaw, Skyclave Ravager;[1][B][G]
-ZNR;367;Kaza, Roil Chaser;[U][R]
-ZNR;368;Linvala, Shield of Sea Gate;[1][W][U]
-ZNR;369;Orah, Skyclave Hierophant;[2][W][B]
-ZNR;370;Verazol, the Split Current;[X][G][U]
-ZNR;371;Yasharn, Implacable Earth;[2][G][W]
-ZNR;372;Zagras, Thief of Heartbeats;[4][B][R]
-ZNR;373;Zareth San, the Trickster;[3][U][B]
-ZNR;374;Forsaken Monument;[5]
-ZNR;375;Lithoform Engine;[4]
-ZNR;376;Myriad Construct;[4]
-ZNR;377;Skyclave Relic;[3]
-ZNR;378;Crawling Barrens;
-ZNR;379;Throne of Makindi;
-ZNR;380;Plains;
-ZNR;381;Island;
-ZNR;382;Swamp;
-ZNR;383;Mountain;
-ZNR;384;Forest;
-ZNR;385;Orah, Skyclave Hierophant;[2][W][B]
-ZNR;386;Charix, the Raging Isle;[2][U][U]
-ZNR;387;Into the Roil;[1][U]
-ZNR;388;Bloodchief's Thirst;[B]
-ZNR;389;Roil Eruption;[1][R]
-ZNR;390;Roiling Regrowth;[2][G]
-ZNR;391;Kargan Warleader;[1][R][W]
+set;number;name;cost;rarity
+ZNR;1;Allied Assault;[2][W];U
+ZNR;2;Angel of Destiny;[3][W][W];M
+ZNR;3;Angelheart Protector;[2][W];C
+ZNR;4;Archon of Emeria;[2][W];R
+ZNR;5;Archpriest of Iona;[W];R
+ZNR;6;Attended Healer;[3][W];U
+ZNR;7;Canyon Jerboa;[2][W];U
+ZNR;8;Cliffhaven Sell-Sword;[1][W];C
+ZNR;9;Dauntless Unity;[1][W];C
+ZNR;10;Disenchant;[1][W];C
+ZNR;11;Emeria Captain;[3][W];U
+ZNR;12;Emeria's Call // Emeria, Shattered Skyclave;[4][W][W][W];M
+ZNR;13;Expedition Healer;[1][W];C
+ZNR;14;Farsight Adept;[2][W];C
+ZNR;15;Fearless Fledgling;[1][W];U
+ZNR;16;Felidar Retreat;[3][W];R
+ZNR;17;Journey to Oblivion;[4][W];U
+ZNR;18;Kabira Outrider;[3][W];C
+ZNR;19;Kabira Takedown // Kabira Plateau;[1][W];U
+ZNR;20;Kitesail Cleric;[W];U
+ZNR;21;Kor Blademaster;[1][W];U
+ZNR;22;Kor Celebrant;[2][W];C
+ZNR;23;Legion Angel;[2][W][W];R
+ZNR;24;Luminarch Aspirant;[1][W];R
+ZNR;A-24;A-Luminarch Aspirant;[1][W];R
+ZNR;25;Makindi Ox;[4][W];C
+ZNR;26;Makindi Stampede // Makindi Mesas;[3][W][W];U
+ZNR;27;Maul of the Skyclaves;[2][W];R
+ZNR;28;Mesa Lynx;[1][W];C
+ZNR;29;Nahiri's Binding;[1][W][W];C
+ZNR;30;Ondu Inversion // Ondu Skyruins;[6][W][W];R
+ZNR;31;Paired Tactician;[2][W];U
+ZNR;32;Practiced Tactics;[W];C
+ZNR;33;Pressure Point;[1][W];C
+ZNR;34;Prowling Felidar;[3][W];C
+ZNR;35;Resolute Strike;[W];C
+ZNR;36;Sea Gate Banneret;[W];C
+ZNR;37;Sejiri Shelter // Sejiri Glacier;[1][W];U
+ZNR;38;Shepherd of Heroes;[4][W];C
+ZNR;39;Skyclave Apparition;[1][W][W];R
+ZNR;40;Skyclave Cleric // Skyclave Basilica;[1][W];U
+ZNR;41;Squad Commander;[3][W];R
+ZNR;42;Smite the Monstrous;[3][W];C
+ZNR;43;Tazeem Raptor;[2][W];C
+ZNR;44;Tazri, Beacon of Unity;[4][W];M
+ZNR;45;Anticognition;[1][U];C
+ZNR;46;Beyeen Veil // Beyeen Coast;[1][U];U
+ZNR;47;Bubble Snare;[U];C
+ZNR;48;Cascade Seer;[3][U];C
+ZNR;49;Charix, the Raging Isle;[2][U][U];R
+ZNR;50;Chilling Trap;[U];C
+ZNR;51;Cleric of Chill Depths;[1][U];C
+ZNR;52;Concerted Defense;[U];U
+ZNR;53;Confounding Conundrum;[1][U];R
+ZNR;54;Coralhelm Chronicler;[2][U];R
+ZNR;55;Cunning Geysermage;[2][U];C
+ZNR;56;Deliberate;[1][U];C
+ZNR;57;Expedition Diviner;[3][U];C
+ZNR;58;Field Research;[2][U];C
+ZNR;59;Glacial Grasp;[2][U];C
+ZNR;60;Glasspool Mimic // Glasspool Shore;[2][U];R
+ZNR;61;Inscription of Insight;[3][U];R
+ZNR;62;Into the Roil;[1][U];C
+ZNR;63;Jace, Mirror Mage;[1][U][U];M
+ZNR;64;Jwari Disruption // Jwari Ruins;[1][U];U
+ZNR;65;Living Tempest;[4][U];C
+ZNR;66;Lullmage's Domination;[X][U][U][U];U
+ZNR;67;Maddening Cacophony;[1][U];R
+ZNR;68;Master of Winds;[2][U][U];R
+ZNR;69;Merfolk Falconer;[3][U][U];U
+ZNR;70;Merfolk Windrobber;[U];U
+ZNR;71;Negate;[1][U];C
+ZNR;72;Nimble Trapfinder;[1][U];R
+ZNR;73;Risen Riptide;[2][U];C
+ZNR;74;Roost of Drakes;[U];U
+ZNR;75;Ruin Crab;[U];U
+ZNR;76;Sea Gate Restoration // Sea Gate, Reborn;[4][U][U][U];M
+ZNR;77;Sea Gate Stormcaller;[1][U];M
+ZNR;78;Seafloor Stalker;[2][U];C
+ZNR;79;Shell Shield;[U];C
+ZNR;80;Silundi Vision // Silundi Isle;[2][U];U
+ZNR;81;Skyclave Plunder;[4][U];U
+ZNR;82;Skyclave Squid;[1][U];C
+ZNR;83;Sure-Footed Infiltrator;[3][U];U
+ZNR;84;Tazeem Roilmage;[1][U];C
+ZNR;85;Thieving Skydiver;[1][U];R
+ZNR;86;Umara Wizard // Umara Skyfalls;[4][U];U
+ZNR;87;Windrider Wizard;[2][U];U
+ZNR;88;Zulaport Duelist;[U];C
+ZNR;89;Acquisitions Expert;[1][B];U
+ZNR;90;Agadeem's Awakening // Agadeem, the Undercrypt;[X][B][B][B];M
+ZNR;91;Blackbloom Rogue // Blackbloom Bog;[2][B];U
+ZNR;92;Blood Beckoning;[B];C
+ZNR;93;Blood Price;[3][B];C
+ZNR;94;Bloodchief's Thirst;[B];U
+ZNR;95;Coveted Prize;[4][B];R
+ZNR;96;Deadly Alliance;[4][B];C
+ZNR;97;Demon's Disciple;[2][B];U
+ZNR;98;Drana, the Last Bloodchief;[3][B][B];M
+ZNR;99;Drana's Silencer;[5][B];C
+ZNR;100;Dreadwurm;[4][B];C
+ZNR;101;Expedition Skulker;[1][B];C
+ZNR;102;Feed the Swarm;[1][B];C
+ZNR;103;Ghastly Gloomhunter;[1][B];C
+ZNR;104;Guul Draz Mucklord;[2][B];C
+ZNR;105;Hagra Constrictor;[2][B];C
+ZNR;106;Hagra Mauling // Hagra Broodpit;[2][B][B];R
+ZNR;107;Highborn Vampire;[3][B];C
+ZNR;108;Inscription of Ruin;[2][B];R
+ZNR;109;Lithoform Blight;[1][B];U
+ZNR;110;Malakir Blood-Priest;[1][B];C
+ZNR;111;Malakir Rebirth // Malakir Mire;[B];U
+ZNR;112;Marauding Blight-Priest;[2][B];C
+ZNR;113;Mind Carver;[B];U
+ZNR;114;Mind Drain;[2][B];C
+ZNR;115;Nighthawk Scavenger;[1][B][B];R
+ZNR;116;Nimana Skitter-Sneak;[3][B];C
+ZNR;117;Nimana Skydancer;[2][B];C
+ZNR;118;Nullpriest of Oblivion;[1][B];R
+ZNR;119;Oblivion's Hunger;[1][B];C
+ZNR;120;Pelakka Predation // Pelakka Caverns;[2][B];U
+ZNR;121;Scion of the Swarm;[3][B][B];U
+ZNR;122;Scourge of the Skyclaves;[1][B];M
+ZNR;123;Shadow Stinger;[2][B];U
+ZNR;124;Shadows' Verdict;[3][B][B];R
+ZNR;125;Skyclave Shade;[1][B];R
+ZNR;126;Skyclave Shadowcat;[3][B];U
+ZNR;127;Soul Shatter;[2][B];R
+ZNR;128;Subtle Strike;[1][B];C
+ZNR;129;Taborax, Hope's Demise;[2][B];R
+ZNR;130;Thwart the Grave;[4][B][B];U
+ZNR;131;Vanquish the Weak;[2][B];C
+ZNR;132;Zof Consumption // Zof Bloodbog;[4][B][B];U
+ZNR;133;Akoum Hellhound;[R];C
+ZNR;134;Akoum Warrior // Akoum Teeth;[5][R];U
+ZNR;135;Ardent Electromancer;[2][R];C
+ZNR;136;Cinderclasm;[1][R];U
+ZNR;137;Cleansing Wildfire;[1][R];C
+ZNR;138;Expedition Champion;[2][R];C
+ZNR;139;Fireblade Charger;[R];U
+ZNR;140;Fissure Wizard;[1][R];C
+ZNR;141;Goma Fada Vanguard;[1][R];U
+ZNR;142;Grotag Bug-Catcher;[1][R];C
+ZNR;143;Grotag Night-Runner;[2][R];U
+ZNR;144;Inordinate Rage;[1][R];C
+ZNR;145;Kargan Intimidator;[1][R];R
+ZNR;146;Kazuul's Fury // Kazuul's Cliffs;[2][R];U
+ZNR;147;Leyline Tyrant;[2][R][R];M
+ZNR;148;Magmatic Channeler;[1][R];R
+ZNR;149;Molten Blast;[2][R];C
+ZNR;150;Moraug, Fury of Akoum;[4][R][R];M
+ZNR;151;Nahiri's Lithoforming;[X][R][R];R
+ZNR;152;Pyroclastic Hellion;[4][R];C
+ZNR;153;Relic Robber;[2][R];R
+ZNR;154;Rockslide Sorcerer;[3][R];U
+ZNR;155;Roil Eruption;[1][R];C
+ZNR;156;Roiling Vortex;[1][R];R
+ZNR;157;Scavenged Blade;[1][R];C
+ZNR;158;Scorch Rider;[3][R];C
+ZNR;159;Shatterskull Charger;[1][R][R];R
+ZNR;160;Shatterskull Minotaur;[4][R][R];U
+ZNR;161;Shatterskull Smashing // Shatterskull, the Hammer Pass;[X][R][R];M
+ZNR;162;Sizzling Barrage;[1][R];C
+ZNR;163;Skyclave Geopede;[2][R];U
+ZNR;164;Sneaking Guide;[R];C
+ZNR;165;Song-Mad Treachery // Song-Mad Ruins;[3][R][R];U
+ZNR;166;Spikefield Hazard // Spikefield Cave;[R];U
+ZNR;167;Spitfire Lagac;[3][R];C
+ZNR;168;Synchronized Spellcraft;[4][R];C
+ZNR;169;Teeterpeak Ambusher;[1][R];C
+ZNR;170;Thundering Rebuke;[1][R];U
+ZNR;171;Thundering Sparkmage;[3][R];U
+ZNR;172;Tormenting Voice;[1][R];C
+ZNR;173;Tuktuk Rubblefort;[2][R];C
+ZNR;174;Valakut Awakening // Valakut Stoneforge;[2][R];R
+ZNR;175;Valakut Exploration;[2][R];R
+ZNR;176;Wayward Guide-Beast;[R];R
+ZNR;177;Adventure Awaits;[1][G];C
+ZNR;178;Ancient Greenwarden;[4][G][G];M
+ZNR;179;Ashaya, Soul of the Wild;[3][G][G];M
+ZNR;180;Bala Ged Recovery // Bala Ged Sanctuary;[2][G];U
+ZNR;181;Broken Wings;[2][G];C
+ZNR;182;Canopy Baloth;[3][G];C
+ZNR;183;Cragplate Baloth;[5][G][G];R
+ZNR;184;Dauntless Survivor;[1][G];C
+ZNR;185;Gnarlid Colony;[1][G];C
+ZNR;186;Inscription of Abundance;[1][G];R
+ZNR;187;Iridescent Hornbeetle;[4][G];U
+ZNR;188;Joraga Visionary;[3][G];C
+ZNR;189;Kazandu Mammoth // Kazandu Valley;[1][G][G];R
+ZNR;190;Kazandu Nectarpot;[1][G];C
+ZNR;191;Kazandu Stomper;[5][G];C
+ZNR;192;Khalni Ambush // Khalni Territory;[2][G];U
+ZNR;193;Lotus Cobra;[1][G];R
+ZNR;194;Might of Murasa;[1][G];C
+ZNR;195;Murasa Brute;[2][G];C
+ZNR;196;Murasa Sproutling;[2][G];U
+ZNR;197;Nissa's Zendikon;[3][G];C
+ZNR;198;Oran-Rief Ooze;[2][G];R
+ZNR;199;Rabid Bite;[1][G];C
+ZNR;200;Reclaim the Wastes;[G];C
+ZNR;201;Roiling Regrowth;[2][G];U
+ZNR;202;Scale the Heights;[2][G];C
+ZNR;203;Scute Swarm;[2][G];R
+ZNR;204;Skyclave Pick-Axe;[G];U
+ZNR;205;Springmantle Cleric;[4][G];U
+ZNR;206;Strength of Solidarity;[G];C
+ZNR;207;Swarm Shambler;[G];R
+ZNR;208;Tajuru Blightblade;[G];C
+ZNR;209;Tajuru Paragon;[1][G];R
+ZNR;210;Tajuru Snarecaster;[2][G];C
+ZNR;211;Tangled Florahedron // Tangled Vale;[1][G];U
+ZNR;212;Taunting Arbormage;[2][G];U
+ZNR;213;Territorial Scythecat;[2][G];C
+ZNR;214;Turntimber Ascetic;[4][G];C
+ZNR;215;Turntimber Symbiosis // Turntimber, Serpentine Wood;[4][G][G][G];M
+ZNR;216;Vastwood Fortification // Vastwood Thicket;[G];U
+ZNR;217;Vastwood Surge;[3][G];U
+ZNR;218;Veteran Adventurer;[5][G];U
+ZNR;219;Vine Gecko;[1][G];U
+ZNR;220;Akiri, Fearless Voyager;[1][R][W];R
+ZNR;221;Brushfire Elemental;[R][G];U
+ZNR;222;Cleric of Life's Bond;[W][B];U
+ZNR;223;Grakmaw, Skyclave Ravager;[1][B][G];R
+ZNR;224;Kargan Warleader;[1][R][W];U
+ZNR;225;Kaza, Roil Chaser;[U][R];R
+ZNR;226;Linvala, Shield of Sea Gate;[1][W][U];R
+ZNR;227;Lullmage's Familiar;[1][G][U];U
+ZNR;228;Moss-Pit Skeleton;[B][G];U
+ZNR;229;Murasa Rootgrazer;[G][W];U
+ZNR;230;Nahiri, Heir of the Ancients;[2][R][W];M
+ZNR;231;Nissa of Shadowed Boughs;[2][B][G];M
+ZNR;232;Omnath, Locus of Creation;[R][G][W][U];M
+ZNR;A-232;A-Omnath, Locus of Creation;[1][R][G][W][U];M
+ZNR;233;Orah, Skyclave Hierophant;[2][W][B];R
+ZNR;234;Phylath, World Sculptor;[4][R][G];R
+ZNR;A-234;A-Phylath, World Sculptor;[4][R][G];R
+ZNR;235;Ravager's Mace;[1][B][R];U
+ZNR;236;Soaring Thought-Thief;[U][B];U
+ZNR;237;Spoils of Adventure;[4][W][U];U
+ZNR;238;Umara Mystic;[1][U][R];U
+ZNR;239;Verazol, the Split Current;[X][G][U];R
+ZNR;240;Yasharn, Implacable Earth;[2][G][W];R
+ZNR;241;Zagras, Thief of Heartbeats;[4][B][R];R
+ZNR;242;Zareth San, the Trickster;[3][U][B];R
+ZNR;243;Cliffhaven Kitesail;[1];C
+ZNR;244;Forsaken Monument;[5];M
+ZNR;245;Lithoform Engine;[4];M
+ZNR;246;Myriad Construct;[4];R
+ZNR;247;Relic Amulet;[2];U
+ZNR;248;Relic Axe;[2];U
+ZNR;249;Relic Golem;[3];U
+ZNR;250;Relic Vial;[3];U
+ZNR;251;Sea Gate Colossus;[7];C
+ZNR;252;Skyclave Relic;[3];R
+ZNR;253;Skyclave Sentinel;[3];C
+ZNR;254;Spare Supplies;[2];C
+ZNR;255;Stonework Packbeast;[2];C
+ZNR;256;Utility Knife;[1];C
+ZNR;257;Base Camp;;U
+ZNR;258;Branchloft Pathway // Boulderloft Pathway;;R
+ZNR;259;Brightclimb Pathway // Grimclimb Pathway;;R
+ZNR;260;Clearwater Pathway // Murkwater Pathway;;R
+ZNR;261;Cragcrown Pathway // Timbercrown Pathway;;R
+ZNR;262;Crawling Barrens;;R
+ZNR;263;Needleverge Pathway // Pillarverge Pathway;;R
+ZNR;264;Riverglide Pathway // Lavaglide Pathway;;R
+ZNR;265;Throne of Makindi;;R
+ZNR;266;Plains;;C
+ZNR;267;Plains;;C
+ZNR;268;Plains;;C
+ZNR;269;Island;;C
+ZNR;270;Island;;C
+ZNR;271;Island;;C
+ZNR;272;Swamp;;C
+ZNR;273;Swamp;;C
+ZNR;274;Swamp;;C
+ZNR;275;Mountain;;C
+ZNR;276;Mountain;;C
+ZNR;277;Mountain;;C
+ZNR;278;Forest;;C
+ZNR;279;Forest;;C
+ZNR;280;Forest;;C
+ZNR;281;Jace, Mirror Mage;[1][U][U];M
+ZNR;282;Nahiri, Heir of the Ancients;[2][R][W];M
+ZNR;283;Nissa of Shadowed Boughs;[2][B][G];M
+ZNR;284;Branchloft Pathway // Boulderloft Pathway;;R
+ZNR;285;Brightclimb Pathway // Grimclimb Pathway;;R
+ZNR;286;Clearwater Pathway // Murkwater Pathway;;R
+ZNR;287;Cragcrown Pathway // Timbercrown Pathway;;R
+ZNR;288;Needleverge Pathway // Pillarverge Pathway;;R
+ZNR;288†;Needleverge Pathway // Pillarverge Pathway;;R
+ZNR;289;Riverglide Pathway // Lavaglide Pathway;;R
+ZNR;290;Canyon Jerboa;[2][W];U
+ZNR;291;Fearless Fledgling;[1][W];U
+ZNR;292;Felidar Retreat;[3][W];R
+ZNR;293;Makindi Ox;[4][W];C
+ZNR;294;Prowling Felidar;[3][W];C
+ZNR;295;Ruin Crab;[U];U
+ZNR;296;Skyclave Squid;[1][U];C
+ZNR;297;Dreadwurm;[4][B];C
+ZNR;298;Skyclave Shade;[1][B];R
+ZNR;299;Akoum Hellhound;[R];C
+ZNR;300;Moraug, Fury of Akoum;[4][R][R];M
+ZNR;301;Skyclave Geopede;[2][R];U
+ZNR;302;Spitfire Lagac;[3][R];C
+ZNR;303;Valakut Exploration;[2][R];R
+ZNR;304;Canopy Baloth;[3][G];C
+ZNR;305;Kazandu Mammoth // Kazandu Valley;[1][G][G];R
+ZNR;306;Kazandu Nectarpot;[1][G];C
+ZNR;307;Lotus Cobra;[1][G];R
+ZNR;308;Scute Swarm;[2][G];R
+ZNR;309;Skyclave Pick-Axe;[G];U
+ZNR;310;Territorial Scythecat;[2][G];C
+ZNR;311;Brushfire Elemental;[R][G];U
+ZNR;312;Omnath, Locus of Creation;[R][G][W][U];M
+ZNR;313;Phylath, World Sculptor;[4][R][G];R
+ZNR;314;Angel of Destiny;[3][W][W];M
+ZNR;315;Archon of Emeria;[2][W];R
+ZNR;316;Archpriest of Iona;[W];R
+ZNR;317;Emeria's Call // Emeria, Shattered Skyclave;[4][W][W][W];M
+ZNR;318;Legion Angel;[2][W][W];R
+ZNR;319;Luminarch Aspirant;[1][W];R
+ZNR;320;Maul of the Skyclaves;[2][W];R
+ZNR;321;Ondu Inversion // Ondu Skyruins;[6][W][W];R
+ZNR;322;Skyclave Apparition;[1][W][W];R
+ZNR;323;Squad Commander;[3][W];R
+ZNR;324;Tazri, Beacon of Unity;[4][W];M
+ZNR;325;Charix, the Raging Isle;[2][U][U];R
+ZNR;326;Confounding Conundrum;[1][U];R
+ZNR;327;Coralhelm Chronicler;[2][U];R
+ZNR;328;Glasspool Mimic // Glasspool Shore;[2][U];R
+ZNR;329;Inscription of Insight;[3][U];R
+ZNR;330;Maddening Cacophony;[1][U];R
+ZNR;331;Master of Winds;[2][U][U];R
+ZNR;332;Nimble Trapfinder;[1][U];R
+ZNR;333;Sea Gate Restoration // Sea Gate, Reborn;[4][U][U][U];M
+ZNR;334;Sea Gate Stormcaller;[1][U];M
+ZNR;335;Thieving Skydiver;[1][U];R
+ZNR;336;Agadeem's Awakening // Agadeem, the Undercrypt;[X][B][B][B];M
+ZNR;337;Coveted Prize;[4][B];R
+ZNR;338;Drana, the Last Bloodchief;[3][B][B];M
+ZNR;339;Hagra Mauling // Hagra Broodpit;[2][B][B];R
+ZNR;340;Inscription of Ruin;[2][B];R
+ZNR;341;Nighthawk Scavenger;[1][B][B];R
+ZNR;342;Nullpriest of Oblivion;[1][B];R
+ZNR;343;Scourge of the Skyclaves;[1][B];M
+ZNR;344;Shadows' Verdict;[3][B][B];R
+ZNR;345;Soul Shatter;[2][B];R
+ZNR;346;Taborax, Hope's Demise;[2][B];R
+ZNR;347;Kargan Intimidator;[1][R];R
+ZNR;348;Leyline Tyrant;[2][R][R];M
+ZNR;349;Magmatic Channeler;[1][R];R
+ZNR;350;Nahiri's Lithoforming;[X][R][R];R
+ZNR;351;Relic Robber;[2][R];R
+ZNR;352;Roiling Vortex;[1][R];R
+ZNR;353;Shatterskull Charger;[1][R][R];R
+ZNR;354;Shatterskull Smashing // Shatterskull, the Hammer Pass;[X][R][R];M
+ZNR;355;Valakut Awakening // Valakut Stoneforge;[2][R];R
+ZNR;356;Wayward Guide-Beast;[R];R
+ZNR;357;Ancient Greenwarden;[4][G][G];M
+ZNR;358;Ashaya, Soul of the Wild;[3][G][G];M
+ZNR;359;Cragplate Baloth;[5][G][G];R
+ZNR;360;Inscription of Abundance;[1][G];R
+ZNR;361;Oran-Rief Ooze;[2][G];R
+ZNR;362;Swarm Shambler;[G];R
+ZNR;363;Tajuru Paragon;[1][G];R
+ZNR;364;Turntimber Symbiosis // Turntimber, Serpentine Wood;[4][G][G][G];M
+ZNR;365;Akiri, Fearless Voyager;[1][R][W];R
+ZNR;366;Grakmaw, Skyclave Ravager;[1][B][G];R
+ZNR;367;Kaza, Roil Chaser;[U][R];R
+ZNR;368;Linvala, Shield of Sea Gate;[1][W][U];R
+ZNR;369;Orah, Skyclave Hierophant;[2][W][B];R
+ZNR;370;Verazol, the Split Current;[X][G][U];R
+ZNR;371;Yasharn, Implacable Earth;[2][G][W];R
+ZNR;372;Zagras, Thief of Heartbeats;[4][B][R];R
+ZNR;373;Zareth San, the Trickster;[3][U][B];R
+ZNR;374;Forsaken Monument;[5];M
+ZNR;375;Lithoform Engine;[4];M
+ZNR;376;Myriad Construct;[4];R
+ZNR;377;Skyclave Relic;[3];R
+ZNR;378;Crawling Barrens;;R
+ZNR;379;Throne of Makindi;;R
+ZNR;380;Plains;;C
+ZNR;381;Island;;C
+ZNR;382;Swamp;;C
+ZNR;383;Mountain;;C
+ZNR;384;Forest;;C
+ZNR;385;Orah, Skyclave Hierophant;[2][W][B];R
+ZNR;386;Charix, the Raging Isle;[2][U][U];R
+ZNR;387;Into the Roil;[1][U];C
+ZNR;388;Bloodchief's Thirst;[B];U
+ZNR;389;Roil Eruption;[1][R];C
+ZNR;390;Roiling Regrowth;[2][G];U
+ZNR;391;Kargan Warleader;[1][R][W];U

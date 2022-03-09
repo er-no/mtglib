@@ -10,8 +10,10 @@ class MyHTMLParser(HTMLParser):
     temporary_ignore = False
     collect_data = False
     data = ""
-    cols = 0
-    max_cols = 4
+    current_col = 0
+    # 0 = set, 1 = number, 2 = name, 3 = cost, 4 = type, 5 = rarity, 6 = language, 7 = artist....
+    read_cols = [0, 1, 2, 3, 5]
+    max_cols = 6
     return_string = ""
 
     def flush_data(self):
@@ -27,10 +29,10 @@ class MyHTMLParser(HTMLParser):
 
         if self.inside_table and tag == "tr":
             self.collect_data = True
-            self.cols = 0
+            self.current_col = 0
 
         if self.inside_table and tag == "td":
-            self.cols += 1
+            self.current_col += 1
 
     def handle_endtag(self, tag):
         if tag == "table":
@@ -46,9 +48,8 @@ class MyHTMLParser(HTMLParser):
             self.flush_data()
 
         if self.inside_table and tag == "td":
-            if self.cols >= self.max_cols:
-                self.collect_data = False
-            else:
+            self.collect_data = self.current_col in self.read_cols
+            if self.collect_data:
                 self.data += ";"
 
     def handle_data(self, data):
@@ -79,7 +80,7 @@ def scrape(url):
 def main(set_code, file):
     print("will fetch data for: ", set_code)
     url = "https://scryfall.com/sets/" + set_code.lower() + "?dir=asc&as=checklist"
-    csv_header = "set;number;name;cost\n"
+    csv_header = "set;number;name;cost;rarity\n"
     csv_body = scrape(url).strip() + "\n"
     file.write(csv_header + csv_body)
     print("data compiled, written to: " + file.name)

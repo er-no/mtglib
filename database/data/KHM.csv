@@ -1,415 +1,415 @@
-set;number;name;cost
-KHM;1;Axgard Braggart;[3][W]
-KHM;2;Battershield Warrior;[2][W]
-KHM;3;Battlefield Raptor;[W]
-KHM;4;Beskir Shieldmate;[1][W]
-KHM;5;Bound in Gold;[2][W]
-KHM;6;Clarion Spirit;[1][W]
-KHM;7;Codespell Cleric;[W]
-KHM;8;Divine Gambit;[W][W]
-KHM;9;Doomskar;[3][W][W]
-KHM;10;Doomskar Oracle;[2][W]
-KHM;11;Giant Ox;[1][W]
-KHM;12;Glorious Protector;[2][W][W]
-KHM;13;Gods' Hall Guardian;[5][W]
-KHM;14;Goldmaw Champion;[2][W]
-KHM;15;Halvar, God of Battle // Sword of the Realms;[2][W][W]//[1][W]
-KHM;16;Invoke the Divine;[2][W]
-KHM;17;Iron Verdict;[2][W]
-KHM;18;Kaya's Onslaught;[2][W]
-KHM;19;Master Skald;[4][W]
-KHM;20;Rally the Ranks;[1][W]
-KHM;21;Reidane, God of the Worthy // Valkmira, Protector's Shield;[2][W]//[3][W]
-KHM;22;Resplendent Marshal;[1][W][W]
-KHM;23;Revitalize;[1][W]
-KHM;24;Righteous Valkyrie;[2][W]
-KHM;25;Rune of Sustenance;[1][W]
-KHM;26;Runeforge Champion;[2][W]
-KHM;27;Search for Glory;[2][W]
-KHM;28;Shepherd of the Cosmos;[4][W][W]
-KHM;29;Sigrid, God-Favored;[1][W][W]
-KHM;30;Spectral Steel;[1][W]
-KHM;31;Stalwart Valkyrie;[3][W]
-KHM;32;Starnheim Courser;[2][W]
-KHM;33;Starnheim Unleashed;[2][W][W]
-KHM;34;Story Seeker;[1][W]
-KHM;35;Usher of the Fallen;[W]
-KHM;36;Valkyrie's Sword;[1][W]
-KHM;37;Valor of the Worthy;[W]
-KHM;38;Warhorn Blast;[4][W]
-KHM;39;Wings of the Cosmos;[W]
-KHM;40;Alrund, God of the Cosmos // Hakka, Whispering Raven;[3][U][U]//[1][U]
-KHM;A-40;A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven;[3][U][U]//[1][U]
-KHM;41;Alrund's Epiphany;[5][U][U]
-KHM;A-41;A-Alrund's Epiphany;[5][U][U]
-KHM;42;Annul;[U]
-KHM;43;Ascendant Spirit;[U]
-KHM;44;Augury Raven;[3][U]
-KHM;45;Avalanche Caller;[1][U]
-KHM;46;Behold the Multiverse;[3][U]
-KHM;47;Berg Strider;[4][U]
-KHM;48;Bind the Monster;[U]
-KHM;49;Brinebarrow Intruder;[U]
-KHM;50;Cosima, God of the Voyage // The Omenkeel;[2][U]//[1][U]
-KHM;51;Cosmos Charger;[3][U]
-KHM;A-51;A-Cosmos Charger;[2][U]
-KHM;52;Cyclone Summoner;[5][U][U]
-KHM;53;Depart the Realm;[1][U]
-KHM;54;Disdainful Stroke;[1][U]
-KHM;55;Draugr Thought-Thief;[2][U]
-KHM;56;Frost Augur;[U]
-KHM;57;Frostpeak Yeti;[3][U]
-KHM;58;Frostpyre Arcanist;[4][U]
-KHM;59;Giant's Amulet;[U]
-KHM;60;Glimpse the Cosmos;[1][U]
-KHM;61;Graven Lore;[3][U][U]
-KHM;62;Icebind Pillar;[2][U]
-KHM;63;Icebreaker Kraken;[10][U][U]
-KHM;64;Inga Rune-Eyes;[3][U]
-KHM;65;Karfell Harbinger;[1][U]
-KHM;66;Littjara Kinseekers;[3][U]
-KHM;67;Mists of Littjara;[1][U]
-KHM;68;Mistwalker;[2][U]
-KHM;69;Mystic Reflection;[1][U]
-KHM;70;Orvar, the All-Form;[3][U]
-KHM;71;Pilfering Hawk;[1][U]
-KHM;72;Ravenform;[2][U]
-KHM;73;Reflections of Littjara;[4][U]
-KHM;74;Run Ashore;[4][U][U]
-KHM;75;Rune of Flight;[1][U]
-KHM;76;Saw It Coming;[1][U][U]
-KHM;77;Strategic Planning;[1][U]
-KHM;78;Undersea Invader;[4][U][U]
-KHM;79;Blood on the Snow;[4][B][B]
-KHM;80;Bloodsky Berserker;[1][B]
-KHM;81;Burning-Rune Demon;[4][B][B]
-KHM;82;Crippling Fear;[2][B][B]
-KHM;83;Deathknell Berserker;[1][B]
-KHM;84;Demonic Gifts;[1][B]
-KHM;85;Dogged Pursuit;[3][B]
-KHM;86;Draugr Necromancer;[3][B]
-KHM;87;Draugr Recruiter;[3][B]
-KHM;88;Draugr's Helm;[1][B]
-KHM;89;Dread Rider;[5][B]
-KHM;90;Dream Devourer;[1][B]
-KHM;91;Duskwielder;[B]
-KHM;92;Egon, God of Death // Throne of Death;[2][B]//[B]
-KHM;93;Elderfang Disciple;[1][B]
-KHM;94;Eradicator Valkyrie;[2][B][B]
-KHM;95;Feed the Serpent;[2][B][B]
-KHM;96;Grim Draugr;[2][B]
-KHM;97;Hailstorm Valkyrie;[3][B]
-KHM;98;Haunting Voyage;[4][B][B]
-KHM;99;Infernal Pet;[2][B]
-KHM;100;Jarl of the Forsaken;[3][B]
-KHM;101;Karfell Kennel-Master;[4][B]
-KHM;102;Koma's Faithful;[2][B]
-KHM;103;Poison the Cup;[1][B][B]
-KHM;104;Priest of the Haunted Edge;[1][B]
-KHM;105;Raise the Draugr;[1][B]
-KHM;106;Return Upon the Tide;[4][B]
-KHM;107;Rise of the Dread Marn;[2][B]
-KHM;108;Rune of Mortality;[1][B]
-KHM;109;Skemfar Avenger;[1][B]
-KHM;110;Skemfar Shadowsage;[3][B]
-KHM;111;Skull Raid;[3][B]
-KHM;112;Tergrid, God of Fright // Tergrid's Lantern;[3][B][B]//[3][B]
-KHM;113;Tergrid's Shadow;[3][B][B]
-KHM;114;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R]
-KHM;115;Varragoth, Bloodsky Sire;[2][B]
-KHM;116;Vengeful Reaper;[3][B]
-KHM;117;Village Rites;[B]
-KHM;118;Weigh Down;[B]
-KHM;119;Withercrown;[1][B]
-KHM;120;Arni Brokenbrow;[2][R]
-KHM;121;Axgard Cavalry;[1][R]
-KHM;122;Basalt Ravager;[3][R]
-KHM;123;Birgi, God of Storytelling // Harnfel, Horn of Bounty;[2][R]//[4][R]
-KHM;124;Breakneck Berserker;[2][R]
-KHM;125;Calamity Bearer;[2][R][R]
-KHM;126;Cinderheart Giant;[5][R][R]
-KHM;127;Craven Hulk;[3][R]
-KHM;128;Crush the Weak;[2][R]
-KHM;129;Demon Bolt;[2][R]
-KHM;130;Doomskar Titan;[4][R][R]
-KHM;131;Dragonkin Berserker;[1][R]
-KHM;132;Dual Strike;[R][R]
-KHM;133;Dwarven Hammer;[2][R]
-KHM;134;Dwarven Reinforcements;[3][R]
-KHM;135;Fearless Liberator;[1][R]
-KHM;136;Fearless Pup;[R]
-KHM;137;Frenzied Raider;[1][R]
-KHM;138;Frost Bite;[R]
-KHM;139;Goldspan Dragon;[3][R][R]
-KHM;A-139;A-Goldspan Dragon;[3][R][R]
-KHM;140;Hagi Mob;[4][R]
-KHM;141;Immersturm Raider;[1][R]
-KHM;142;Magda, Brazen Outlaw;[1][R]
-KHM;143;Open the Omenpaths;[2][R]
-KHM;144;Provoke the Trolls;[3][R]
-KHM;145;Quakebringer;[3][R][R]
-KHM;146;Reckless Crew;[3][R]
-KHM;147;Run Amok;[1][R]
-KHM;148;Rune of Speed;[1][R]
-KHM;149;Seize the Spoils;[2][R]
-KHM;150;Shackles of Treachery;[2][R]
-KHM;151;Smashing Success;[3][R]
-KHM;152;Squash;[4][R]
-KHM;153;Tibalt's Trickery;[1][R]
-KHM;154;Toralf, God of Fury // Toralf's Hammer;[2][R][R]//[1][R]
-KHM;155;Tormentor's Helm;[R]
-KHM;156;Tundra Fumarole;[1][R][R]
-KHM;157;Tuskeri Firewalker;[2][R]
-KHM;158;Vault Robber;[1][R]
-KHM;159;Arachnoform;[1][G]
-KHM;160;Battle Mammoth;[3][G][G]
-KHM;161;Blessing of Frost;[3][G]
-KHM;162;Blizzard Brawl;[G]
-KHM;163;Boreal Outrider;[2][G]
-KHM;164;Broken Wings;[2][G]
-KHM;165;Elderleaf Mentor;[3][G]
-KHM;166;Elven Bow;[G]
-KHM;167;Elvish Warmaster;[1][G]
-KHM;168;Esika, God of the Tree // The Prismatic Bridge;[1][G][G]//[W][U][B][R][G]
-KHM;169;Esika's Chariot;[3][G]
-KHM;A-169;A-Esika's Chariot;[3][G]
-KHM;170;Fynn, the Fangbearer;[1][G]
-KHM;171;Glittering Frost;[2][G]
-KHM;172;Gnottvold Recluse;[2][G]
-KHM;173;Grizzled Outrider;[4][G]
-KHM;174;Guardian Gladewalker;[1][G]
-KHM;175;Horizon Seeker;[2][G]
-KHM;176;Icehide Troll;[2][G]
-KHM;177;In Search of Greatness;[G][G]
-KHM;178;Jaspera Sentinel;[G]
-KHM;179;Jorn, God of Winter // Kaldring, the Rimestaff;[2][G]//[1][U][B]
-KHM;180;King Harald's Revenge;[2][G]
-KHM;181;Kolvori, God of Kinship // The Ringhart Crest;[2][G][G]//[1][G]
-KHM;182;Littjara Glade-Warden;[3][G]
-KHM;183;Mammoth Growth;[2][G]
-KHM;184;Masked Vandal;[1][G]
-KHM;185;Old-Growth Troll;[G][G][G]
-KHM;186;Path to the World Tree;[1][G]
-KHM;187;Ravenous Lindwurm;[4][G][G]
-KHM;188;Realmwalker;[2][G]
-KHM;189;Rootless Yew;[3][G][G]
-KHM;190;Roots of Wisdom;[1][G]
-KHM;191;Rune of Might;[1][G]
-KHM;192;Sarulf's Packmate;[3][G]
-KHM;193;Sculptor of Winter;[1][G]
-KHM;194;Snakeskin Veil;[G]
-KHM;195;Spirit of the Aldergard;[3][G]
-KHM;196;Struggle for Skemfar;[3][G]
-KHM;197;Toski, Bearer of Secrets;[3][G]
-KHM;198;Tyvar Kell;[2][G][G]
-KHM;199;Vorinclex, Monstrous Raider;[4][G][G]
-KHM;200;Aegar, the Freezing Flame;[1][U][R]
-KHM;201;Arni Slays the Troll;[R][G]
-KHM;202;Ascent of the Worthy;[1][W][B]
-KHM;203;Battle for Bretagard;[1][G][W]
-KHM;204;Battle of Frost and Fire;[3][U][R]
-KHM;205;The Bears of Littjara;[1][G][U]
-KHM;206;Binding the Old Gods;[2][B][G]
-KHM;207;The Bloodsky Massacre;[1][B][R]
-KHM;208;Fall of the Impostor;[1][G][W]
-KHM;209;Firja, Judge of Valor;[2][W][B][B]
-KHM;210;Firja's Retribution;[1][W][W][B]
-KHM;211;Forging the Tyrite Sword;[1][R][W]
-KHM;212;Harald, King of Skemfar;[1][B][G]
-KHM;213;Harald Unites the Elves;[2][B][G]
-KHM;214;Immersturm Predator;[2][B][R]
-KHM;215;Invasion of the Giants;[U][R]
-KHM;216;Kardur, Doomscourge;[2][B][R]
-KHM;217;Kardur's Vicious Return;[2][B][R]
-KHM;218;Kaya the Inexorable;[3][W][B]
-KHM;219;King Narfi's Betrayal;[1][U][B]
-KHM;220;Koll, the Forgemaster;[R][W]
-KHM;221;Koma, Cosmos Serpent;[3][G][G][U][U]
-KHM;222;Maja, Bretagard Protector;[2][G][W][W]
-KHM;223;Moritte of the Frost;[2][G][U][U]
-KHM;224;Narfi, Betrayer King;[3][U][B]
-KHM;A-224;A-Narfi, Betrayer King;[2][U][B]
-KHM;225;Niko Aris;[X][W][U][U]
-KHM;226;Niko Defies Destiny;[1][W][U]
-KHM;227;The Raven's Warning;[1][W][U]
-KHM;228;Sarulf, Realm Eater;[1][B][G]
-KHM;229;Showdown of the Skalds;[2][R][W]
-KHM;230;Svella, Ice Shaper;[1][R][G]
-KHM;231;The Three Seasons;[G][U]
-KHM;232;The Trickster-God's Heist;[2][U][B]
-KHM;233;Vega, the Watcher;[1][W][U]
-KHM;A-233;A-Vega, the Watcher;[1][W][U]
-KHM;234;Waking the Trolls;[4][R][G]
-KHM;235;Bloodline Pretender;[3]
-KHM;236;Colossal Plow;[2]
-KHM;237;Cosmos Elixir;[4]
-KHM;A-237;A-Cosmos Elixir;[4]
-KHM;238;Funeral Longboat;[2]
-KHM;239;Goldvein Pick;[2]
-KHM;240;Maskwood Nexus;[4]
-KHM;241;Pyre of Heroes;[2]
-KHM;242;Raiders' Karve;[3]
-KHM;243;Raven Wings;[2]
-KHM;244;Replicating Ring;[3]
-KHM;245;Runed Crown;[3]
-KHM;246;Scorn Effigy;[3]
-KHM;247;Weathered Runestone;[2]
-KHM;248;Alpine Meadow;
-KHM;249;Arctic Treeline;
-KHM;250;Axgard Armory;
-KHM;251;Barkchannel Pathway // Tidechannel Pathway;
-KHM;252;Blightstep Pathway // Searstep Pathway;
-KHM;253;Bretagard Stronghold;
-KHM;254;Darkbore Pathway // Slitherbore Pathway;
-KHM;255;Faceless Haven;
-KHM;A-255;A-Faceless Haven;
-KHM;256;Gates of Istfell;
-KHM;257;Glacial Floodplain;
-KHM;258;Gnottvold Slumbermound;
-KHM;259;Great Hall of Starnheim;
-KHM;260;Hengegate Pathway // Mistgate Pathway;
-KHM;261;Highland Forest;
-KHM;262;Ice Tunnel;
-KHM;263;Immersturm Skullcairn;
-KHM;264;Littjara Mirrorlake;
-KHM;265;Port of Karfell;
-KHM;266;Rimewood Falls;
-KHM;267;Shimmerdrift Vale;
-KHM;268;Skemfar Elderhall;
-KHM;269;Snowfield Sinkhole;
-KHM;270;Sulfurous Mire;
-KHM;271;Surtland Frostpyre;
-KHM;272;Tyrite Sanctum;
-KHM;273;Volatile Fjord;
-KHM;274;Woodland Chasm;
-KHM;275;The World Tree;
-KHM;276;Snow-Covered Plains;
-KHM;277;Snow-Covered Plains;
-KHM;278;Snow-Covered Island;
-KHM;279;Snow-Covered Island;
-KHM;280;Snow-Covered Swamp;
-KHM;281;Snow-Covered Swamp;
-KHM;282;Snow-Covered Mountain;
-KHM;283;Snow-Covered Mountain;
-KHM;284;Snow-Covered Forest;
-KHM;285;Snow-Covered Forest;
-KHM;286;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R]
-KHM;287;Tyvar Kell;[2][G][G]
-KHM;288;Kaya the Inexorable;[3][W][B]
-KHM;289;Niko Aris;[X][W][U][U]
-KHM;290;Barkchannel Pathway // Tidechannel Pathway;
-KHM;291;Blightstep Pathway // Searstep Pathway;
-KHM;292;Darkbore Pathway // Slitherbore Pathway;
-KHM;293;Hengegate Pathway // Mistgate Pathway;
-KHM;294;Starnheim Unleashed;[2][W][W]
-KHM;295;Alrund's Epiphany;[5][U][U]
-KHM;296;Haunting Voyage;[4][B][B]
-KHM;297;Quakebringer;[3][R][R]
-KHM;298;Battle Mammoth;[3][G][G]
-KHM;299;Halvar, God of Battle // Sword of the Realms;[2][W][W]//[1][W]
-KHM;300;Reidane, God of the Worthy // Valkmira, Protector's Shield;[2][W]//[3][W]
-KHM;301;Sigrid, God-Favored;[1][W][W]
-KHM;302;Alrund, God of the Cosmos // Hakka, Whispering Raven;[3][U][U]//[1][U]
-KHM;303;Cosima, God of the Voyage // The Omenkeel;[2][U]//[1][U]
-KHM;304;Inga Rune-Eyes;[3][U]
-KHM;305;Orvar, the All-Form;[3][U]
-KHM;306;Egon, God of Death // Throne of Death;[2][B]//[B]
-KHM;307;Tergrid, God of Fright // Tergrid's Lantern;[3][B][B]//[3][B]
-KHM;308;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R]
-KHM;309;Varragoth, Bloodsky Sire;[2][B]
-KHM;310;Arni Brokenbrow;[2][R]
-KHM;311;Birgi, God of Storytelling // Harnfel, Horn of Bounty;[2][R]//[4][R]
-KHM;312;Magda, Brazen Outlaw;[1][R]
-KHM;313;Toralf, God of Fury // Toralf's Hammer;[2][R][R]//[1][R]
-KHM;314;Esika, God of the Tree // The Prismatic Bridge;[1][G][G]//[W][U][B][R][G]
-KHM;315;Esika's Chariot;[3][G]
-KHM;316;Fynn, the Fangbearer;[1][G]
-KHM;317;Jorn, God of Winter // Kaldring, the Rimestaff;[2][G]//[1][U][B]
-KHM;318;Kolvori, God of Kinship // The Ringhart Crest;[2][G][G]//[1][G]
-KHM;319;Toski, Bearer of Secrets;[3][G]
-KHM;320;Vorinclex, Monstrous Raider;[4][G][G]
-KHM;321;Aegar, the Freezing Flame;[1][U][R]
-KHM;322;Firja, Judge of Valor;[2][W][B][B]
-KHM;323;Harald, King of Skemfar;[1][B][G]
-KHM;324;Kardur, Doomscourge;[2][B][R]
-KHM;325;Koll, the Forgemaster;[R][W]
-KHM;326;Koma, Cosmos Serpent;[3][G][G][U][U]
-KHM;327;Maja, Bretagard Protector;[2][G][W][W]
-KHM;328;Moritte of the Frost;[2][G][U][U]
-KHM;329;Narfi, Betrayer King;[3][U][B]
-KHM;330;Sarulf, Realm Eater;[1][B][G]
-KHM;331;Svella, Ice Shaper;[1][R][G]
-KHM;332;Vega, the Watcher;[1][W][U]
-KHM;333;|lornScs DuJhetmiserc.;[4][G][G]
-KHM;334;Doomskar;[3][W][W]
-KHM;335;Glorious Protector;[2][W][W]
-KHM;336;Rally the Ranks;[1][W]
-KHM;337;Resplendent Marshal;[1][W][W]
-KHM;338;Righteous Valkyrie;[2][W]
-KHM;339;Runeforge Champion;[2][W]
-KHM;340;Search for Glory;[2][W]
-KHM;341;Ascendant Spirit;[U]
-KHM;342;Cosmos Charger;[3][U]
-KHM;343;Cyclone Summoner;[5][U][U]
-KHM;344;Graven Lore;[3][U][U]
-KHM;345;Icebreaker Kraken;[10][U][U]
-KHM;346;Mystic Reflection;[1][U]
-KHM;347;Reflections of Littjara;[4][U]
-KHM;348;Blood on the Snow;[4][B][B]
-KHM;349;Burning-Rune Demon;[4][B][B]
-KHM;350;Crippling Fear;[2][B][B]
-KHM;351;Draugr Necromancer;[3][B]
-KHM;352;Dream Devourer;[1][B]
-KHM;353;Eradicator Valkyrie;[2][B][B]
-KHM;354;Rise of the Dread Marn;[2][B]
-KHM;355;Skemfar Avenger;[1][B]
-KHM;356;Calamity Bearer;[2][R][R]
-KHM;357;Dragonkin Berserker;[1][R]
-KHM;358;Goldspan Dragon;[3][R][R]
-KHM;359;Reckless Crew;[3][R]
-KHM;360;Tibalt's Trickery;[1][R]
-KHM;361;Tundra Fumarole;[1][R][R]
-KHM;362;Blessing of Frost;[3][G]
-KHM;363;Elvish Warmaster;[1][G]
-KHM;364;In Search of Greatness;[G][G]
-KHM;365;Old-Growth Troll;[G][G][G]
-KHM;366;Realmwalker;[2][G]
-KHM;367;Immersturm Predator;[2][B][R]
-KHM;368;Cosmos Elixir;[4]
-KHM;369;Maskwood Nexus;[4]
-KHM;370;Pyre of Heroes;[2]
-KHM;371;Faceless Haven;
-KHM;372;Tyrite Sanctum;
-KHM;373;The World Tree;
-KHM;374;Valkyrie Harbinger;[4][W][W]
-KHM;375;Surtland Elementalist;[5][U][U]
-KHM;376;Cleaving Reaper;[3][B][B]
-KHM;377;Surtland Flinger;[3][R][R]
-KHM;378;Canopy Tactician;[3][G]
-KHM;379;Armed and Armored;[1][W]
-KHM;380;Starnheim Aspirant;[2][W]
-KHM;381;Warchanter Skald;[2][W]
-KHM;382;Youthful Valkyrie;[1][W]
-KHM;383;Absorb Identity;[1][U]
-KHM;384;Giant's Grasp;[2][U][U]
-KHM;385;Elderfang Ritualist;[2][B]
-KHM;386;Renegade Reaper;[2][B]
-KHM;387;Thornmantle Striker;[4][B]
-KHM;388;Bearded Axe;[2][R]
-KHM;389;Fire Giant's Fury;[1][R]
-KHM;390;Gilded Assault Cart;[1][R][R]
-KHM;391;Elven Ambush;[3][G]
-KHM;392;Gladewalker Ritualist;[2][G]
-KHM;393;Rampage of the Valkyries;[3][W][B]
-KHM;394;Plains;
-KHM;395;Island;
-KHM;396;Swamp;
-KHM;397;Mountain;
-KHM;398;Forest;
-KHM;399;Realmwalker;[2][G]
-KHM;400;Reflections of Littjara;[4][U]
-KHM;401;Usher of the Fallen;[W]
-KHM;402;Strategic Planning;[1][U]
-KHM;403;Poison the Cup;[1][B][B]
-KHM;404;Frost Bite;[R]
-KHM;405;Masked Vandal;[1][G]
+set;number;name;cost;rarity
+KHM;1;Axgard Braggart;[3][W];C
+KHM;2;Battershield Warrior;[2][W];U
+KHM;3;Battlefield Raptor;[W];C
+KHM;4;Beskir Shieldmate;[1][W];C
+KHM;5;Bound in Gold;[2][W];C
+KHM;6;Clarion Spirit;[1][W];U
+KHM;7;Codespell Cleric;[W];C
+KHM;8;Divine Gambit;[W][W];U
+KHM;9;Doomskar;[3][W][W];R
+KHM;10;Doomskar Oracle;[2][W];C
+KHM;11;Giant Ox;[1][W];C
+KHM;12;Glorious Protector;[2][W][W];R
+KHM;13;Gods' Hall Guardian;[5][W];C
+KHM;14;Goldmaw Champion;[2][W];C
+KHM;15;Halvar, God of Battle // Sword of the Realms;[2][W][W]//[1][W];M
+KHM;16;Invoke the Divine;[2][W];C
+KHM;17;Iron Verdict;[2][W];C
+KHM;18;Kaya's Onslaught;[2][W];U
+KHM;19;Master Skald;[4][W];C
+KHM;20;Rally the Ranks;[1][W];R
+KHM;21;Reidane, God of the Worthy // Valkmira, Protector's Shield;[2][W]//[3][W];R
+KHM;22;Resplendent Marshal;[1][W][W];M
+KHM;23;Revitalize;[1][W];C
+KHM;24;Righteous Valkyrie;[2][W];R
+KHM;25;Rune of Sustenance;[1][W];U
+KHM;26;Runeforge Champion;[2][W];R
+KHM;27;Search for Glory;[2][W];R
+KHM;28;Shepherd of the Cosmos;[4][W][W];U
+KHM;29;Sigrid, God-Favored;[1][W][W];R
+KHM;30;Spectral Steel;[1][W];U
+KHM;31;Stalwart Valkyrie;[3][W];C
+KHM;32;Starnheim Courser;[2][W];C
+KHM;33;Starnheim Unleashed;[2][W][W];M
+KHM;34;Story Seeker;[1][W];C
+KHM;35;Usher of the Fallen;[W];U
+KHM;36;Valkyrie's Sword;[1][W];U
+KHM;37;Valor of the Worthy;[W];C
+KHM;38;Warhorn Blast;[4][W];C
+KHM;39;Wings of the Cosmos;[W];C
+KHM;40;Alrund, God of the Cosmos // Hakka, Whispering Raven;[3][U][U]//[1][U];M
+KHM;A-40;A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven;[3][U][U]//[1][U];M
+KHM;41;Alrund's Epiphany;[5][U][U];M
+KHM;A-41;A-Alrund's Epiphany;[5][U][U];M
+KHM;42;Annul;[U];C
+KHM;43;Ascendant Spirit;[U];R
+KHM;44;Augury Raven;[3][U];C
+KHM;45;Avalanche Caller;[1][U];U
+KHM;46;Behold the Multiverse;[3][U];C
+KHM;47;Berg Strider;[4][U];C
+KHM;48;Bind the Monster;[U];C
+KHM;49;Brinebarrow Intruder;[U];C
+KHM;50;Cosima, God of the Voyage // The Omenkeel;[2][U]//[1][U];R
+KHM;51;Cosmos Charger;[3][U];R
+KHM;A-51;A-Cosmos Charger;[2][U];R
+KHM;52;Cyclone Summoner;[5][U][U];R
+KHM;53;Depart the Realm;[1][U];C
+KHM;54;Disdainful Stroke;[1][U];C
+KHM;55;Draugr Thought-Thief;[2][U];C
+KHM;56;Frost Augur;[U];U
+KHM;57;Frostpeak Yeti;[3][U];C
+KHM;58;Frostpyre Arcanist;[4][U];U
+KHM;59;Giant's Amulet;[U];U
+KHM;60;Glimpse the Cosmos;[1][U];U
+KHM;61;Graven Lore;[3][U][U];R
+KHM;62;Icebind Pillar;[2][U];U
+KHM;63;Icebreaker Kraken;[10][U][U];R
+KHM;64;Inga Rune-Eyes;[3][U];U
+KHM;65;Karfell Harbinger;[1][U];C
+KHM;66;Littjara Kinseekers;[3][U];C
+KHM;67;Mists of Littjara;[1][U];C
+KHM;68;Mistwalker;[2][U];C
+KHM;69;Mystic Reflection;[1][U];R
+KHM;70;Orvar, the All-Form;[3][U];M
+KHM;71;Pilfering Hawk;[1][U];C
+KHM;72;Ravenform;[2][U];C
+KHM;73;Reflections of Littjara;[4][U];R
+KHM;74;Run Ashore;[4][U][U];C
+KHM;75;Rune of Flight;[1][U];U
+KHM;76;Saw It Coming;[1][U][U];U
+KHM;77;Strategic Planning;[1][U];C
+KHM;78;Undersea Invader;[4][U][U];C
+KHM;79;Blood on the Snow;[4][B][B];R
+KHM;80;Bloodsky Berserker;[1][B];U
+KHM;81;Burning-Rune Demon;[4][B][B];M
+KHM;82;Crippling Fear;[2][B][B];R
+KHM;83;Deathknell Berserker;[1][B];C
+KHM;84;Demonic Gifts;[1][B];C
+KHM;85;Dogged Pursuit;[3][B];C
+KHM;86;Draugr Necromancer;[3][B];R
+KHM;87;Draugr Recruiter;[3][B];C
+KHM;88;Draugr's Helm;[1][B];U
+KHM;89;Dread Rider;[5][B];C
+KHM;90;Dream Devourer;[1][B];R
+KHM;91;Duskwielder;[B];C
+KHM;92;Egon, God of Death // Throne of Death;[2][B]//[B];R
+KHM;93;Elderfang Disciple;[1][B];C
+KHM;94;Eradicator Valkyrie;[2][B][B];M
+KHM;95;Feed the Serpent;[2][B][B];C
+KHM;96;Grim Draugr;[2][B];C
+KHM;97;Hailstorm Valkyrie;[3][B];U
+KHM;98;Haunting Voyage;[4][B][B];M
+KHM;99;Infernal Pet;[2][B];C
+KHM;100;Jarl of the Forsaken;[3][B];C
+KHM;101;Karfell Kennel-Master;[4][B];C
+KHM;102;Koma's Faithful;[2][B];C
+KHM;103;Poison the Cup;[1][B][B];U
+KHM;104;Priest of the Haunted Edge;[1][B];C
+KHM;105;Raise the Draugr;[1][B];C
+KHM;106;Return Upon the Tide;[4][B];U
+KHM;107;Rise of the Dread Marn;[2][B];R
+KHM;108;Rune of Mortality;[1][B];U
+KHM;109;Skemfar Avenger;[1][B];R
+KHM;110;Skemfar Shadowsage;[3][B];U
+KHM;111;Skull Raid;[3][B];C
+KHM;112;Tergrid, God of Fright // Tergrid's Lantern;[3][B][B]//[3][B];R
+KHM;113;Tergrid's Shadow;[3][B][B];U
+KHM;114;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R];M
+KHM;115;Varragoth, Bloodsky Sire;[2][B];R
+KHM;116;Vengeful Reaper;[3][B];U
+KHM;117;Village Rites;[B];C
+KHM;118;Weigh Down;[B];C
+KHM;119;Withercrown;[1][B];C
+KHM;120;Arni Brokenbrow;[2][R];R
+KHM;121;Axgard Cavalry;[1][R];C
+KHM;122;Basalt Ravager;[3][R];U
+KHM;123;Birgi, God of Storytelling // Harnfel, Horn of Bounty;[2][R]//[4][R];R
+KHM;124;Breakneck Berserker;[2][R];C
+KHM;125;Calamity Bearer;[2][R][R];R
+KHM;126;Cinderheart Giant;[5][R][R];C
+KHM;127;Craven Hulk;[3][R];C
+KHM;128;Crush the Weak;[2][R];U
+KHM;129;Demon Bolt;[2][R];C
+KHM;130;Doomskar Titan;[4][R][R];U
+KHM;131;Dragonkin Berserker;[1][R];R
+KHM;132;Dual Strike;[R][R];U
+KHM;133;Dwarven Hammer;[2][R];U
+KHM;134;Dwarven Reinforcements;[3][R];C
+KHM;135;Fearless Liberator;[1][R];U
+KHM;136;Fearless Pup;[R];C
+KHM;137;Frenzied Raider;[1][R];U
+KHM;138;Frost Bite;[R];C
+KHM;139;Goldspan Dragon;[3][R][R];M
+KHM;A-139;A-Goldspan Dragon;[3][R][R];M
+KHM;140;Hagi Mob;[4][R];C
+KHM;141;Immersturm Raider;[1][R];C
+KHM;142;Magda, Brazen Outlaw;[1][R];R
+KHM;143;Open the Omenpaths;[2][R];C
+KHM;144;Provoke the Trolls;[3][R];U
+KHM;145;Quakebringer;[3][R][R];M
+KHM;146;Reckless Crew;[3][R];R
+KHM;147;Run Amok;[1][R];C
+KHM;148;Rune of Speed;[1][R];U
+KHM;149;Seize the Spoils;[2][R];C
+KHM;150;Shackles of Treachery;[2][R];C
+KHM;151;Smashing Success;[3][R];C
+KHM;152;Squash;[4][R];C
+KHM;153;Tibalt's Trickery;[1][R];R
+KHM;154;Toralf, God of Fury // Toralf's Hammer;[2][R][R]//[1][R];M
+KHM;155;Tormentor's Helm;[R];C
+KHM;156;Tundra Fumarole;[1][R][R];R
+KHM;157;Tuskeri Firewalker;[2][R];C
+KHM;158;Vault Robber;[1][R];C
+KHM;159;Arachnoform;[1][G];C
+KHM;160;Battle Mammoth;[3][G][G];M
+KHM;161;Blessing of Frost;[3][G];R
+KHM;162;Blizzard Brawl;[G];U
+KHM;163;Boreal Outrider;[2][G];U
+KHM;164;Broken Wings;[2][G];C
+KHM;165;Elderleaf Mentor;[3][G];C
+KHM;166;Elven Bow;[G];U
+KHM;167;Elvish Warmaster;[1][G];R
+KHM;168;Esika, God of the Tree // The Prismatic Bridge;[1][G][G]//[W][U][B][R][G];M
+KHM;169;Esika's Chariot;[3][G];R
+KHM;A-169;A-Esika's Chariot;[3][G];R
+KHM;170;Fynn, the Fangbearer;[1][G];U
+KHM;171;Glittering Frost;[2][G];C
+KHM;172;Gnottvold Recluse;[2][G];C
+KHM;173;Grizzled Outrider;[4][G];C
+KHM;174;Guardian Gladewalker;[1][G];C
+KHM;175;Horizon Seeker;[2][G];C
+KHM;176;Icehide Troll;[2][G];C
+KHM;177;In Search of Greatness;[G][G];R
+KHM;178;Jaspera Sentinel;[G];C
+KHM;179;Jorn, God of Winter // Kaldring, the Rimestaff;[2][G]//[1][U][B];R
+KHM;180;King Harald's Revenge;[2][G];C
+KHM;181;Kolvori, God of Kinship // The Ringhart Crest;[2][G][G]//[1][G];R
+KHM;182;Littjara Glade-Warden;[3][G];U
+KHM;183;Mammoth Growth;[2][G];C
+KHM;184;Masked Vandal;[1][G];C
+KHM;185;Old-Growth Troll;[G][G][G];R
+KHM;186;Path to the World Tree;[1][G];U
+KHM;187;Ravenous Lindwurm;[4][G][G];C
+KHM;188;Realmwalker;[2][G];R
+KHM;189;Rootless Yew;[3][G][G];U
+KHM;190;Roots of Wisdom;[1][G];C
+KHM;191;Rune of Might;[1][G];U
+KHM;192;Sarulf's Packmate;[3][G];C
+KHM;193;Sculptor of Winter;[1][G];C
+KHM;194;Snakeskin Veil;[G];C
+KHM;195;Spirit of the Aldergard;[3][G];U
+KHM;196;Struggle for Skemfar;[3][G];C
+KHM;197;Toski, Bearer of Secrets;[3][G];R
+KHM;198;Tyvar Kell;[2][G][G];M
+KHM;199;Vorinclex, Monstrous Raider;[4][G][G];M
+KHM;200;Aegar, the Freezing Flame;[1][U][R];U
+KHM;201;Arni Slays the Troll;[R][G];U
+KHM;202;Ascent of the Worthy;[1][W][B];U
+KHM;203;Battle for Bretagard;[1][G][W];R
+KHM;204;Battle of Frost and Fire;[3][U][R];R
+KHM;205;The Bears of Littjara;[1][G][U];R
+KHM;206;Binding the Old Gods;[2][B][G];U
+KHM;207;The Bloodsky Massacre;[1][B][R];R
+KHM;208;Fall of the Impostor;[1][G][W];U
+KHM;209;Firja, Judge of Valor;[2][W][B][B];U
+KHM;210;Firja's Retribution;[1][W][W][B];R
+KHM;211;Forging the Tyrite Sword;[1][R][W];U
+KHM;212;Harald, King of Skemfar;[1][B][G];U
+KHM;213;Harald Unites the Elves;[2][B][G];R
+KHM;214;Immersturm Predator;[2][B][R];R
+KHM;215;Invasion of the Giants;[U][R];U
+KHM;216;Kardur, Doomscourge;[2][B][R];U
+KHM;217;Kardur's Vicious Return;[2][B][R];U
+KHM;218;Kaya the Inexorable;[3][W][B];M
+KHM;219;King Narfi's Betrayal;[1][U][B];R
+KHM;220;Koll, the Forgemaster;[R][W];U
+KHM;221;Koma, Cosmos Serpent;[3][G][G][U][U];M
+KHM;222;Maja, Bretagard Protector;[2][G][W][W];U
+KHM;223;Moritte of the Frost;[2][G][U][U];U
+KHM;224;Narfi, Betrayer King;[3][U][B];U
+KHM;A-224;A-Narfi, Betrayer King;[2][U][B];U
+KHM;225;Niko Aris;[X][W][U][U];M
+KHM;226;Niko Defies Destiny;[1][W][U];U
+KHM;227;The Raven's Warning;[1][W][U];R
+KHM;228;Sarulf, Realm Eater;[1][B][G];R
+KHM;229;Showdown of the Skalds;[2][R][W];R
+KHM;230;Svella, Ice Shaper;[1][R][G];U
+KHM;231;The Three Seasons;[G][U];U
+KHM;232;The Trickster-God's Heist;[2][U][B];U
+KHM;233;Vega, the Watcher;[1][W][U];U
+KHM;A-233;A-Vega, the Watcher;[1][W][U];U
+KHM;234;Waking the Trolls;[4][R][G];R
+KHM;235;Bloodline Pretender;[3];U
+KHM;236;Colossal Plow;[2];U
+KHM;237;Cosmos Elixir;[4];R
+KHM;A-237;A-Cosmos Elixir;[4];R
+KHM;238;Funeral Longboat;[2];C
+KHM;239;Goldvein Pick;[2];C
+KHM;240;Maskwood Nexus;[4];R
+KHM;241;Pyre of Heroes;[2];R
+KHM;242;Raiders' Karve;[3];C
+KHM;243;Raven Wings;[2];C
+KHM;244;Replicating Ring;[3];U
+KHM;245;Runed Crown;[3];U
+KHM;246;Scorn Effigy;[3];C
+KHM;247;Weathered Runestone;[2];U
+KHM;248;Alpine Meadow;;C
+KHM;249;Arctic Treeline;;C
+KHM;250;Axgard Armory;;U
+KHM;251;Barkchannel Pathway // Tidechannel Pathway;;R
+KHM;252;Blightstep Pathway // Searstep Pathway;;R
+KHM;253;Bretagard Stronghold;;U
+KHM;254;Darkbore Pathway // Slitherbore Pathway;;R
+KHM;255;Faceless Haven;;R
+KHM;A-255;A-Faceless Haven;;R
+KHM;256;Gates of Istfell;;U
+KHM;257;Glacial Floodplain;;C
+KHM;258;Gnottvold Slumbermound;;U
+KHM;259;Great Hall of Starnheim;;U
+KHM;260;Hengegate Pathway // Mistgate Pathway;;R
+KHM;261;Highland Forest;;C
+KHM;262;Ice Tunnel;;C
+KHM;263;Immersturm Skullcairn;;U
+KHM;264;Littjara Mirrorlake;;U
+KHM;265;Port of Karfell;;U
+KHM;266;Rimewood Falls;;C
+KHM;267;Shimmerdrift Vale;;C
+KHM;268;Skemfar Elderhall;;U
+KHM;269;Snowfield Sinkhole;;C
+KHM;270;Sulfurous Mire;;C
+KHM;271;Surtland Frostpyre;;U
+KHM;272;Tyrite Sanctum;;R
+KHM;273;Volatile Fjord;;C
+KHM;274;Woodland Chasm;;C
+KHM;275;The World Tree;;R
+KHM;276;Snow-Covered Plains;;C
+KHM;277;Snow-Covered Plains;;C
+KHM;278;Snow-Covered Island;;C
+KHM;279;Snow-Covered Island;;C
+KHM;280;Snow-Covered Swamp;;C
+KHM;281;Snow-Covered Swamp;;C
+KHM;282;Snow-Covered Mountain;;C
+KHM;283;Snow-Covered Mountain;;C
+KHM;284;Snow-Covered Forest;;C
+KHM;285;Snow-Covered Forest;;C
+KHM;286;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R];M
+KHM;287;Tyvar Kell;[2][G][G];M
+KHM;288;Kaya the Inexorable;[3][W][B];M
+KHM;289;Niko Aris;[X][W][U][U];M
+KHM;290;Barkchannel Pathway // Tidechannel Pathway;;R
+KHM;291;Blightstep Pathway // Searstep Pathway;;R
+KHM;292;Darkbore Pathway // Slitherbore Pathway;;R
+KHM;293;Hengegate Pathway // Mistgate Pathway;;R
+KHM;294;Starnheim Unleashed;[2][W][W];M
+KHM;295;Alrund's Epiphany;[5][U][U];M
+KHM;296;Haunting Voyage;[4][B][B];M
+KHM;297;Quakebringer;[3][R][R];M
+KHM;298;Battle Mammoth;[3][G][G];M
+KHM;299;Halvar, God of Battle // Sword of the Realms;[2][W][W]//[1][W];M
+KHM;300;Reidane, God of the Worthy // Valkmira, Protector's Shield;[2][W]//[3][W];R
+KHM;301;Sigrid, God-Favored;[1][W][W];R
+KHM;302;Alrund, God of the Cosmos // Hakka, Whispering Raven;[3][U][U]//[1][U];M
+KHM;303;Cosima, God of the Voyage // The Omenkeel;[2][U]//[1][U];R
+KHM;304;Inga Rune-Eyes;[3][U];U
+KHM;305;Orvar, the All-Form;[3][U];M
+KHM;306;Egon, God of Death // Throne of Death;[2][B]//[B];R
+KHM;307;Tergrid, God of Fright // Tergrid's Lantern;[3][B][B]//[3][B];R
+KHM;308;Valki, God of Lies // Tibalt, Cosmic Impostor;[1][B]//[5][B][R];M
+KHM;309;Varragoth, Bloodsky Sire;[2][B];R
+KHM;310;Arni Brokenbrow;[2][R];R
+KHM;311;Birgi, God of Storytelling // Harnfel, Horn of Bounty;[2][R]//[4][R];R
+KHM;312;Magda, Brazen Outlaw;[1][R];R
+KHM;313;Toralf, God of Fury // Toralf's Hammer;[2][R][R]//[1][R];M
+KHM;314;Esika, God of the Tree // The Prismatic Bridge;[1][G][G]//[W][U][B][R][G];M
+KHM;315;Esika's Chariot;[3][G];R
+KHM;316;Fynn, the Fangbearer;[1][G];U
+KHM;317;Jorn, God of Winter // Kaldring, the Rimestaff;[2][G]//[1][U][B];R
+KHM;318;Kolvori, God of Kinship // The Ringhart Crest;[2][G][G]//[1][G];R
+KHM;319;Toski, Bearer of Secrets;[3][G];R
+KHM;320;Vorinclex, Monstrous Raider;[4][G][G];M
+KHM;321;Aegar, the Freezing Flame;[1][U][R];U
+KHM;322;Firja, Judge of Valor;[2][W][B][B];U
+KHM;323;Harald, King of Skemfar;[1][B][G];U
+KHM;324;Kardur, Doomscourge;[2][B][R];U
+KHM;325;Koll, the Forgemaster;[R][W];U
+KHM;326;Koma, Cosmos Serpent;[3][G][G][U][U];M
+KHM;327;Maja, Bretagard Protector;[2][G][W][W];U
+KHM;328;Moritte of the Frost;[2][G][U][U];U
+KHM;329;Narfi, Betrayer King;[3][U][B];U
+KHM;330;Sarulf, Realm Eater;[1][B][G];R
+KHM;331;Svella, Ice Shaper;[1][R][G];U
+KHM;332;Vega, the Watcher;[1][W][U];U
+KHM;333;|lornScs DuJhetmiserc.;[4][G][G];M
+KHM;334;Doomskar;[3][W][W];R
+KHM;335;Glorious Protector;[2][W][W];R
+KHM;336;Rally the Ranks;[1][W];R
+KHM;337;Resplendent Marshal;[1][W][W];M
+KHM;338;Righteous Valkyrie;[2][W];R
+KHM;339;Runeforge Champion;[2][W];R
+KHM;340;Search for Glory;[2][W];R
+KHM;341;Ascendant Spirit;[U];R
+KHM;342;Cosmos Charger;[3][U];R
+KHM;343;Cyclone Summoner;[5][U][U];R
+KHM;344;Graven Lore;[3][U][U];R
+KHM;345;Icebreaker Kraken;[10][U][U];R
+KHM;346;Mystic Reflection;[1][U];R
+KHM;347;Reflections of Littjara;[4][U];R
+KHM;348;Blood on the Snow;[4][B][B];R
+KHM;349;Burning-Rune Demon;[4][B][B];M
+KHM;350;Crippling Fear;[2][B][B];R
+KHM;351;Draugr Necromancer;[3][B];R
+KHM;352;Dream Devourer;[1][B];R
+KHM;353;Eradicator Valkyrie;[2][B][B];M
+KHM;354;Rise of the Dread Marn;[2][B];R
+KHM;355;Skemfar Avenger;[1][B];R
+KHM;356;Calamity Bearer;[2][R][R];R
+KHM;357;Dragonkin Berserker;[1][R];R
+KHM;358;Goldspan Dragon;[3][R][R];M
+KHM;359;Reckless Crew;[3][R];R
+KHM;360;Tibalt's Trickery;[1][R];R
+KHM;361;Tundra Fumarole;[1][R][R];R
+KHM;362;Blessing of Frost;[3][G];R
+KHM;363;Elvish Warmaster;[1][G];R
+KHM;364;In Search of Greatness;[G][G];R
+KHM;365;Old-Growth Troll;[G][G][G];R
+KHM;366;Realmwalker;[2][G];R
+KHM;367;Immersturm Predator;[2][B][R];R
+KHM;368;Cosmos Elixir;[4];R
+KHM;369;Maskwood Nexus;[4];R
+KHM;370;Pyre of Heroes;[2];R
+KHM;371;Faceless Haven;;R
+KHM;372;Tyrite Sanctum;;R
+KHM;373;The World Tree;;R
+KHM;374;Valkyrie Harbinger;[4][W][W];R
+KHM;375;Surtland Elementalist;[5][U][U];R
+KHM;376;Cleaving Reaper;[3][B][B];R
+KHM;377;Surtland Flinger;[3][R][R];R
+KHM;378;Canopy Tactician;[3][G];R
+KHM;379;Armed and Armored;[1][W];U
+KHM;380;Starnheim Aspirant;[2][W];U
+KHM;381;Warchanter Skald;[2][W];U
+KHM;382;Youthful Valkyrie;[1][W];U
+KHM;383;Absorb Identity;[1][U];U
+KHM;384;Giant's Grasp;[2][U][U];U
+KHM;385;Elderfang Ritualist;[2][B];U
+KHM;386;Renegade Reaper;[2][B];U
+KHM;387;Thornmantle Striker;[4][B];U
+KHM;388;Bearded Axe;[2][R];U
+KHM;389;Fire Giant's Fury;[1][R];U
+KHM;390;Gilded Assault Cart;[1][R][R];U
+KHM;391;Elven Ambush;[3][G];U
+KHM;392;Gladewalker Ritualist;[2][G];U
+KHM;393;Rampage of the Valkyries;[3][W][B];U
+KHM;394;Plains;;C
+KHM;395;Island;;C
+KHM;396;Swamp;;C
+KHM;397;Mountain;;C
+KHM;398;Forest;;C
+KHM;399;Realmwalker;[2][G];R
+KHM;400;Reflections of Littjara;[4][U];R
+KHM;401;Usher of the Fallen;[W];U
+KHM;402;Strategic Planning;[1][U];C
+KHM;403;Poison the Cup;[1][B][B];U
+KHM;404;Frost Bite;[R];C
+KHM;405;Masked Vandal;[1][G];C

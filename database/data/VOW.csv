@@ -1,417 +1,417 @@
-set;number;name;cost
-VOW;1;Adamant Will;[1][W]
-VOW;2;Angelic Quartermaster;[3][W][W]
-VOW;3;Arm the Cathars;[1][W][W]
-VOW;4;Bride's Gown;[1][W]
-VOW;5;By Invitation Only;[3][W][W]
-VOW;6;Cemetery Protector;[2][W][W]
-VOW;7;Circle of Confinement;[1][W]
-VOW;8;Dawnhart Geist;[1][W]
-VOW;9;Distracting Geist // Clever Distraction;[2][W]
-VOW;10;Drogskol Infantry // Drogskol Armaments;[1][W]
-VOW;11;Estwald Shieldbasher;[3][W]
-VOW;12;Faithbound Judge // Sinner's Judgment;[1][W][W]
-VOW;13;Fierce Retribution;[1][W]
-VOW;14;Fleeting Spirit;[1][W]
-VOW;15;Gryff Rider;[2][W]
-VOW;16;Gryffwing Cavalry;[3][W]
-VOW;17;Hallowed Haunting;[2][W][W]
-VOW;18;Heron of Hope;[3][W]
-VOW;19;Heron-Blessed Geist;[4][W]
-VOW;20;Hopeful Initiate;[W]
-VOW;21;Katilda, Dawnhart Martyr // Katilda's Rising Dawn;[1][W][W]
-VOW;22;Kindly Ancestor // Ancestor's Embrace;[2][W]
-VOW;23;Lantern Flare;[1][W]
-VOW;24;Militia Rallier;[2][W]
-VOW;25;Nebelgast Beguiler;[4][W]
-VOW;26;Nurturing Presence;[1][W]
-VOW;27;Ollenbock Escort;[W]
-VOW;28;Panicked Bystander // Cackling Culprit;[1][W]
-VOW;29;Parish-Blade Trainee;[1][W]
-VOW;30;Piercing Light;[W]
-VOW;31;Radiant Grace // Radiant Restraints;[W]
-VOW;32;Resistance Squad;[2][W]
-VOW;33;Sanctify;[1][W]
-VOW;34;Savior of Ollenbock;[1][W][W]
-VOW;35;Sigarda's Imprisonment;[2][W]
-VOW;36;Sigarda's Summons;[4][W][W]
-VOW;37;Supernatural Rescue;[3][W]
-VOW;38;Thalia, Guardian of Thraben;[1][W]
-VOW;39;Traveling Minister;[W]
-VOW;40;Twinblade Geist // Twinblade Invocation;[1][W]
-VOW;41;Unholy Officiant;[W]
-VOW;42;Valorous Stance;[1][W]
-VOW;43;Vampire Slayer;[1][W]
-VOW;44;Voice of the Blessed;[W][W]
-VOW;45;Wedding Announcement // Wedding Festivity;[2][W]
-VOW;46;Welcoming Vampire;[2][W]
-VOW;47;Alchemist's Retrieval;[U]
-VOW;48;Binding Geist // Spectral Binding;[2][U]
-VOW;49;Biolume Egg // Biolume Serpent;[2][U]
-VOW;50;Cemetery Illuminator;[1][U][U]
-VOW;51;Chill of the Grave;[2][U]
-VOW;52;Cobbled Lancer;[U]
-VOW;A-52;A-Cobbled Lancer;[U]
-VOW;53;Consuming Tide;[2][U][U]
-VOW;54;Cradle of Safety;[1][U]
-VOW;55;Cruel Witness;[2][U][U]
-VOW;56;Diver Skaab;[3][U][U]
-VOW;57;Dreadlight Monstrosity;[4][U][U]
-VOW;58;Dreamshackle Geist;[1][U][U]
-VOW;59;Fear of Death;[1][U]
-VOW;60;Geistlight Snare;[2][U]
-VOW;61;Geralf, Visionary Stitcher;[2][U]
-VOW;62;Gutter Skulker // Gutter Shortcut;[3][U]
-VOW;63;Hullbreaker Horror;[5][U][U]
-VOW;A-63;A-Hullbreaker Horror;[5][U][U]
-VOW;64;Inspired Idea;[2][U]
-VOW;65;Jacob Hauken, Inspector // Hauken's Insight;[1][U]
-VOW;66;Lantern Bearer // Lanterns' Lift;[U]
-VOW;67;Lunar Rejection;[1][U]
-VOW;68;Mirrorhall Mimic // Ghastly Mimicry;[3][U]
-VOW;69;Mischievous Catgeist // Catlike Curiosity;[1][U]
-VOW;70;Necroduality;[3][U]
-VOW;71;Overcharged Amalgam;[2][U][U]
-VOW;72;Patchwork Crawler;[1][U]
-VOW;73;Repository Skaab;[3][U]
-VOW;74;Scattered Thoughts;[3][U]
-VOW;75;Screaming Swarm;[5][U]
-VOW;76;Selhoff Entomber;[1][U]
-VOW;77;Serpentine Ambush;[1][U]
-VOW;78;Skywarp Skaab;[3][U][U]
-VOW;79;Soulcipher Board // Cipherbound Spirit;[1][U]
-VOW;80;Steelclad Spirit;[1][U]
-VOW;81;Stitched Assistant;[2][U]
-VOW;A-81;A-Stitched Assistant;[1][U]
-VOW;82;Stormchaser Drake;[1][U]
-VOW;83;Syncopate;[X][U]
-VOW;84;Syphon Essence;[2][U]
-VOW;85;Thirst for Discovery;[2][U]
-VOW;86;Wanderlight Spirit;[2][U]
-VOW;87;Wash Away;[U]
-VOW;88;Whispering Wizard;[3][U]
-VOW;89;Winged Portent;[1][U][U]
-VOW;90;Witness the Future;[2][U]
-VOW;91;Wretched Throng;[1][U]
-VOW;92;Aim for the Head;[2][B]
-VOW;93;Archghoul of Thraben;[2][B]
-VOW;94;Bleed Dry;[2][B][B]
-VOW;95;Blood Fountain;[B]
-VOW;96;Bloodcrazed Socialite;[3][B]
-VOW;97;Bloodsworn Squire // Bloodsworn Knight;[3][B]
-VOW;98;Bloodvial Purveyor;[2][B][B]
-VOW;99;Catapult Fodder // Catapult Captain;[2][B]
-VOW;100;Cemetery Desecrator;[4][B][B]
-VOW;101;Concealing Curtains // Revealing Eye;[B]
-VOW;102;Courier Bat;[2][B]
-VOW;103;Demonic Bargain;[2][B]
-VOW;104;Desperate Farmer // Depraved Harvester;[2][B]
-VOW;105;Diregraf Scavenger;[3][B]
-VOW;106;Doomed Dissenter;[1][B]
-VOW;107;Dread Fugue;[B]
-VOW;108;Dreadfeast Demon;[5][B][B]
-VOW;109;Dying to Serve;[2][B]
-VOW;110;Edgar's Awakening;[3][B][B]
-VOW;111;Falkenrath Forebear;[2][B]
-VOW;112;Fell Stinger;[2][B]
-VOW;113;Gift of Fangs;[B]
-VOW;114;Gluttonous Guest;[2][B]
-VOW;115;Graf Reaver;[1][B]
-VOW;116;Grisly Ritual;[5][B]
-VOW;117;Groom's Finery;[1][B]
-VOW;118;Headless Rider;[2][B]
-VOW;119;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B]
-VOW;120;Hero's Downfall;[1][B][B]
-VOW;121;Innocent Traveler // Malicious Invader;[2][B][B]
-VOW;122;Mindleech Ghoul;[1][B]
-VOW;123;Parasitic Grasp;[1][B]
-VOW;124;Path of Peril;[1][B][B]
-VOW;125;Persistent Specimen;[B]
-VOW;126;Pointed Discussion;[2][B]
-VOW;127;Ragged Recluse // Odious Witch;[1][B]
-VOW;128;Restless Bloodseeker // Bloodsoaked Reveler;[1][B]
-VOW;129;Rot-Tide Gargantua;[3][B][B]
-VOW;130;Skulking Killer;[3][B]
-VOW;131;Sorin the Mirthless;[2][B][B]
-VOW;132;Toxrill, the Corrosive;[5][B][B]
-VOW;133;Undead Butler;[1][B]
-VOW;134;Undying Malice;[B]
-VOW;135;Unhallowed Phalanx;[4][B]
-VOW;136;Vampire's Kiss;[1][B]
-VOW;137;Voldaren Bloodcaster // Bloodbat Summoner;[1][B]
-VOW;138;Wedding Security;[3][B][B]
-VOW;139;Abrade;[1][R]
-VOW;140;Alchemist's Gambit;[1][R][R]
-VOW;141;Alluring Suitor // Deadly Dancer;[2][R]
-VOW;142;Ancestral Anger;[R]
-VOW;143;Ballista Watcher // Ballista Wielder;[2][R][R]
-VOW;144;Belligerent Guest;[2][R]
-VOW;145;Blood Hypnotist;[2][R]
-VOW;146;Blood Petal Celebrant;[1][R]
-VOW;147;Bloody Betrayal;[2][R]
-VOW;148;Cemetery Gatekeeper;[1][R]
-VOW;149;Chandra, Dressed to Kill;[1][R][R]
-VOW;150;Change of Fortune;[3][R]
-VOW;151;Creepy Puppeteer;[3][R]
-VOW;152;Curse of Hospitality;[2][R]
-VOW;153;Daybreak Combatants;[2][R]
-VOW;154;Dominating Vampire;[1][R][R]
-VOW;155;End the Festivities;[R]
-VOW;156;Falkenrath Celebrants;[4][R]
-VOW;157;Fearful Villager // Fearsome Werewolf;[2][R]
-VOW;158;Flame-Blessed Bolt;[R]
-VOW;159;Frenzied Devils;[4][R]
-VOW;160;Honeymoon Hearse;[2][R]
-VOW;161;Hungry Ridgewolf;[1][R]
-VOW;162;Ill-Tempered Loner // Howlpack Avenger;[2][R][R]
-VOW;163;Into the Night;[3][R]
-VOW;164;Kessig Flamebreather;[1][R]
-VOW;165;Kessig Wolfrider;[R]
-VOW;166;Lacerate Flesh;[4][R]
-VOW;167;Lambholt Raconteur // Lambholt Ravager;[3][R]
-VOW;168;Lightning Wolf;[3][R]
-VOW;169;Magma Pummeler;[X][R][R]
-VOW;170;Manaform Hellkite;[2][R][R]
-VOW;171;Markov Retribution;[2][R]
-VOW;172;Olivia's Attendants;[4][R][R]
-VOW;173;Pyre Spawn;[4][R][R]
-VOW;174;Reckless Impulse;[1][R]
-VOW;175;Rending Flame;[2][R]
-VOW;176;Runebound Wolf;[1][R]
-VOW;177;Sanguine Statuette;[1][R]
-VOW;178;Stensia Uprising;[2][R][R]
-VOW;179;Sure Strike;[1][R]
-VOW;180;Vampires' Vengeance;[2][R]
-VOW;181;Volatile Arsonist // Dire-Strain Anarchist;[3][R][R]
-VOW;182;Voldaren Epicure;[R]
-VOW;183;Voltaic Visionary // Volt-Charged Berserker;[1][R]
-VOW;184;Weary Prisoner // Wrathful Jailbreaker;[3][R]
-VOW;185;Apprentice Sharpshooter;[2][G]
-VOW;186;Ascendant Packleader;[G]
-VOW;187;Avabruck Caretaker // Hollowhenge Huntmaster;[4][G][G]
-VOW;188;Bramble Armor;[1][G]
-VOW;189;Bramble Wurm;[6][G]
-VOW;190;Cartographer's Survey;[3][G]
-VOW;191;Cemetery Prowler;[1][G][G]
-VOW;192;Cloaked Cadet;[4][G]
-VOW;193;Crawling Infestation;[2][G]
-VOW;194;Crushing Canopy;[2][G]
-VOW;195;Cultivator Colossus;[4][G][G][G]
-VOW;196;Dawnhart Disciple;[1][G]
-VOW;197;Dig Up;[G]
-VOW;198;Dormant Grove // Gnarled Grovestrider;[3][G]
-VOW;199;Flourishing Hunter;[4][G][G]
-VOW;200;Glorious Sunrise;[3][G][G]
-VOW;201;Hamlet Vanguard;[2][G]
-VOW;202;Hiveheart Shaman;[3][G]
-VOW;203;Hookhand Mariner // Riphook Raider;[3][G]
-VOW;204;Howling Moon;[2][G]
-VOW;205;Howlpack Piper // Wildsong Howler;[3][G]
-VOW;206;Infestation Expert // Infested Werewolf;[4][G]
-VOW;207;Laid to Rest;[3][G]
-VOW;208;Massive Might;[G]
-VOW;209;Moldgraf Millipede;[4][G]
-VOW;210;Mulch;[1][G]
-VOW;211;Nature's Embrace;[2][G]
-VOW;212;Oakshade Stalker // Moonlit Ambusher;[2][G]
-VOW;213;Packsong Pup;[1][G]
-VOW;214;Reclusive Taxidermist;[1][G]
-VOW;215;Retrieve;[2][G]
-VOW;216;Rural Recruit;[3][G]
-VOW;217;Sawblade Slinger;[3][G]
-VOW;218;Sheltering Boughs;[2][G]
-VOW;219;Snarling Wolf;[G]
-VOW;220;Spiked Ripsaw;[2][G]
-VOW;221;Splendid Reclamation;[3][G]
-VOW;222;Spore Crawler;[2][G]
-VOW;223;Sporeback Wolf;[1][G]
-VOW;224;Toxic Scorpion;[1][G]
-VOW;225;Ulvenwald Oddity // Ulvenwald Behemoth;[2][G][G]
-VOW;226;Weaver of Blossoms // Blossom-Clad Werewolf;[2][G]
-VOW;227;Witch's Web;[1][G]
-VOW;228;Wolf Strike;[2][G]
-VOW;229;Wolfkin Outcast // Wedding Crasher;[5][G]
-VOW;230;Ancient Lumberknot;[2][B][G]
-VOW;231;Anje, Maid of Dishonor;[2][B][R]
-VOW;232;Bloodtithe Harvester;[B][R]
-VOW;233;Brine Comber // Brinebound Gift;[1][W][U]
-VOW;234;Child of the Pack // Savage Packmate;[2][R][G]
-VOW;235;Dorothea, Vengeful Victim // Dorothea's Retribution;[W][U]
-VOW;236;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B]
-VOW;237;Eruth, Tormented Prophet;[1][U][R]
-VOW;238;Grolnok, the Omnivore;[2][G][U]
-VOW;239;Halana and Alena, Partners;[2][R][G]
-VOW;240;Kaya, Geist Hunter;[1][W][B]
-VOW;241;Markov Purifier;[1][W][B]
-VOW;242;Markov Waltzer;[2][R][W]
-VOW;243;Odric, Blood-Cursed;[1][R][W]
-VOW;244;Old Rutstein;[1][B][G]
-VOW;245;Olivia, Crimson Bride;[4][B][R]
-VOW;246;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B]
-VOW;247;Sigardian Paladin;[2][G][W]
-VOW;248;Skull Skaab;[U][B]
-VOW;A-248;A-Skull Skaab;[U][B]
-VOW;249;Torens, Fist of the Angels;[1][G][W]
-VOW;250;Vilespawn Spider;[G][U]
-VOW;251;Wandering Mind;[1][U][R]
-VOW;252;Blood Servitor;[3]
-VOW;253;Boarded Window;[3]
-VOW;254;Ceremonial Knife;[1]
-VOW;255;Dollhouse of Horrors;[5]
-VOW;256;Foreboding Statue // Forsaken Thresher;[3]
-VOW;257;Honored Heirloom;[3]
-VOW;258;Investigator's Journal;[2]
-VOW;259;Lantern of the Lost;[1]
-VOW;260;Wedding Invitation;[2]
-VOW;261;Deathcap Glade;
-VOW;262;Dreamroot Cascade;
-VOW;263;Evolving Wilds;
-VOW;264;Shattered Sanctum;
-VOW;265;Stormcarved Coast;
-VOW;266;Sundown Pass;
-VOW;267;Voldaren Estate;
-VOW;268;Plains;
-VOW;269;Plains;
-VOW;270;Island;
-VOW;271;Island;
-VOW;272;Swamp;
-VOW;273;Swamp;
-VOW;274;Mountain;
-VOW;275;Mountain;
-VOW;276;Forest;
-VOW;277;Forest;
-VOW;278;Sorin the Mirthless;[2][B][B]
-VOW;279;Chandra, Dressed to Kill;[1][R][R]
-VOW;280;Kaya, Geist Hunter;[1][W][B]
-VOW;281;Deathcap Glade;
-VOW;282;Dreamroot Cascade;
-VOW;283;Shattered Sanctum;
-VOW;284;Stormcarved Coast;
-VOW;285;Sundown Pass;
-VOW;286;Unholy Officiant;[W]
-VOW;287;Welcoming Vampire;[2][W]
-VOW;288;Bloodcrazed Socialite;[3][B]
-VOW;289;Bloodsworn Squire // Bloodsworn Knight;[3][B]
-VOW;290;Bloodvial Purveyor;[2][B][B]
-VOW;291;Falkenrath Forebear;[2][B]
-VOW;292;Gluttonous Guest;[2][B]
-VOW;293;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B]
-VOW;294;Innocent Traveler // Malicious Invader;[2][B][B]
-VOW;295;Restless Bloodseeker // Bloodsoaked Reveler;[1][B]
-VOW;296;Skulking Killer;[3][B]
-VOW;297;Sorin the Mirthless;[2][B][B]
-VOW;298;Voldaren Bloodcaster // Bloodbat Summoner;[1][B]
-VOW;299;Wedding Security;[3][B][B]
-VOW;300;Alluring Suitor // Deadly Dancer;[2][R]
-VOW;301;Belligerent Guest;[2][R]
-VOW;302;Blood Hypnotist;[2][R]
-VOW;303;Blood Petal Celebrant;[1][R]
-VOW;304;Cemetery Gatekeeper;[1][R]
-VOW;305;Dominating Vampire;[1][R][R]
-VOW;306;Falkenrath Celebrants;[4][R]
-VOW;307;Olivia's Attendants;[4][R][R]
-VOW;308;Voldaren Epicure;[R]
-VOW;309;Anje, Maid of Dishonor;[2][B][R]
-VOW;310;Bloodtithe Harvester;[B][R]
-VOW;311;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B]
-VOW;312;Markov Purifier;[1][W][B]
-VOW;313;Markov Waltzer;[2][R][W]
-VOW;314;Odric, Blood-Cursed;[1][R][W]
-VOW;315;Olivia, Crimson Bride;[4][B][R]
-VOW;316;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B]
-VOW;317;Katilda, Dawnhart Martyr // Katilda's Rising Dawn;[1][W][W]
-VOW;318;Thalia, Guardian of Thraben;[1][W]
-VOW;319;Geralf, Visionary Stitcher;[2][U]
-VOW;320;Jacob Hauken, Inspector // Hauken's Insight;[1][U]
-VOW;321;Toxrill, the Corrosive;[5][B][B]
-VOW;322;Dorothea, Vengeful Victim // Dorothea's Retribution;[W][U]
-VOW;323;Eruth, Tormented Prophet;[1][U][R]
-VOW;324;Grolnok, the Omnivore;[2][G][U]
-VOW;325;Halana and Alena, Partners;[2][R][G]
-VOW;326;Old Rutstein;[1][B][G]
-VOW;327;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B]
-VOW;328;Torens, Fist of the Angels;[1][G][W]
-VOW;329;Circle of Confinement;[1][W]
-VOW;330;Savior of Ollenbock;[1][W][W]
-VOW;331;Thalia, Guardian of Thraben;[1][W]
-VOW;332;Jacob Hauken, Inspector // Hauken's Insight;[1][U]
-VOW;333;Thirst for Discovery;[2][U]
-VOW;334;Falkenrath Forebear;[2][B]
-VOW;335;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B]
-VOW;336;Innocent Traveler // Malicious Invader;[2][B][B]
-VOW;337;Sorin the Mirthless;[2][B][B]
-VOW;338;Voldaren Bloodcaster // Bloodbat Summoner;[1][B]
-VOW;339;Vampires' Vengeance;[2][R]
-VOW;340;Reclusive Taxidermist;[1][G]
-VOW;341;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B]
-VOW;342;Eruth, Tormented Prophet;[1][U][R]
-VOW;343;Olivia, Crimson Bride;[4][B][R]
-VOW;344;Torens, Fist of the Angels;[1][G][W]
-VOW;345;Investigator's Journal;[2]
-VOW;346;By Invitation Only;[3][W][W]
-VOW;347;Cemetery Protector;[2][W][W]
-VOW;348;Faithbound Judge // Sinner's Judgment;[1][W][W]
-VOW;349;Hallowed Haunting;[2][W][W]
-VOW;350;Hopeful Initiate;[W]
-VOW;351;Lantern Flare;[1][W]
-VOW;352;Savior of Ollenbock;[1][W][W]
-VOW;353;Sigarda's Summons;[4][W][W]
-VOW;354;Voice of the Blessed;[W][W]
-VOW;355;Wedding Announcement // Wedding Festivity;[2][W]
-VOW;356;Cemetery Illuminator;[1][U][U]
-VOW;357;Consuming Tide;[2][U][U]
-VOW;358;Dreamshackle Geist;[1][U][U]
-VOW;359;Hullbreaker Horror;[5][U][U]
-VOW;360;Inspired Idea;[2][U]
-VOW;361;Mirrorhall Mimic // Ghastly Mimicry;[3][U]
-VOW;362;Necroduality;[3][U]
-VOW;363;Overcharged Amalgam;[2][U][U]
-VOW;364;Patchwork Crawler;[1][U]
-VOW;365;Winged Portent;[1][U][U]
-VOW;366;Cemetery Desecrator;[4][B][B]
-VOW;367;Concealing Curtains // Revealing Eye;[B]
-VOW;368;Demonic Bargain;[2][B]
-VOW;369;Dreadfeast Demon;[5][B][B]
-VOW;370;Dying to Serve;[2][B]
-VOW;371;Graf Reaver;[1][B]
-VOW;372;Headless Rider;[2][B]
-VOW;373;Path of Peril;[1][B][B]
-VOW;374;Alchemist's Gambit;[1][R][R]
-VOW;375;Change of Fortune;[3][R]
-VOW;376;Creepy Puppeteer;[3][R]
-VOW;377;Curse of Hospitality;[2][R]
-VOW;378;Ill-Tempered Loner // Howlpack Avenger;[2][R][R]
-VOW;379;Kessig Wolfrider;[R]
-VOW;380;Manaform Hellkite;[2][R][R]
-VOW;381;Stensia Uprising;[2][R][R]
-VOW;382;Volatile Arsonist // Dire-Strain Anarchist;[3][R][R]
-VOW;383;Ascendant Packleader;[G]
-VOW;384;Avabruck Caretaker // Hollowhenge Huntmaster;[4][G][G]
-VOW;385;Cemetery Prowler;[1][G][G]
-VOW;386;Cultivator Colossus;[4][G][G][G]
-VOW;387;Dig Up;[G]
-VOW;388;Glorious Sunrise;[3][G][G]
-VOW;389;Hamlet Vanguard;[2][G]
-VOW;390;Hiveheart Shaman;[3][G]
-VOW;391;Howling Moon;[2][G]
-VOW;392;Howlpack Piper // Wildsong Howler;[3][G]
-VOW;393;Splendid Reclamation;[3][G]
-VOW;394;Ulvenwald Oddity // Ulvenwald Behemoth;[2][G][G]
-VOW;395;Dollhouse of Horrors;[5]
-VOW;396;Investigator's Journal;[2]
-VOW;397;Voldaren Estate;
-VOW;398;Plains;
-VOW;399;Island;
-VOW;400;Swamp;
-VOW;401;Mountain;
-VOW;402;Forest;
-VOW;403;Voldaren Estate;
-VOW;404;Sigarda's Summons;[4][W][W]
-VOW;405;Geistlight Snare;[2][U]
-VOW;406;Fell Stinger;[2][B]
-VOW;407;Dominating Vampire;[1][R][R]
-VOW;408;Plains;
-VOW;409;Island;
-VOW;410;Swamp;
-VOW;411;Mountain;
-VOW;412;Forest;
+set;number;name;cost;rarity
+VOW;1;Adamant Will;[1][W];C
+VOW;2;Angelic Quartermaster;[3][W][W];U
+VOW;3;Arm the Cathars;[1][W][W];U
+VOW;4;Bride's Gown;[1][W];U
+VOW;5;By Invitation Only;[3][W][W];R
+VOW;6;Cemetery Protector;[2][W][W];M
+VOW;7;Circle of Confinement;[1][W];U
+VOW;8;Dawnhart Geist;[1][W];U
+VOW;9;Distracting Geist // Clever Distraction;[2][W];U
+VOW;10;Drogskol Infantry // Drogskol Armaments;[1][W];C
+VOW;11;Estwald Shieldbasher;[3][W];C
+VOW;12;Faithbound Judge // Sinner's Judgment;[1][W][W];M
+VOW;13;Fierce Retribution;[1][W];C
+VOW;14;Fleeting Spirit;[1][W];U
+VOW;15;Gryff Rider;[2][W];C
+VOW;16;Gryffwing Cavalry;[3][W];U
+VOW;17;Hallowed Haunting;[2][W][W];M
+VOW;18;Heron of Hope;[3][W];C
+VOW;19;Heron-Blessed Geist;[4][W];C
+VOW;20;Hopeful Initiate;[W];R
+VOW;21;Katilda, Dawnhart Martyr // Katilda's Rising Dawn;[1][W][W];R
+VOW;22;Kindly Ancestor // Ancestor's Embrace;[2][W];C
+VOW;23;Lantern Flare;[1][W];R
+VOW;24;Militia Rallier;[2][W];C
+VOW;25;Nebelgast Beguiler;[4][W];C
+VOW;26;Nurturing Presence;[1][W];C
+VOW;27;Ollenbock Escort;[W];U
+VOW;28;Panicked Bystander // Cackling Culprit;[1][W];U
+VOW;29;Parish-Blade Trainee;[1][W];C
+VOW;30;Piercing Light;[W];C
+VOW;31;Radiant Grace // Radiant Restraints;[W];U
+VOW;32;Resistance Squad;[2][W];U
+VOW;33;Sanctify;[1][W];C
+VOW;34;Savior of Ollenbock;[1][W][W];M
+VOW;35;Sigarda's Imprisonment;[2][W];C
+VOW;36;Sigarda's Summons;[4][W][W];R
+VOW;37;Supernatural Rescue;[3][W];C
+VOW;38;Thalia, Guardian of Thraben;[1][W];R
+VOW;39;Traveling Minister;[W];C
+VOW;40;Twinblade Geist // Twinblade Invocation;[1][W];U
+VOW;41;Unholy Officiant;[W];C
+VOW;42;Valorous Stance;[1][W];U
+VOW;43;Vampire Slayer;[1][W];C
+VOW;44;Voice of the Blessed;[W][W];R
+VOW;45;Wedding Announcement // Wedding Festivity;[2][W];R
+VOW;46;Welcoming Vampire;[2][W];R
+VOW;47;Alchemist's Retrieval;[U];C
+VOW;48;Binding Geist // Spectral Binding;[2][U];C
+VOW;49;Biolume Egg // Biolume Serpent;[2][U];U
+VOW;50;Cemetery Illuminator;[1][U][U];M
+VOW;51;Chill of the Grave;[2][U];C
+VOW;52;Cobbled Lancer;[U];U
+VOW;A-52;A-Cobbled Lancer;[U];U
+VOW;53;Consuming Tide;[2][U][U];R
+VOW;54;Cradle of Safety;[1][U];C
+VOW;55;Cruel Witness;[2][U][U];C
+VOW;56;Diver Skaab;[3][U][U];U
+VOW;57;Dreadlight Monstrosity;[4][U][U];C
+VOW;58;Dreamshackle Geist;[1][U][U];R
+VOW;59;Fear of Death;[1][U];C
+VOW;60;Geistlight Snare;[2][U];U
+VOW;61;Geralf, Visionary Stitcher;[2][U];R
+VOW;62;Gutter Skulker // Gutter Shortcut;[3][U];U
+VOW;63;Hullbreaker Horror;[5][U][U];R
+VOW;A-63;A-Hullbreaker Horror;[5][U][U];R
+VOW;64;Inspired Idea;[2][U];R
+VOW;65;Jacob Hauken, Inspector // Hauken's Insight;[1][U];M
+VOW;66;Lantern Bearer // Lanterns' Lift;[U];C
+VOW;67;Lunar Rejection;[1][U];U
+VOW;68;Mirrorhall Mimic // Ghastly Mimicry;[3][U];R
+VOW;69;Mischievous Catgeist // Catlike Curiosity;[1][U];U
+VOW;70;Necroduality;[3][U];M
+VOW;71;Overcharged Amalgam;[2][U][U];R
+VOW;72;Patchwork Crawler;[1][U];R
+VOW;73;Repository Skaab;[3][U];C
+VOW;74;Scattered Thoughts;[3][U];C
+VOW;75;Screaming Swarm;[5][U];U
+VOW;76;Selhoff Entomber;[1][U];C
+VOW;77;Serpentine Ambush;[1][U];C
+VOW;78;Skywarp Skaab;[3][U][U];C
+VOW;79;Soulcipher Board // Cipherbound Spirit;[1][U];U
+VOW;80;Steelclad Spirit;[1][U];C
+VOW;81;Stitched Assistant;[2][U];C
+VOW;A-81;A-Stitched Assistant;[1][U];C
+VOW;82;Stormchaser Drake;[1][U];U
+VOW;83;Syncopate;[X][U];C
+VOW;84;Syphon Essence;[2][U];C
+VOW;85;Thirst for Discovery;[2][U];U
+VOW;86;Wanderlight Spirit;[2][U];C
+VOW;87;Wash Away;[U];U
+VOW;88;Whispering Wizard;[3][U];U
+VOW;89;Winged Portent;[1][U][U];R
+VOW;90;Witness the Future;[2][U];U
+VOW;91;Wretched Throng;[1][U];C
+VOW;92;Aim for the Head;[2][B];C
+VOW;93;Archghoul of Thraben;[2][B];U
+VOW;94;Bleed Dry;[2][B][B];C
+VOW;95;Blood Fountain;[B];C
+VOW;96;Bloodcrazed Socialite;[3][B];C
+VOW;97;Bloodsworn Squire // Bloodsworn Knight;[3][B];U
+VOW;98;Bloodvial Purveyor;[2][B][B];R
+VOW;99;Catapult Fodder // Catapult Captain;[2][B];U
+VOW;100;Cemetery Desecrator;[4][B][B];M
+VOW;101;Concealing Curtains // Revealing Eye;[B];R
+VOW;102;Courier Bat;[2][B];C
+VOW;103;Demonic Bargain;[2][B];R
+VOW;104;Desperate Farmer // Depraved Harvester;[2][B];C
+VOW;105;Diregraf Scavenger;[3][B];C
+VOW;106;Doomed Dissenter;[1][B];C
+VOW;107;Dread Fugue;[B];U
+VOW;108;Dreadfeast Demon;[5][B][B];R
+VOW;109;Dying to Serve;[2][B];R
+VOW;110;Edgar's Awakening;[3][B][B];U
+VOW;111;Falkenrath Forebear;[2][B];R
+VOW;112;Fell Stinger;[2][B];U
+VOW;113;Gift of Fangs;[B];C
+VOW;114;Gluttonous Guest;[2][B];C
+VOW;115;Graf Reaver;[1][B];R
+VOW;116;Grisly Ritual;[5][B];C
+VOW;117;Groom's Finery;[1][B];U
+VOW;118;Headless Rider;[2][B];R
+VOW;119;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B];M
+VOW;120;Hero's Downfall;[1][B][B];U
+VOW;121;Innocent Traveler // Malicious Invader;[2][B][B];U
+VOW;122;Mindleech Ghoul;[1][B];C
+VOW;123;Parasitic Grasp;[1][B];U
+VOW;124;Path of Peril;[1][B][B];R
+VOW;125;Persistent Specimen;[B];C
+VOW;126;Pointed Discussion;[2][B];C
+VOW;127;Ragged Recluse // Odious Witch;[1][B];C
+VOW;128;Restless Bloodseeker // Bloodsoaked Reveler;[1][B];U
+VOW;129;Rot-Tide Gargantua;[3][B][B];C
+VOW;130;Skulking Killer;[3][B];U
+VOW;131;Sorin the Mirthless;[2][B][B];M
+VOW;132;Toxrill, the Corrosive;[5][B][B];M
+VOW;133;Undead Butler;[1][B];U
+VOW;134;Undying Malice;[B];C
+VOW;135;Unhallowed Phalanx;[4][B];C
+VOW;136;Vampire's Kiss;[1][B];C
+VOW;137;Voldaren Bloodcaster // Bloodbat Summoner;[1][B];R
+VOW;138;Wedding Security;[3][B][B];U
+VOW;139;Abrade;[1][R];C
+VOW;140;Alchemist's Gambit;[1][R][R];R
+VOW;141;Alluring Suitor // Deadly Dancer;[2][R];U
+VOW;142;Ancestral Anger;[R];C
+VOW;143;Ballista Watcher // Ballista Wielder;[2][R][R];U
+VOW;144;Belligerent Guest;[2][R];C
+VOW;145;Blood Hypnotist;[2][R];U
+VOW;146;Blood Petal Celebrant;[1][R];C
+VOW;147;Bloody Betrayal;[2][R];C
+VOW;148;Cemetery Gatekeeper;[1][R];M
+VOW;149;Chandra, Dressed to Kill;[1][R][R];M
+VOW;150;Change of Fortune;[3][R];R
+VOW;151;Creepy Puppeteer;[3][R];R
+VOW;152;Curse of Hospitality;[2][R];R
+VOW;153;Daybreak Combatants;[2][R];C
+VOW;154;Dominating Vampire;[1][R][R];R
+VOW;155;End the Festivities;[R];C
+VOW;156;Falkenrath Celebrants;[4][R];C
+VOW;157;Fearful Villager // Fearsome Werewolf;[2][R];C
+VOW;158;Flame-Blessed Bolt;[R];C
+VOW;159;Frenzied Devils;[4][R];U
+VOW;160;Honeymoon Hearse;[2][R];U
+VOW;161;Hungry Ridgewolf;[1][R];C
+VOW;162;Ill-Tempered Loner // Howlpack Avenger;[2][R][R];R
+VOW;163;Into the Night;[3][R];U
+VOW;164;Kessig Flamebreather;[1][R];C
+VOW;165;Kessig Wolfrider;[R];R
+VOW;166;Lacerate Flesh;[4][R];C
+VOW;167;Lambholt Raconteur // Lambholt Ravager;[3][R];U
+VOW;168;Lightning Wolf;[3][R];C
+VOW;169;Magma Pummeler;[X][R][R];U
+VOW;170;Manaform Hellkite;[2][R][R];M
+VOW;171;Markov Retribution;[2][R];U
+VOW;172;Olivia's Attendants;[4][R][R];R
+VOW;173;Pyre Spawn;[4][R][R];C
+VOW;174;Reckless Impulse;[1][R];C
+VOW;175;Rending Flame;[2][R];U
+VOW;176;Runebound Wolf;[1][R];U
+VOW;177;Sanguine Statuette;[1][R];U
+VOW;178;Stensia Uprising;[2][R][R];R
+VOW;179;Sure Strike;[1][R];C
+VOW;180;Vampires' Vengeance;[2][R];U
+VOW;181;Volatile Arsonist // Dire-Strain Anarchist;[3][R][R];M
+VOW;182;Voldaren Epicure;[R];C
+VOW;183;Voltaic Visionary // Volt-Charged Berserker;[1][R];U
+VOW;184;Weary Prisoner // Wrathful Jailbreaker;[3][R];C
+VOW;185;Apprentice Sharpshooter;[2][G];C
+VOW;186;Ascendant Packleader;[G];R
+VOW;187;Avabruck Caretaker // Hollowhenge Huntmaster;[4][G][G];M
+VOW;188;Bramble Armor;[1][G];C
+VOW;189;Bramble Wurm;[6][G];U
+VOW;190;Cartographer's Survey;[3][G];U
+VOW;191;Cemetery Prowler;[1][G][G];M
+VOW;192;Cloaked Cadet;[4][G];U
+VOW;193;Crawling Infestation;[2][G];U
+VOW;194;Crushing Canopy;[2][G];C
+VOW;195;Cultivator Colossus;[4][G][G][G];M
+VOW;196;Dawnhart Disciple;[1][G];C
+VOW;197;Dig Up;[G];R
+VOW;198;Dormant Grove // Gnarled Grovestrider;[3][G];U
+VOW;199;Flourishing Hunter;[4][G][G];C
+VOW;200;Glorious Sunrise;[3][G][G];R
+VOW;201;Hamlet Vanguard;[2][G];R
+VOW;202;Hiveheart Shaman;[3][G];R
+VOW;203;Hookhand Mariner // Riphook Raider;[3][G];C
+VOW;204;Howling Moon;[2][G];R
+VOW;205;Howlpack Piper // Wildsong Howler;[3][G];R
+VOW;206;Infestation Expert // Infested Werewolf;[4][G];U
+VOW;207;Laid to Rest;[3][G];U
+VOW;208;Massive Might;[G];C
+VOW;209;Moldgraf Millipede;[4][G];C
+VOW;210;Mulch;[1][G];C
+VOW;211;Nature's Embrace;[2][G];C
+VOW;212;Oakshade Stalker // Moonlit Ambusher;[2][G];U
+VOW;213;Packsong Pup;[1][G];U
+VOW;214;Reclusive Taxidermist;[1][G];U
+VOW;215;Retrieve;[2][G];U
+VOW;216;Rural Recruit;[3][G];C
+VOW;217;Sawblade Slinger;[3][G];U
+VOW;218;Sheltering Boughs;[2][G];C
+VOW;219;Snarling Wolf;[G];C
+VOW;220;Spiked Ripsaw;[2][G];U
+VOW;221;Splendid Reclamation;[3][G];R
+VOW;222;Spore Crawler;[2][G];C
+VOW;223;Sporeback Wolf;[1][G];C
+VOW;224;Toxic Scorpion;[1][G];C
+VOW;225;Ulvenwald Oddity // Ulvenwald Behemoth;[2][G][G];R
+VOW;226;Weaver of Blossoms // Blossom-Clad Werewolf;[2][G];C
+VOW;227;Witch's Web;[1][G];C
+VOW;228;Wolf Strike;[2][G];C
+VOW;229;Wolfkin Outcast // Wedding Crasher;[5][G];U
+VOW;230;Ancient Lumberknot;[2][B][G];U
+VOW;231;Anje, Maid of Dishonor;[2][B][R];R
+VOW;232;Bloodtithe Harvester;[B][R];U
+VOW;233;Brine Comber // Brinebound Gift;[1][W][U];U
+VOW;234;Child of the Pack // Savage Packmate;[2][R][G];U
+VOW;235;Dorothea, Vengeful Victim // Dorothea's Retribution;[W][U];R
+VOW;236;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B];R
+VOW;237;Eruth, Tormented Prophet;[1][U][R];R
+VOW;238;Grolnok, the Omnivore;[2][G][U];R
+VOW;239;Halana and Alena, Partners;[2][R][G];R
+VOW;240;Kaya, Geist Hunter;[1][W][B];M
+VOW;241;Markov Purifier;[1][W][B];U
+VOW;242;Markov Waltzer;[2][R][W];U
+VOW;243;Odric, Blood-Cursed;[1][R][W];R
+VOW;244;Old Rutstein;[1][B][G];R
+VOW;245;Olivia, Crimson Bride;[4][B][R];M
+VOW;246;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B];R
+VOW;247;Sigardian Paladin;[2][G][W];U
+VOW;248;Skull Skaab;[U][B];U
+VOW;A-248;A-Skull Skaab;[U][B];U
+VOW;249;Torens, Fist of the Angels;[1][G][W];R
+VOW;250;Vilespawn Spider;[G][U];U
+VOW;251;Wandering Mind;[1][U][R];U
+VOW;252;Blood Servitor;[3];C
+VOW;253;Boarded Window;[3];U
+VOW;254;Ceremonial Knife;[1];C
+VOW;255;Dollhouse of Horrors;[5];R
+VOW;256;Foreboding Statue // Forsaken Thresher;[3];U
+VOW;257;Honored Heirloom;[3];C
+VOW;258;Investigator's Journal;[2];R
+VOW;259;Lantern of the Lost;[1];U
+VOW;260;Wedding Invitation;[2];C
+VOW;261;Deathcap Glade;;R
+VOW;262;Dreamroot Cascade;;R
+VOW;263;Evolving Wilds;;C
+VOW;264;Shattered Sanctum;;R
+VOW;265;Stormcarved Coast;;R
+VOW;266;Sundown Pass;;R
+VOW;267;Voldaren Estate;;R
+VOW;268;Plains;;C
+VOW;269;Plains;;C
+VOW;270;Island;;C
+VOW;271;Island;;C
+VOW;272;Swamp;;C
+VOW;273;Swamp;;C
+VOW;274;Mountain;;C
+VOW;275;Mountain;;C
+VOW;276;Forest;;C
+VOW;277;Forest;;C
+VOW;278;Sorin the Mirthless;[2][B][B];M
+VOW;279;Chandra, Dressed to Kill;[1][R][R];M
+VOW;280;Kaya, Geist Hunter;[1][W][B];M
+VOW;281;Deathcap Glade;;R
+VOW;282;Dreamroot Cascade;;R
+VOW;283;Shattered Sanctum;;R
+VOW;284;Stormcarved Coast;;R
+VOW;285;Sundown Pass;;R
+VOW;286;Unholy Officiant;[W];C
+VOW;287;Welcoming Vampire;[2][W];R
+VOW;288;Bloodcrazed Socialite;[3][B];C
+VOW;289;Bloodsworn Squire // Bloodsworn Knight;[3][B];U
+VOW;290;Bloodvial Purveyor;[2][B][B];R
+VOW;291;Falkenrath Forebear;[2][B];R
+VOW;292;Gluttonous Guest;[2][B];C
+VOW;293;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B];M
+VOW;294;Innocent Traveler // Malicious Invader;[2][B][B];U
+VOW;295;Restless Bloodseeker // Bloodsoaked Reveler;[1][B];U
+VOW;296;Skulking Killer;[3][B];U
+VOW;297;Sorin the Mirthless;[2][B][B];M
+VOW;298;Voldaren Bloodcaster // Bloodbat Summoner;[1][B];R
+VOW;299;Wedding Security;[3][B][B];U
+VOW;300;Alluring Suitor // Deadly Dancer;[2][R];U
+VOW;301;Belligerent Guest;[2][R];C
+VOW;302;Blood Hypnotist;[2][R];U
+VOW;303;Blood Petal Celebrant;[1][R];C
+VOW;304;Cemetery Gatekeeper;[1][R];M
+VOW;305;Dominating Vampire;[1][R][R];R
+VOW;306;Falkenrath Celebrants;[4][R];C
+VOW;307;Olivia's Attendants;[4][R][R];R
+VOW;308;Voldaren Epicure;[R];C
+VOW;309;Anje, Maid of Dishonor;[2][B][R];R
+VOW;310;Bloodtithe Harvester;[B][R];U
+VOW;311;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B];R
+VOW;312;Markov Purifier;[1][W][B];U
+VOW;313;Markov Waltzer;[2][R][W];U
+VOW;314;Odric, Blood-Cursed;[1][R][W];R
+VOW;315;Olivia, Crimson Bride;[4][B][R];M
+VOW;316;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B];R
+VOW;317;Katilda, Dawnhart Martyr // Katilda's Rising Dawn;[1][W][W];R
+VOW;318;Thalia, Guardian of Thraben;[1][W];R
+VOW;319;Geralf, Visionary Stitcher;[2][U];R
+VOW;320;Jacob Hauken, Inspector // Hauken's Insight;[1][U];M
+VOW;321;Toxrill, the Corrosive;[5][B][B];M
+VOW;322;Dorothea, Vengeful Victim // Dorothea's Retribution;[W][U];R
+VOW;323;Eruth, Tormented Prophet;[1][U][R];R
+VOW;324;Grolnok, the Omnivore;[2][G][U];R
+VOW;325;Halana and Alena, Partners;[2][R][G];R
+VOW;326;Old Rutstein;[1][B][G];R
+VOW;327;Runo Stromkirk // Krothuss, Lord of the Deep;[1][U][B];R
+VOW;328;Torens, Fist of the Angels;[1][G][W];R
+VOW;329;Circle of Confinement;[1][W];U
+VOW;330;Savior of Ollenbock;[1][W][W];M
+VOW;331;Thalia, Guardian of Thraben;[1][W];R
+VOW;332;Jacob Hauken, Inspector // Hauken's Insight;[1][U];M
+VOW;333;Thirst for Discovery;[2][U];U
+VOW;334;Falkenrath Forebear;[2][B];R
+VOW;335;Henrika Domnathi // Henrika, Infernal Seer;[2][B][B];M
+VOW;336;Innocent Traveler // Malicious Invader;[2][B][B];U
+VOW;337;Sorin the Mirthless;[2][B][B];M
+VOW;338;Voldaren Bloodcaster // Bloodbat Summoner;[1][B];R
+VOW;339;Vampires' Vengeance;[2][R];U
+VOW;340;Reclusive Taxidermist;[1][G];U
+VOW;341;Edgar, Charmed Groom // Edgar Markov's Coffin;[2][W][B];R
+VOW;342;Eruth, Tormented Prophet;[1][U][R];R
+VOW;343;Olivia, Crimson Bride;[4][B][R];M
+VOW;344;Torens, Fist of the Angels;[1][G][W];R
+VOW;345;Investigator's Journal;[2];R
+VOW;346;By Invitation Only;[3][W][W];R
+VOW;347;Cemetery Protector;[2][W][W];M
+VOW;348;Faithbound Judge // Sinner's Judgment;[1][W][W];M
+VOW;349;Hallowed Haunting;[2][W][W];M
+VOW;350;Hopeful Initiate;[W];R
+VOW;351;Lantern Flare;[1][W];R
+VOW;352;Savior of Ollenbock;[1][W][W];M
+VOW;353;Sigarda's Summons;[4][W][W];R
+VOW;354;Voice of the Blessed;[W][W];R
+VOW;355;Wedding Announcement // Wedding Festivity;[2][W];R
+VOW;356;Cemetery Illuminator;[1][U][U];M
+VOW;357;Consuming Tide;[2][U][U];R
+VOW;358;Dreamshackle Geist;[1][U][U];R
+VOW;359;Hullbreaker Horror;[5][U][U];R
+VOW;360;Inspired Idea;[2][U];R
+VOW;361;Mirrorhall Mimic // Ghastly Mimicry;[3][U];R
+VOW;362;Necroduality;[3][U];M
+VOW;363;Overcharged Amalgam;[2][U][U];R
+VOW;364;Patchwork Crawler;[1][U];R
+VOW;365;Winged Portent;[1][U][U];R
+VOW;366;Cemetery Desecrator;[4][B][B];M
+VOW;367;Concealing Curtains // Revealing Eye;[B];R
+VOW;368;Demonic Bargain;[2][B];R
+VOW;369;Dreadfeast Demon;[5][B][B];R
+VOW;370;Dying to Serve;[2][B];R
+VOW;371;Graf Reaver;[1][B];R
+VOW;372;Headless Rider;[2][B];R
+VOW;373;Path of Peril;[1][B][B];R
+VOW;374;Alchemist's Gambit;[1][R][R];R
+VOW;375;Change of Fortune;[3][R];R
+VOW;376;Creepy Puppeteer;[3][R];R
+VOW;377;Curse of Hospitality;[2][R];R
+VOW;378;Ill-Tempered Loner // Howlpack Avenger;[2][R][R];R
+VOW;379;Kessig Wolfrider;[R];R
+VOW;380;Manaform Hellkite;[2][R][R];M
+VOW;381;Stensia Uprising;[2][R][R];R
+VOW;382;Volatile Arsonist // Dire-Strain Anarchist;[3][R][R];M
+VOW;383;Ascendant Packleader;[G];R
+VOW;384;Avabruck Caretaker // Hollowhenge Huntmaster;[4][G][G];M
+VOW;385;Cemetery Prowler;[1][G][G];M
+VOW;386;Cultivator Colossus;[4][G][G][G];M
+VOW;387;Dig Up;[G];R
+VOW;388;Glorious Sunrise;[3][G][G];R
+VOW;389;Hamlet Vanguard;[2][G];R
+VOW;390;Hiveheart Shaman;[3][G];R
+VOW;391;Howling Moon;[2][G];R
+VOW;392;Howlpack Piper // Wildsong Howler;[3][G];R
+VOW;393;Splendid Reclamation;[3][G];R
+VOW;394;Ulvenwald Oddity // Ulvenwald Behemoth;[2][G][G];R
+VOW;395;Dollhouse of Horrors;[5];R
+VOW;396;Investigator's Journal;[2];R
+VOW;397;Voldaren Estate;;R
+VOW;398;Plains;;C
+VOW;399;Island;;C
+VOW;400;Swamp;;C
+VOW;401;Mountain;;C
+VOW;402;Forest;;C
+VOW;403;Voldaren Estate;;R
+VOW;404;Sigarda's Summons;[4][W][W];R
+VOW;405;Geistlight Snare;[2][U];U
+VOW;406;Fell Stinger;[2][B];U
+VOW;407;Dominating Vampire;[1][R][R];R
+VOW;408;Plains;;C
+VOW;409;Island;;C
+VOW;410;Swamp;;C
+VOW;411;Mountain;;C
+VOW;412;Forest;;C

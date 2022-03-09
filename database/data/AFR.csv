@@ -1,416 +1,416 @@
-set;number;name;cost
-AFR;1;+2 Mace;[1][W]
-AFR;2;Arborea Pegasus;[3][W]
-AFR;3;Blink Dog;[2][W]
-AFR;4;The Book of Exalted Deeds;[W][W][W]
-AFR;5;Celestial Unicorn;[2][W]
-AFR;6;Cleric Class;[W]
-AFR;7;Cloister Gargoyle;[2][W]
-AFR;A-7;A-Cloister Gargoyle;[1][W]
-AFR;8;Dancing Sword;[1][W]
-AFR;9;Dawnbringer Cleric;[1][W]
-AFR;10;Delver's Torch;[1][W]
-AFR;11;Devoted Paladin;[4][W]
-AFR;12;Divine Smite;[1][W]
-AFR;13;Dragon's Disciple;[1][W]
-AFR;14;Dwarfhold Champion;[1][W]
-AFR;15;Flumph;[1][W]
-AFR;16;Gloom Stalker;[2][W]
-AFR;17;Grand Master of Flowers;[2][W][W]
-AFR;18;Guardian of Faith;[1][W][W]
-AFR;19;Half-Elf Monk;[3][W]
-AFR;20;Icingdeath, Frost Tyrant;[2][W][W]
-AFR;21;Ingenious Smith;[1][W]
-AFR;22;Keen-Eared Sentry;[1][W]
-AFR;23;Loyal Warhound;[1][W]
-AFR;24;Minimus Containment;[2][W]
-AFR;25;Monk of the Open Hand;[W]
-AFR;26;Moon-Blessed Cleric;[2][W]
-AFR;27;Nadaar, Selfless Paladin;[2][W]
-AFR;28;Oswald Fiddlebender;[1][W]
-AFR;29;Paladin Class;[W]
-AFR;30;Paladin's Shield;[1][W]
-AFR;31;Planar Ally;[3][W][W]
-AFR;32;Plate Armor;[2][W]
-AFR;33;Portable Hole;[W]
-AFR;34;Potion of Healing;[1][W]
-AFR;35;Priest of Ancient Lore;[2][W]
-AFR;36;Rally Maneuver;[2][W]
-AFR;37;Ranger's Hawk;[W]
-AFR;38;Steadfast Paladin;[1][W]
-AFR;39;Teleportation Circle;[3][W]
-AFR;40;Veteran Dungeoneer;[3][W]
-AFR;41;White Dragon;[4][W][W]
-AFR;42;You Hear Something on Watch;[1][W]
-AFR;43;You're Ambushed on the Road;[W]
-AFR;44;Aberrant Mind Sorcerer;[4][U]
-AFR;45;Air-Cult Elemental;[4][U][U]
-AFR;46;Arcane Investigator;[1][U]
-AFR;47;Bar the Gate;[2][U]
-AFR;48;The Blackstaff of Waterdeep;[U]
-AFR;49;Blue Dragon;[5][U][U]
-AFR;50;Charmed Sleep;[1][U][U]
-AFR;51;Clever Conjurer;[2][U]
-AFR;52;Contact Other Plane;[3][U]
-AFR;53;Demilich;[U][U][U][U]
-AFR;A-53;A-Demilich;[U][U][U][U]
-AFR;54;Displacer Beast;[2][U]
-AFR;55;Djinni Windseer;[3][U]
-AFR;56;Dragon Turtle;[1][U][U]
-AFR;57;Eccentric Apprentice;[2][U]
-AFR;58;Feywild Trickster;[2][U]
-AFR;59;Fly;[U]
-AFR;60;Grazilaxx, Illithid Scholar;[1][U][U]
-AFR;61;Guild Thief;[1][U]
-AFR;62;Iymrith, Desert Doom;[3][U][U]
-AFR;63;Mind Flayer;[3][U][U]
-AFR;64;Mordenkainen;[4][U][U]
-AFR;65;Mordenkainen's Polymorph;[1][U]
-AFR;66;Pixie Guide;[1][U]
-AFR;67;Power of Persuasion;[2][U]
-AFR;68;Ray of Frost;[1][U]
-AFR;69;Rimeshield Frost Giant;[3][U][U]
-AFR;70;Scion of Stygia;[2][U]
-AFR;71;Secret Door;[U]
-AFR;72;Shocking Grasp;[1][U]
-AFR;73;Shortcut Seeker;[3][U]
-AFR;74;Silver Raven;[U]
-AFR;75;Soulknife Spy;[2][U]
-AFR;76;Split the Party;[3][U][U]
-AFR;77;Sudden Insight;[4][U][U]
-AFR;78;Tasha's Hideous Laughter;[1][U][U]
-AFR;79;Trickster's Talisman;[U]
-AFR;80;True Polymorph;[4][U][U]
-AFR;81;Wizard Class;[U]
-AFR;A-81;A-Wizard Class;[U]
-AFR;82;Wizard's Spellbook;[5][U][U]
-AFR;83;You Come to a River;[1][U]
-AFR;84;You Find the Villains' Lair;[1][U][U]
-AFR;85;You See a Guard Approach;[U]
-AFR;86;Yuan-Ti Malison;[1][U]
-AFR;87;Acererak the Archlich;[2][B]
-AFR;A-87;A-Acererak the Archlich;[2][B]
-AFR;88;Asmodeus the Archfiend;[4][B][B]
-AFR;89;Baleful Beholder;[4][B][B]
-AFR;90;Black Dragon;[5][B][B]
-AFR;91;The Book of Vile Darkness;[B][B][B]
-AFR;92;Check for Traps;[1][B]
-AFR;93;Clattering Skeletons;[3][B]
-AFR;94;Deadly Dispute;[1][B]
-AFR;95;Death-Priest of Myrkul;[2][B][B]
-AFR;A-95;A-Death-Priest of Myrkul;[2][B][B]
-AFR;96;Demogorgon's Clutches;[2][B]
-AFR;97;Devour Intellect;[B]
-AFR;98;Drider;[4][B]
-AFR;99;Dungeon Crawler;[B]
-AFR;100;Ebondeath, Dracolich;[2][B][B]
-AFR;101;Eyes of the Beholder;[4][B][B]
-AFR;102;Fates' Reversal;[1][B]
-AFR;A-102;A-Fates' Reversal;[B]
-AFR;103;Feign Death;[B]
-AFR;104;Forsworn Paladin;[B]
-AFR;105;Gelatinous Cube;[2][B][B]
-AFR;106;Grim Bounty;[2][B][B]
-AFR;107;Grim Wanderer;[1][B]
-AFR;108;Herald of Hadar;[4][B]
-AFR;109;Hired Hexblade;[1][B]
-AFR;110;Hoard Robber;[1][B]
-AFR;111;Lightfoot Rogue;[1][B]
-AFR;112;Lolth, Spider Queen;[3][B][B]
-AFR;113;Manticore;[3][B]
-AFR;114;Power Word Kill;[1][B]
-AFR;115;Precipitous Drop;[2][B]
-AFR;A-115;A-Precipitous Drop;[1][B]
-AFR;116;Ray of Enfeeblement;[B]
-AFR;117;Reaper's Talisman;[B]
-AFR;118;Sepulcher Ghoul;[1][B]
-AFR;A-118;A-Sepulcher Ghoul;[1][B]
-AFR;119;Shambling Ghast;[B]
-AFR;120;Skullport Merchant;[2][B]
-AFR;121;Sphere of Annihilation;[X][B]
-AFR;122;Thieves' Tools;[1][B]
-AFR;123;Vampire Spawn;[2][B]
-AFR;124;Vorpal Sword;[B]
-AFR;125;Warlock Class;[B]
-AFR;126;Westgate Regent;[3][B][B]
-AFR;127;Wight;[1][B]
-AFR;128;Yuan-Ti Fang-Blade;[2][B]
-AFR;129;Zombie Ogre;[3][B][B]
-AFR;130;Armory Veteran;[1][R]
-AFR;131;Barbarian Class;[R]
-AFR;132;Battle Cry Goblin;[1][R]
-AFR;133;Boots of Speed;[R]
-AFR;134;Brazen Dwarf;[1][R]
-AFR;135;Burning Hands;[1][R]
-AFR;136;Chaos Channeler;[2][R][R]
-AFR;137;Critical Hit;[1][R]
-AFR;138;Delina, Wild Mage;[3][R]
-AFR;139;Dragon's Fire;[1][R]
-AFR;140;Dueling Rapier;[R]
-AFR;141;Earth-Cult Elemental;[4][R][R]
-AFR;142;Farideh's Fireball;[3][R][R]
-AFR;143;Flameskull;[1][R][R]
-AFR;144;Goblin Javelineer;[R]
-AFR;145;Goblin Morningstar;[1][R]
-AFR;146;Hoarding Ogre;[3][R]
-AFR;147;Hobgoblin Bandit Lord;[1][R][R]
-AFR;148;Hobgoblin Captain;[1][R]
-AFR;149;Hulking Bugbear;[1][R][R]
-AFR;150;Improvised Weaponry;[2][R]
-AFR;151;Inferno of the Star Mounts;[4][R][R]
-AFR;152;Jaded Sell-Sword;[3][R]
-AFR;153;Kick in the Door;[R]
-AFR;154;Magic Missile;[1][R][R]
-AFR;155;Meteor Swarm;[X][R][R][R]
-AFR;156;Minion of the Mighty;[R]
-AFR;157;Orb of Dragonkind;[1][R]
-AFR;158;Plundering Barbarian;[2][R]
-AFR;159;Price of Loyalty;[2][R]
-AFR;160;Red Dragon;[4][R][R]
-AFR;161;Rust Monster;[2][R]
-AFR;162;Swarming Goblins;[4][R]
-AFR;163;Tiger-Tribe Hunter;[3][R][R]
-AFR;164;Unexpected Windfall;[2][R][R]
-AFR;165;Valor Singer;[2][R]
-AFR;166;Wish;[2][R]
-AFR;167;Xorn;[2][R]
-AFR;168;You Come to the Gnoll Camp;[1][R]
-AFR;169;You Find Some Prisoners;[1][R]
-AFR;170;You See a Pair of Goblins;[2][R]
-AFR;171;Zalto, Fire Giant Duke;[3][R][R]
-AFR;172;Zariel, Archduke of Avernus;[2][R][R]
-AFR;173;Bulette;[3][G]
-AFR;174;Bull's Strength;[1][G]
-AFR;175;Choose Your Weapon;[2][G]
-AFR;176;Circle of Dreams Druid;[G][G][G]
-AFR;177;Circle of the Moon Druid;[2][G]
-AFR;178;Compelled Duel;[1][G]
-AFR;179;Dire Wolf Prowler;[2][G]
-AFR;180;Druid Class;[1][G]
-AFR;A-180;A-Druid Class;[1][G]
-AFR;181;Ellywick Tumblestrum;[2][G][G]
-AFR;A-181;A-Ellywick Tumblestrum;[2][G][G]
-AFR;182;Elturgard Ranger;[4][G]
-AFR;183;Find the Path;[2][G]
-AFR;A-183;A-Find the Path;[2][G]
-AFR;184;Froghemoth;[3][G][G]
-AFR;185;Gnoll Hunter;[1][G]
-AFR;186;Green Dragon;[4][G][G]
-AFR;187;Hill Giant Herdgorger;[4][G][G]
-AFR;188;Hunter's Mark;[3][G]
-AFR;189;Inspiring Bard;[3][G]
-AFR;190;Instrument of the Bards;[G]
-AFR;191;Intrepid Outlander;[1][G]
-AFR;192;Loathsome Troll;[3][G][G]
-AFR;193;Long Rest;[X][G][G][G]
-AFR;194;Lurking Roper;[2][G]
-AFR;195;Neverwinter Dryad;[G]
-AFR;196;Ochre Jelly;[X][G]
-AFR;197;Old Gnawbone;[5][G][G]
-AFR;198;Owlbear;[3][G][G]
-AFR;199;Plummet;[1][G]
-AFR;200;Prosperous Innkeeper;[1][G]
-AFR;201;Purple Worm;[5][G][G]
-AFR;202;Ranger Class;[1][G]
-AFR;203;Ranger's Longbow;[1][G]
-AFR;204;Scaled Herbalist;[1][G]
-AFR;205;Spoils of the Hunt;[2][G]
-AFR;206;Sylvan Shepherd;[2][G]
-AFR;207;The Tarrasque;[6][G][G][G]
-AFR;208;Underdark Basilisk;[1][G]
-AFR;209;Varis, Silverymoon Ranger;[1][G][G]
-AFR;210;Wandering Troubadour;[3][G]
-AFR;211;Werewolf Pack Leader;[G][G]
-AFR;212;Wild Shape;[G]
-AFR;213;You Find a Cursed Idol;[1][G]
-AFR;214;You Happen On a Glade;[2][G]
-AFR;215;You Meet in a Tavern;[2][G][G]
-AFR;216;Adult Gold Dragon;[3][R][W]
-AFR;217;Bard Class;[R][G]
-AFR;218;Barrowin of Clan Undurr;[2][W][B]
-AFR;219;Bruenor Battlehammer;[2][R][W]
-AFR;220;Drizzt Do'Urden;[3][G][W]
-AFR;221;Farideh, Devil's Chosen;[2][U][R]
-AFR;222;Fighter Class;[R][W]
-AFR;223;Gretchen Titchwillow;[G][U]
-AFR;224;Hama Pashar, Ruin Seeker;[1][W][U]
-AFR;225;Kalain, Reclusive Painter;[B][R]
-AFR;226;Krydle of Baldur's Gate;[U][B]
-AFR;227;Minsc, Beloved Ranger;[R][G][W]
-AFR;228;Monk Class;[W][U]
-AFR;229;Orcus, Prince of Undeath;[X][2][B][R]
-AFR;230;Rogue Class;[U][B]
-AFR;231;Shessra, Death's Whisper;[2][B][G]
-AFR;232;Skeletal Swarming;[3][B][G]
-AFR;233;Sorcerer Class;[U][R]
-AFR;234;Targ Nar, Demon-Fang Gnoll;[R][G]
-AFR;235;Tiamat;[2][W][U][B][R][G]
-AFR;236;Trelasarra, Moon Dancer;[G][W]
-AFR;237;Triumphant Adventurer;[W][B]
-AFR;A-237;A-Triumphant Adventurer;[W][B]
-AFR;238;Volo, Guide to Monsters;[2][G][U]
-AFR;239;Xanathar, Guild Kingpin;[4][U][B]
-AFR;240;Bag of Holding;[1]
-AFR;241;The Deck of Many Things;[5]
-AFR;242;Dungeon Map;[3]
-AFR;243;Eye of Vecna;[2]
-AFR;244;Fifty Feet of Rope;[1]
-AFR;245;Greataxe;[1]
-AFR;246;Hand of Vecna;[3]
-AFR;247;Iron Golem;[4]
-AFR;248;Leather Armor;[1]
-AFR;249;Mimic;[2]
-AFR;250;Spare Dagger;[1]
-AFR;251;Spiked Pit Trap;[1]
-AFR;252;Treasure Chest;[3]
-AFR;253;Cave of the Frost Dragon;
-AFR;254;Den of the Bugbear;
-AFR;255;Dungeon Descent;
-AFR;A-255;A-Dungeon Descent;
-AFR;256;Evolving Wilds;
-AFR;257;Hall of Storm Giants;
-AFR;258;Hive of the Eye Tyrant;
-AFR;259;Lair of the Hydra;
-AFR;260;Temple of the Dragon Queen;
-AFR;261;Treasure Vault;
-AFR;262;Plains;
-AFR;263;Plains;
-AFR;264;Plains;
-AFR;265;Plains;
-AFR;266;Island;
-AFR;267;Island;
-AFR;268;Island;
-AFR;269;Island;
-AFR;270;Swamp;
-AFR;271;Swamp;
-AFR;272;Swamp;
-AFR;273;Swamp;
-AFR;274;Mountain;
-AFR;275;Mountain;
-AFR;276;Mountain;
-AFR;277;Mountain;
-AFR;278;Forest;
-AFR;279;Forest;
-AFR;280;Forest;
-AFR;281;Forest;
-AFR;282;Grand Master of Flowers;[2][W][W]
-AFR;283;Mordenkainen;[4][U][U]
-AFR;284;Lolth, Spider Queen;[3][B][B]
-AFR;285;Zariel, Archduke of Avernus;[2][R][R]
-AFR;286;Ellywick Tumblestrum;[2][G][G]
-AFR;287;Icingdeath, Frost Tyrant;[2][W][W]
-AFR;288;White Dragon;[4][W][W]
-AFR;289;Blue Dragon;[5][U][U]
-AFR;290;Iymrith, Desert Doom;[3][U][U]
-AFR;291;Black Dragon;[5][B][B]
-AFR;292;Ebondeath, Dracolich;[2][B][B]
-AFR;293;Inferno of the Star Mounts;[4][R][R]
-AFR;294;Red Dragon;[4][R][R]
-AFR;295;Green Dragon;[4][G][G]
-AFR;296;Old Gnawbone;[5][G][G]
-AFR;297;Adult Gold Dragon;[3][R][W]
-AFR;298;Tiamat;[2][W][U][B][R][G]
-AFR;299;Arborea Pegasus;[3][W]
-AFR;300;Blink Dog;[2][W]
-AFR;301;Celestial Unicorn;[2][W]
-AFR;302;Cloister Gargoyle;[2][W]
-AFR;303;Nadaar, Selfless Paladin;[2][W]
-AFR;304;Oswald Fiddlebender;[1][W]
-AFR;305;Displacer Beast;[2][U]
-AFR;306;Djinni Windseer;[3][U]
-AFR;307;Dragon Turtle;[1][U][U]
-AFR;308;Mind Flayer;[3][U][U]
-AFR;309;Pixie Guide;[1][U]
-AFR;310;Rimeshield Frost Giant;[3][U][U]
-AFR;311;Baleful Beholder;[4][B][B]
-AFR;312;Clattering Skeletons;[3][B]
-AFR;313;Gelatinous Cube;[2][B][B]
-AFR;314;Manticore;[3][B]
-AFR;315;Westgate Regent;[3][B][B]
-AFR;316;Wight;[1][B]
-AFR;317;Delina, Wild Mage;[3][R]
-AFR;318;Goblin Javelineer;[R]
-AFR;319;Hulking Bugbear;[1][R][R]
-AFR;320;Minion of the Mighty;[R]
-AFR;321;Rust Monster;[2][R]
-AFR;322;Xorn;[2][R]
-AFR;323;Zalto, Fire Giant Duke;[3][R][R]
-AFR;324;Bulette;[3][G]
-AFR;325;Dire Wolf Prowler;[2][G]
-AFR;326;Gnoll Hunter;[1][G]
-AFR;327;Loathsome Troll;[3][G][G]
-AFR;328;Lurking Roper;[2][G]
-AFR;329;Neverwinter Dryad;[G]
-AFR;330;Ochre Jelly;[X][G]
-AFR;331;Owlbear;[3][G][G]
-AFR;332;Purple Worm;[5][G][G]
-AFR;333;The Tarrasque;[6][G][G][G]
-AFR;334;Underdark Basilisk;[1][G]
-AFR;335;Varis, Silverymoon Ranger;[1][G][G]
-AFR;336;Barrowin of Clan Undurr;[2][W][B]
-AFR;337;Bruenor Battlehammer;[2][R][W]
-AFR;338;Drizzt Do'Urden;[3][G][W]
-AFR;339;Farideh, Devil's Chosen;[2][U][R]
-AFR;340;Gretchen Titchwillow;[G][U]
-AFR;341;Hama Pashar, Ruin Seeker;[1][W][U]
-AFR;342;Kalain, Reclusive Painter;[B][R]
-AFR;343;Krydle of Baldur's Gate;[U][B]
-AFR;344;Minsc, Beloved Ranger;[R][G][W]
-AFR;345;Shessra, Death's Whisper;[2][B][G]
-AFR;346;Trelasarra, Moon Dancer;[G][W]
-AFR;347;Volo, Guide to Monsters;[2][G][U]
-AFR;348;Iron Golem;[4]
-AFR;349;Mimic;[2]
-AFR;350;Cave of the Frost Dragon;
-AFR;351;Den of the Bugbear;
-AFR;352;Dungeon Descent;
-AFR;353;Evolving Wilds;
-AFR;354;Hall of Storm Giants;
-AFR;355;Hive of the Eye Tyrant;
-AFR;356;Lair of the Hydra;
-AFR;357;Temple of the Dragon Queen;
-AFR;358;Treasure Vault;
-AFR;359;The Book of Exalted Deeds;[W][W][W]
-AFR;360;Dancing Sword;[1][W]
-AFR;361;Flumph;[1][W]
-AFR;362;Guardian of Faith;[1][W][W]
-AFR;363;Loyal Warhound;[1][W]
-AFR;364;Teleportation Circle;[3][W]
-AFR;365;The Blackstaff of Waterdeep;[U]
-AFR;366;Demilich;[U][U][U][U]
-AFR;367;Grazilaxx, Illithid Scholar;[1][U][U]
-AFR;368;Tasha's Hideous Laughter;[1][U][U]
-AFR;369;True Polymorph;[4][U][U]
-AFR;370;Wizard's Spellbook;[5][U][U]
-AFR;371;Yuan-Ti Malison;[1][U]
-AFR;372;Acererak the Archlich;[2][B]
-AFR;373;Asmodeus the Archfiend;[4][B][B]
-AFR;374;The Book of Vile Darkness;[B][B][B]
-AFR;375;Forsworn Paladin;[B]
-AFR;376;Sphere of Annihilation;[X][B]
-AFR;377;Vorpal Sword;[B]
-AFR;378;Flameskull;[1][R][R]
-AFR;379;Hobgoblin Bandit Lord;[1][R][R]
-AFR;380;Meteor Swarm;[X][R][R][R]
-AFR;381;Orb of Dragonkind;[1][R]
-AFR;382;Wish;[2][R]
-AFR;383;Circle of Dreams Druid;[G][G][G]
-AFR;384;Froghemoth;[3][G][G]
-AFR;385;Instrument of the Bards;[G]
-AFR;386;Long Rest;[X][G][G][G]
-AFR;387;Werewolf Pack Leader;[G][G]
-AFR;388;Orcus, Prince of Undeath;[X][2][B][R]
-AFR;389;Skeletal Swarming;[3][B][G]
-AFR;390;Triumphant Adventurer;[W][B]
-AFR;391;Xanathar, Guild Kingpin;[4][U][B]
-AFR;392;The Deck of Many Things;[5]
-AFR;393;Eye of Vecna;[2]
-AFR;394;Hand of Vecna;[3]
-AFR;395;Treasure Chest;[3]
-AFR;396;Vorpal Sword;[B]
-AFR;397;Treasure Chest;[3]
-AFR;398;Portable Hole;[W]
-AFR;399;You Find the Villains' Lair;[1][U][U]
-AFR;400;Power Word Kill;[1][B]
-AFR;401;Magic Missile;[1][R][R]
-AFR;402;Prosperous Innkeeper;[1][G]
+set;number;name;cost;rarity
+AFR;1;+2 Mace;[1][W];C
+AFR;2;Arborea Pegasus;[3][W];C
+AFR;3;Blink Dog;[2][W];U
+AFR;4;The Book of Exalted Deeds;[W][W][W];M
+AFR;5;Celestial Unicorn;[2][W];C
+AFR;6;Cleric Class;[W];U
+AFR;7;Cloister Gargoyle;[2][W];U
+AFR;A-7;A-Cloister Gargoyle;[1][W];U
+AFR;8;Dancing Sword;[1][W];R
+AFR;9;Dawnbringer Cleric;[1][W];C
+AFR;10;Delver's Torch;[1][W];C
+AFR;11;Devoted Paladin;[4][W];C
+AFR;12;Divine Smite;[1][W];U
+AFR;13;Dragon's Disciple;[1][W];U
+AFR;14;Dwarfhold Champion;[1][W];C
+AFR;15;Flumph;[1][W];R
+AFR;16;Gloom Stalker;[2][W];C
+AFR;17;Grand Master of Flowers;[2][W][W];M
+AFR;18;Guardian of Faith;[1][W][W];R
+AFR;19;Half-Elf Monk;[3][W];C
+AFR;20;Icingdeath, Frost Tyrant;[2][W][W];M
+AFR;21;Ingenious Smith;[1][W];U
+AFR;22;Keen-Eared Sentry;[1][W];U
+AFR;23;Loyal Warhound;[1][W];R
+AFR;24;Minimus Containment;[2][W];C
+AFR;25;Monk of the Open Hand;[W];U
+AFR;26;Moon-Blessed Cleric;[2][W];U
+AFR;27;Nadaar, Selfless Paladin;[2][W];R
+AFR;28;Oswald Fiddlebender;[1][W];R
+AFR;29;Paladin Class;[W];R
+AFR;30;Paladin's Shield;[1][W];C
+AFR;31;Planar Ally;[3][W][W];C
+AFR;32;Plate Armor;[2][W];U
+AFR;33;Portable Hole;[W];U
+AFR;34;Potion of Healing;[1][W];C
+AFR;35;Priest of Ancient Lore;[2][W];C
+AFR;36;Rally Maneuver;[2][W];U
+AFR;37;Ranger's Hawk;[W];C
+AFR;38;Steadfast Paladin;[1][W];C
+AFR;39;Teleportation Circle;[3][W];R
+AFR;40;Veteran Dungeoneer;[3][W];C
+AFR;41;White Dragon;[4][W][W];U
+AFR;42;You Hear Something on Watch;[1][W];C
+AFR;43;You're Ambushed on the Road;[W];C
+AFR;44;Aberrant Mind Sorcerer;[4][U];U
+AFR;45;Air-Cult Elemental;[4][U][U];C
+AFR;46;Arcane Investigator;[1][U];C
+AFR;47;Bar the Gate;[2][U];C
+AFR;48;The Blackstaff of Waterdeep;[U];R
+AFR;49;Blue Dragon;[5][U][U];U
+AFR;50;Charmed Sleep;[1][U][U];C
+AFR;51;Clever Conjurer;[2][U];C
+AFR;52;Contact Other Plane;[3][U];C
+AFR;53;Demilich;[U][U][U][U];M
+AFR;A-53;A-Demilich;[U][U][U][U];M
+AFR;54;Displacer Beast;[2][U];U
+AFR;55;Djinni Windseer;[3][U];C
+AFR;56;Dragon Turtle;[1][U][U];R
+AFR;57;Eccentric Apprentice;[2][U];U
+AFR;58;Feywild Trickster;[2][U];U
+AFR;59;Fly;[U];U
+AFR;60;Grazilaxx, Illithid Scholar;[1][U][U];R
+AFR;61;Guild Thief;[1][U];U
+AFR;62;Iymrith, Desert Doom;[3][U][U];M
+AFR;63;Mind Flayer;[3][U][U];R
+AFR;64;Mordenkainen;[4][U][U];M
+AFR;65;Mordenkainen's Polymorph;[1][U];C
+AFR;66;Pixie Guide;[1][U];C
+AFR;67;Power of Persuasion;[2][U];U
+AFR;68;Ray of Frost;[1][U];U
+AFR;69;Rimeshield Frost Giant;[3][U][U];C
+AFR;70;Scion of Stygia;[2][U];C
+AFR;71;Secret Door;[U];C
+AFR;72;Shocking Grasp;[1][U];C
+AFR;73;Shortcut Seeker;[3][U];C
+AFR;74;Silver Raven;[U];C
+AFR;75;Soulknife Spy;[2][U];C
+AFR;76;Split the Party;[3][U][U];U
+AFR;77;Sudden Insight;[4][U][U];U
+AFR;78;Tasha's Hideous Laughter;[1][U][U];R
+AFR;79;Trickster's Talisman;[U];U
+AFR;80;True Polymorph;[4][U][U];R
+AFR;81;Wizard Class;[U];U
+AFR;A-81;A-Wizard Class;[U];U
+AFR;82;Wizard's Spellbook;[5][U][U];R
+AFR;83;You Come to a River;[1][U];C
+AFR;84;You Find the Villains' Lair;[1][U][U];C
+AFR;85;You See a Guard Approach;[U];C
+AFR;86;Yuan-Ti Malison;[1][U];R
+AFR;87;Acererak the Archlich;[2][B];M
+AFR;A-87;A-Acererak the Archlich;[2][B];M
+AFR;88;Asmodeus the Archfiend;[4][B][B];R
+AFR;89;Baleful Beholder;[4][B][B];C
+AFR;90;Black Dragon;[5][B][B];U
+AFR;91;The Book of Vile Darkness;[B][B][B];M
+AFR;92;Check for Traps;[1][B];U
+AFR;93;Clattering Skeletons;[3][B];C
+AFR;94;Deadly Dispute;[1][B];C
+AFR;95;Death-Priest of Myrkul;[2][B][B];U
+AFR;A-95;A-Death-Priest of Myrkul;[2][B][B];U
+AFR;96;Demogorgon's Clutches;[2][B];U
+AFR;97;Devour Intellect;[B];C
+AFR;98;Drider;[4][B];U
+AFR;99;Dungeon Crawler;[B];U
+AFR;100;Ebondeath, Dracolich;[2][B][B];M
+AFR;101;Eyes of the Beholder;[4][B][B];C
+AFR;102;Fates' Reversal;[1][B];C
+AFR;A-102;A-Fates' Reversal;[B];C
+AFR;103;Feign Death;[B];C
+AFR;104;Forsworn Paladin;[B];R
+AFR;105;Gelatinous Cube;[2][B][B];R
+AFR;106;Grim Bounty;[2][B][B];C
+AFR;107;Grim Wanderer;[1][B];U
+AFR;108;Herald of Hadar;[4][B];C
+AFR;109;Hired Hexblade;[1][B];C
+AFR;110;Hoard Robber;[1][B];C
+AFR;111;Lightfoot Rogue;[1][B];U
+AFR;112;Lolth, Spider Queen;[3][B][B];M
+AFR;113;Manticore;[3][B];C
+AFR;114;Power Word Kill;[1][B];U
+AFR;115;Precipitous Drop;[2][B];C
+AFR;A-115;A-Precipitous Drop;[1][B];C
+AFR;116;Ray of Enfeeblement;[B];U
+AFR;117;Reaper's Talisman;[B];U
+AFR;118;Sepulcher Ghoul;[1][B];C
+AFR;A-118;A-Sepulcher Ghoul;[1][B];C
+AFR;119;Shambling Ghast;[B];C
+AFR;120;Skullport Merchant;[2][B];U
+AFR;121;Sphere of Annihilation;[X][B];R
+AFR;122;Thieves' Tools;[1][B];C
+AFR;123;Vampire Spawn;[2][B];C
+AFR;124;Vorpal Sword;[B];R
+AFR;125;Warlock Class;[B];U
+AFR;126;Westgate Regent;[3][B][B];R
+AFR;127;Wight;[1][B];R
+AFR;128;Yuan-Ti Fang-Blade;[2][B];C
+AFR;129;Zombie Ogre;[3][B][B];C
+AFR;130;Armory Veteran;[1][R];C
+AFR;131;Barbarian Class;[R];U
+AFR;132;Battle Cry Goblin;[1][R];U
+AFR;133;Boots of Speed;[R];C
+AFR;134;Brazen Dwarf;[1][R];C
+AFR;135;Burning Hands;[1][R];U
+AFR;136;Chaos Channeler;[2][R][R];U
+AFR;137;Critical Hit;[1][R];U
+AFR;138;Delina, Wild Mage;[3][R];R
+AFR;139;Dragon's Fire;[1][R];C
+AFR;140;Dueling Rapier;[R];C
+AFR;141;Earth-Cult Elemental;[4][R][R];C
+AFR;142;Farideh's Fireball;[3][R][R];C
+AFR;143;Flameskull;[1][R][R];M
+AFR;144;Goblin Javelineer;[R];C
+AFR;145;Goblin Morningstar;[1][R];U
+AFR;146;Hoarding Ogre;[3][R];C
+AFR;147;Hobgoblin Bandit Lord;[1][R][R];R
+AFR;148;Hobgoblin Captain;[1][R];C
+AFR;149;Hulking Bugbear;[1][R][R];U
+AFR;150;Improvised Weaponry;[2][R];C
+AFR;151;Inferno of the Star Mounts;[4][R][R];M
+AFR;152;Jaded Sell-Sword;[3][R];C
+AFR;153;Kick in the Door;[R];C
+AFR;154;Magic Missile;[1][R][R];U
+AFR;155;Meteor Swarm;[X][R][R][R];R
+AFR;156;Minion of the Mighty;[R];R
+AFR;157;Orb of Dragonkind;[1][R];R
+AFR;158;Plundering Barbarian;[2][R];C
+AFR;159;Price of Loyalty;[2][R];C
+AFR;160;Red Dragon;[4][R][R];U
+AFR;161;Rust Monster;[2][R];U
+AFR;162;Swarming Goblins;[4][R];C
+AFR;163;Tiger-Tribe Hunter;[3][R][R];U
+AFR;164;Unexpected Windfall;[2][R][R];C
+AFR;165;Valor Singer;[2][R];C
+AFR;166;Wish;[2][R];R
+AFR;167;Xorn;[2][R];R
+AFR;168;You Come to the Gnoll Camp;[1][R];C
+AFR;169;You Find Some Prisoners;[1][R];U
+AFR;170;You See a Pair of Goblins;[2][R];U
+AFR;171;Zalto, Fire Giant Duke;[3][R][R];R
+AFR;172;Zariel, Archduke of Avernus;[2][R][R];M
+AFR;173;Bulette;[3][G];C
+AFR;174;Bull's Strength;[1][G];C
+AFR;175;Choose Your Weapon;[2][G];U
+AFR;176;Circle of Dreams Druid;[G][G][G];R
+AFR;177;Circle of the Moon Druid;[2][G];C
+AFR;178;Compelled Duel;[1][G];C
+AFR;179;Dire Wolf Prowler;[2][G];C
+AFR;180;Druid Class;[1][G];U
+AFR;A-180;A-Druid Class;[1][G];U
+AFR;181;Ellywick Tumblestrum;[2][G][G];M
+AFR;A-181;A-Ellywick Tumblestrum;[2][G][G];M
+AFR;182;Elturgard Ranger;[4][G];C
+AFR;183;Find the Path;[2][G];C
+AFR;A-183;A-Find the Path;[2][G];C
+AFR;184;Froghemoth;[3][G][G];R
+AFR;185;Gnoll Hunter;[1][G];C
+AFR;186;Green Dragon;[4][G][G];U
+AFR;187;Hill Giant Herdgorger;[4][G][G];C
+AFR;188;Hunter's Mark;[3][G];U
+AFR;189;Inspiring Bard;[3][G];C
+AFR;190;Instrument of the Bards;[G];R
+AFR;191;Intrepid Outlander;[1][G];U
+AFR;192;Loathsome Troll;[3][G][G];U
+AFR;193;Long Rest;[X][G][G][G];R
+AFR;194;Lurking Roper;[2][G];U
+AFR;195;Neverwinter Dryad;[G];C
+AFR;196;Ochre Jelly;[X][G];R
+AFR;197;Old Gnawbone;[5][G][G];M
+AFR;198;Owlbear;[3][G][G];C
+AFR;199;Plummet;[1][G];C
+AFR;200;Prosperous Innkeeper;[1][G];U
+AFR;201;Purple Worm;[5][G][G];U
+AFR;202;Ranger Class;[1][G];R
+AFR;203;Ranger's Longbow;[1][G];C
+AFR;204;Scaled Herbalist;[1][G];C
+AFR;205;Spoils of the Hunt;[2][G];C
+AFR;206;Sylvan Shepherd;[2][G];C
+AFR;207;The Tarrasque;[6][G][G][G];M
+AFR;208;Underdark Basilisk;[1][G];C
+AFR;209;Varis, Silverymoon Ranger;[1][G][G];R
+AFR;210;Wandering Troubadour;[3][G];U
+AFR;211;Werewolf Pack Leader;[G][G];R
+AFR;212;Wild Shape;[G];U
+AFR;213;You Find a Cursed Idol;[1][G];C
+AFR;214;You Happen On a Glade;[2][G];U
+AFR;215;You Meet in a Tavern;[2][G][G];U
+AFR;216;Adult Gold Dragon;[3][R][W];R
+AFR;217;Bard Class;[R][G];R
+AFR;218;Barrowin of Clan Undurr;[2][W][B];U
+AFR;219;Bruenor Battlehammer;[2][R][W];U
+AFR;220;Drizzt Do'Urden;[3][G][W];R
+AFR;221;Farideh, Devil's Chosen;[2][U][R];U
+AFR;222;Fighter Class;[R][W];R
+AFR;223;Gretchen Titchwillow;[G][U];U
+AFR;224;Hama Pashar, Ruin Seeker;[1][W][U];U
+AFR;225;Kalain, Reclusive Painter;[B][R];U
+AFR;226;Krydle of Baldur's Gate;[U][B];U
+AFR;227;Minsc, Beloved Ranger;[R][G][W];M
+AFR;228;Monk Class;[W][U];R
+AFR;229;Orcus, Prince of Undeath;[X][2][B][R];R
+AFR;230;Rogue Class;[U][B];R
+AFR;231;Shessra, Death's Whisper;[2][B][G];U
+AFR;232;Skeletal Swarming;[3][B][G];R
+AFR;233;Sorcerer Class;[U][R];R
+AFR;234;Targ Nar, Demon-Fang Gnoll;[R][G];U
+AFR;235;Tiamat;[2][W][U][B][R][G];M
+AFR;236;Trelasarra, Moon Dancer;[G][W];U
+AFR;237;Triumphant Adventurer;[W][B];R
+AFR;A-237;A-Triumphant Adventurer;[W][B];R
+AFR;238;Volo, Guide to Monsters;[2][G][U];R
+AFR;239;Xanathar, Guild Kingpin;[4][U][B];M
+AFR;240;Bag of Holding;[1];U
+AFR;241;The Deck of Many Things;[5];M
+AFR;242;Dungeon Map;[3];U
+AFR;243;Eye of Vecna;[2];R
+AFR;244;Fifty Feet of Rope;[1];U
+AFR;245;Greataxe;[1];C
+AFR;246;Hand of Vecna;[3];R
+AFR;247;Iron Golem;[4];U
+AFR;248;Leather Armor;[1];C
+AFR;249;Mimic;[2];C
+AFR;250;Spare Dagger;[1];C
+AFR;251;Spiked Pit Trap;[1];C
+AFR;252;Treasure Chest;[3];R
+AFR;253;Cave of the Frost Dragon;;R
+AFR;254;Den of the Bugbear;;R
+AFR;255;Dungeon Descent;;R
+AFR;A-255;A-Dungeon Descent;;R
+AFR;256;Evolving Wilds;;C
+AFR;257;Hall of Storm Giants;;R
+AFR;258;Hive of the Eye Tyrant;;R
+AFR;259;Lair of the Hydra;;R
+AFR;260;Temple of the Dragon Queen;;U
+AFR;261;Treasure Vault;;R
+AFR;262;Plains;;C
+AFR;263;Plains;;C
+AFR;264;Plains;;C
+AFR;265;Plains;;C
+AFR;266;Island;;C
+AFR;267;Island;;C
+AFR;268;Island;;C
+AFR;269;Island;;C
+AFR;270;Swamp;;C
+AFR;271;Swamp;;C
+AFR;272;Swamp;;C
+AFR;273;Swamp;;C
+AFR;274;Mountain;;C
+AFR;275;Mountain;;C
+AFR;276;Mountain;;C
+AFR;277;Mountain;;C
+AFR;278;Forest;;C
+AFR;279;Forest;;C
+AFR;280;Forest;;C
+AFR;281;Forest;;C
+AFR;282;Grand Master of Flowers;[2][W][W];M
+AFR;283;Mordenkainen;[4][U][U];M
+AFR;284;Lolth, Spider Queen;[3][B][B];M
+AFR;285;Zariel, Archduke of Avernus;[2][R][R];M
+AFR;286;Ellywick Tumblestrum;[2][G][G];M
+AFR;287;Icingdeath, Frost Tyrant;[2][W][W];M
+AFR;288;White Dragon;[4][W][W];U
+AFR;289;Blue Dragon;[5][U][U];U
+AFR;290;Iymrith, Desert Doom;[3][U][U];M
+AFR;291;Black Dragon;[5][B][B];U
+AFR;292;Ebondeath, Dracolich;[2][B][B];M
+AFR;293;Inferno of the Star Mounts;[4][R][R];M
+AFR;294;Red Dragon;[4][R][R];U
+AFR;295;Green Dragon;[4][G][G];U
+AFR;296;Old Gnawbone;[5][G][G];M
+AFR;297;Adult Gold Dragon;[3][R][W];R
+AFR;298;Tiamat;[2][W][U][B][R][G];M
+AFR;299;Arborea Pegasus;[3][W];C
+AFR;300;Blink Dog;[2][W];U
+AFR;301;Celestial Unicorn;[2][W];C
+AFR;302;Cloister Gargoyle;[2][W];U
+AFR;303;Nadaar, Selfless Paladin;[2][W];R
+AFR;304;Oswald Fiddlebender;[1][W];R
+AFR;305;Displacer Beast;[2][U];U
+AFR;306;Djinni Windseer;[3][U];C
+AFR;307;Dragon Turtle;[1][U][U];R
+AFR;308;Mind Flayer;[3][U][U];R
+AFR;309;Pixie Guide;[1][U];C
+AFR;310;Rimeshield Frost Giant;[3][U][U];C
+AFR;311;Baleful Beholder;[4][B][B];C
+AFR;312;Clattering Skeletons;[3][B];C
+AFR;313;Gelatinous Cube;[2][B][B];R
+AFR;314;Manticore;[3][B];C
+AFR;315;Westgate Regent;[3][B][B];R
+AFR;316;Wight;[1][B];R
+AFR;317;Delina, Wild Mage;[3][R];R
+AFR;318;Goblin Javelineer;[R];C
+AFR;319;Hulking Bugbear;[1][R][R];U
+AFR;320;Minion of the Mighty;[R];R
+AFR;321;Rust Monster;[2][R];U
+AFR;322;Xorn;[2][R];R
+AFR;323;Zalto, Fire Giant Duke;[3][R][R];R
+AFR;324;Bulette;[3][G];C
+AFR;325;Dire Wolf Prowler;[2][G];C
+AFR;326;Gnoll Hunter;[1][G];C
+AFR;327;Loathsome Troll;[3][G][G];U
+AFR;328;Lurking Roper;[2][G];U
+AFR;329;Neverwinter Dryad;[G];C
+AFR;330;Ochre Jelly;[X][G];R
+AFR;331;Owlbear;[3][G][G];C
+AFR;332;Purple Worm;[5][G][G];U
+AFR;333;The Tarrasque;[6][G][G][G];M
+AFR;334;Underdark Basilisk;[1][G];C
+AFR;335;Varis, Silverymoon Ranger;[1][G][G];R
+AFR;336;Barrowin of Clan Undurr;[2][W][B];U
+AFR;337;Bruenor Battlehammer;[2][R][W];U
+AFR;338;Drizzt Do'Urden;[3][G][W];R
+AFR;339;Farideh, Devil's Chosen;[2][U][R];U
+AFR;340;Gretchen Titchwillow;[G][U];U
+AFR;341;Hama Pashar, Ruin Seeker;[1][W][U];U
+AFR;342;Kalain, Reclusive Painter;[B][R];U
+AFR;343;Krydle of Baldur's Gate;[U][B];U
+AFR;344;Minsc, Beloved Ranger;[R][G][W];M
+AFR;345;Shessra, Death's Whisper;[2][B][G];U
+AFR;346;Trelasarra, Moon Dancer;[G][W];U
+AFR;347;Volo, Guide to Monsters;[2][G][U];R
+AFR;348;Iron Golem;[4];U
+AFR;349;Mimic;[2];C
+AFR;350;Cave of the Frost Dragon;;R
+AFR;351;Den of the Bugbear;;R
+AFR;352;Dungeon Descent;;R
+AFR;353;Evolving Wilds;;C
+AFR;354;Hall of Storm Giants;;R
+AFR;355;Hive of the Eye Tyrant;;R
+AFR;356;Lair of the Hydra;;R
+AFR;357;Temple of the Dragon Queen;;U
+AFR;358;Treasure Vault;;R
+AFR;359;The Book of Exalted Deeds;[W][W][W];M
+AFR;360;Dancing Sword;[1][W];R
+AFR;361;Flumph;[1][W];R
+AFR;362;Guardian of Faith;[1][W][W];R
+AFR;363;Loyal Warhound;[1][W];R
+AFR;364;Teleportation Circle;[3][W];R
+AFR;365;The Blackstaff of Waterdeep;[U];R
+AFR;366;Demilich;[U][U][U][U];M
+AFR;367;Grazilaxx, Illithid Scholar;[1][U][U];R
+AFR;368;Tasha's Hideous Laughter;[1][U][U];R
+AFR;369;True Polymorph;[4][U][U];R
+AFR;370;Wizard's Spellbook;[5][U][U];R
+AFR;371;Yuan-Ti Malison;[1][U];R
+AFR;372;Acererak the Archlich;[2][B];M
+AFR;373;Asmodeus the Archfiend;[4][B][B];R
+AFR;374;The Book of Vile Darkness;[B][B][B];M
+AFR;375;Forsworn Paladin;[B];R
+AFR;376;Sphere of Annihilation;[X][B];R
+AFR;377;Vorpal Sword;[B];R
+AFR;378;Flameskull;[1][R][R];M
+AFR;379;Hobgoblin Bandit Lord;[1][R][R];R
+AFR;380;Meteor Swarm;[X][R][R][R];R
+AFR;381;Orb of Dragonkind;[1][R];R
+AFR;382;Wish;[2][R];R
+AFR;383;Circle of Dreams Druid;[G][G][G];R
+AFR;384;Froghemoth;[3][G][G];R
+AFR;385;Instrument of the Bards;[G];R
+AFR;386;Long Rest;[X][G][G][G];R
+AFR;387;Werewolf Pack Leader;[G][G];R
+AFR;388;Orcus, Prince of Undeath;[X][2][B][R];R
+AFR;389;Skeletal Swarming;[3][B][G];R
+AFR;390;Triumphant Adventurer;[W][B];R
+AFR;391;Xanathar, Guild Kingpin;[4][U][B];M
+AFR;392;The Deck of Many Things;[5];M
+AFR;393;Eye of Vecna;[2];R
+AFR;394;Hand of Vecna;[3];R
+AFR;395;Treasure Chest;[3];R
+AFR;396;Vorpal Sword;[B];R
+AFR;397;Treasure Chest;[3];R
+AFR;398;Portable Hole;[W];U
+AFR;399;You Find the Villains' Lair;[1][U][U];C
+AFR;400;Power Word Kill;[1][B];U
+AFR;401;Magic Missile;[1][R][R];U
+AFR;402;Prosperous Innkeeper;[1][G];U
