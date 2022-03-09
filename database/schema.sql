@@ -20,13 +20,13 @@ CREATE TABLE users (
 );
 
 CREATE TABLE card_inventories (
-    inventory_id   INTEGER,
-    owner_id       INTEGER,
-    card_number    INTEGER,
-    expansion_code INTEGER,
-    FOREIGN KEY    (owner_id) REFERENCES users(user_id),
-    FOREIGN KEY    (card_number, expansion_code) REFERENCES cards(card_number, expansion_code),
-    PRIMARY KEY    (inventory_id)
+    inventory_id INTEGER,
+    owner_id     INTEGER,
+    set_code     TEXT,
+    card_number  INTEGER,
+    FOREIGN KEY  (owner_id) REFERENCES users(user_id),
+    FOREIGN KEY  (set_code, card_number) REFERENCES cards(set_code, card_number),
+    PRIMARY KEY  (inventory_id)
 );
 
 CREATE TABLE decks (
@@ -40,22 +40,22 @@ CREATE TABLE decks (
 CREATE TABLE deck_lists ( -- renamed from DeckEntry in ER.png
     deck_list_id   INTEGER,
     deck_reference INTEGER,
+    set_code       TEXT,
     card_number    INTEGER,
-    expansion_code TEXT,
     FOREIGN KEY    (deck_reference) REFERENCES decks(deck_id),
-    FOREIGN KEY    (card_number, expansion_code) REFERENCES cards(card_number, expansion_code)
+    FOREIGN KEY    (set_code, card_number) REFERENCES cards(set_code, card_number)
 );
 
 CREATE TABLE cards (
-    expansion_code  TEXT,
-    card_number     INTEGER,
-    card_name       TEXT,
-    rarity          INTEGER,
-    mana_id         INTEGER,
-    UNIQUE          (card_name, card_number, expansion_code),
-    FOREIGN KEY     (expansion_code) REFERENCES expansions(expansion_id),
-    FOREIGN KEY     (mana_id) REFERENCES mana_costs(mana_id),
-    PRIMARY KEY     (expansion_code, card_number)
+    set_code    TEXT,
+    card_number INTEGER,
+    card_name   TEXT,
+    rarity      INTEGER,
+    mana_id     INTEGER,
+    UNIQUE      (card_name, card_number, set_code),
+    FOREIGN KEY (set_code) REFERENCES expansions(expansion_code),
+    FOREIGN KEY (mana_id) REFERENCES mana_costs(mana_id),
+    PRIMARY KEY (set_code, card_number)
 );
 
 CREATE TABLE mana_costs (
@@ -73,4 +73,4 @@ CREATE TABLE expansions ( -- renamed from Set in /docs/ER.png
     PRIMARY KEY    (expansion_id)
 );
 
-INSERT INTO mana_costs(mana_id, cost) VALUES (1, "[L]")
+INSERT INTO mana_costs(mana_id, cost) VALUES (0, "[L]")
