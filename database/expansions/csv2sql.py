@@ -21,11 +21,11 @@ rarity_to_int = {
     'M' : '4'
 }
 
-# queries the database and inserts the expansion
-def insert_expansion(set_code, set_name, max_count, sql_file):
-    # insert the expansion into the expansions table
-    sql_file.write("-- create the expansion\n")
-    sql_file.write("INSERT INTO expansions (expansion_id, expansion_name, max_count)\n")
+# queries the database and inserts the card set
+def insert_card_set(set_code, set_name, max_count, sql_file):
+    # insert the set into the card_sets table
+    sql_file.write("-- create the card sets\n")
+    sql_file.write("INSERT INTO card_sets (set_code, set_name, max_count)\n")
     sql_file.write("VALUES (\"" + set_code + "\", " + set_name + ", " + max_count + ");\n\n")
 
 # looks through the cards raw data and returns all unique mana costs.
@@ -101,7 +101,7 @@ def main(set_code):
     cards = [c.split(";") for c in csv_raw if c.split(";")[1].isnumeric()]
 
     # insert the actual set into DB
-    insert_expansion(set_code, set_info[0], str(set_info[1]), sql_file)
+    insert_card_set(set_code, set_info[0], str(set_info[1]), sql_file)
 
     # find all unique mana costs
     manas = unique_mana_costs(cards)
