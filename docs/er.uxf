@@ -9,9 +9,9 @@
       <w>130</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>*CardInventory*
+    <panel_attributes>*Collection*
 --
-_id_</panel_attributes>
+_collection_id_</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -24,8 +24,8 @@ _id_</panel_attributes>
     </coordinates>
     <panel_attributes>*Card*
 --
-name
-number
+card_number
+card_name
 rarity</panel_attributes>
     <additional_attributes/>
   </element>
@@ -39,7 +39,8 @@ rarity</panel_attributes>
     </coordinates>
     <panel_attributes>*User*
 --
-name</panel_attributes>
+_user_id_
+nickname</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -158,9 +159,9 @@ m2=*</panel_attributes>
       <w>110</w>
       <h>60</h>
     </coordinates>
-    <panel_attributes>*DeckEntry*
+    <panel_attributes>*DeckList*
 --
-_id_</panel_attributes>
+_deck_list_id_</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -184,7 +185,7 @@ _id_</panel_attributes>
     </coordinates>
     <panel_attributes>*ManaCost*
 --
-_id_
+_mana_id_
 cost</panel_attributes>
     <additional_attributes/>
   </element>
@@ -196,10 +197,10 @@ cost</panel_attributes>
       <w>140</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>*Set*
+    <panel_attributes>*CardSet*
 --
-_id_
-name
+_set_code_
+set_name
 max_count</panel_attributes>
     <additional_attributes/>
   </element>

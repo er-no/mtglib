@@ -2,31 +2,31 @@ PRAGMA foreign_keys=OFF;
 
 -- drop tables
 DROP TABLE IF EXISTS users;
-DROP TABLE IF EXISTS card_inventories;
+DROP TABLE IF EXISTS collections;
 DROP TABLE IF EXISTS decks;
-DROP TABLE IF EXISTS deck_lists; -- renamed from DeckEntry in ER.png
+DROP TABLE IF EXISTS deck_lists;
 DROP TABLE IF EXISTS cards;
 DROP TABLE IF EXISTS mana_costs;
-DROP TABLE IF EXISTS expansions; -- renamed from Set in /docs/ER.png
+DROP TABLE IF EXISTS card_sets;
 
 PRAGMA foreign_keys=ON;
 
 -- create tables
 CREATE TABLE users (
     user_id     INTEGER,
-    nickname    TEXT, -- renamed from name in /docs/ER.png
+    nickname    TEXT,
     UNIQUE      (nickname),
     PRIMARY KEY (user_id)
 );
 
-CREATE TABLE card_inventories (
-    inventory_id INTEGER,
-    owner_id     INTEGER,
-    set_code     TEXT,
-    card_number  INTEGER,
-    FOREIGN KEY  (owner_id) REFERENCES users(user_id),
-    FOREIGN KEY  (set_code, card_number) REFERENCES cards(set_code, card_number),
-    PRIMARY KEY  (inventory_id)
+CREATE TABLE collections (
+    collection_id INTEGER,
+    owner_id      INTEGER,
+    set_code      TEXT,
+    card_number   INTEGER,
+    FOREIGN KEY   (owner_id) REFERENCES users(user_id),
+    FOREIGN KEY   (set_code, card_number) REFERENCES cards(set_code, card_number),
+    PRIMARY KEY   (collection_id)
 );
 
 CREATE TABLE decks (
@@ -37,7 +37,7 @@ CREATE TABLE decks (
     FOREIGN KEY (owner_id) REFERENCES users(user_id)
 );
 
-CREATE TABLE deck_lists ( -- renamed from DeckEntry in ER.png
+CREATE TABLE deck_lists (
     deck_list_id   INTEGER,
     deck_reference INTEGER,
     set_code       TEXT,
@@ -53,7 +53,7 @@ CREATE TABLE cards (
     rarity      INTEGER,
     mana_id     INTEGER,
     UNIQUE      (card_name, card_number, set_code),
-    FOREIGN KEY (set_code) REFERENCES expansions(expansion_code),
+    FOREIGN KEY (set_code) REFERENCES card_sets(set_code),
     FOREIGN KEY (mana_id) REFERENCES mana_costs(mana_id),
     PRIMARY KEY (set_code, card_number)
 );
@@ -65,12 +65,12 @@ CREATE TABLE mana_costs (
     PRIMARY KEY (mana_id)
 );
 
-CREATE TABLE expansions ( -- renamed from Set in /docs/ER.png
-    expansion_id   TEXT,
-    expansion_name TEXT,
+CREATE TABLE card_sets (
+    set_code       TEXT,
+    set_name       TEXT,
     max_count      INTEGER,
-    UNIQUE         (expansion_name),
-    PRIMARY KEY    (expansion_id)
+    UNIQUE         (set_name),
+    PRIMARY KEY    (set_code)
 );
 
 INSERT INTO mana_costs(mana_id, cost) VALUES (0, "[L]")
