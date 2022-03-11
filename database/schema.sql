@@ -96,3 +96,36 @@ BEGIN
         RAISE (ROLLBACK, "You can not have more than four of the same non-land cards in your deck!")
     END;
 END;
+
+-- you can not list a card in your deck if you do not own it
+DROP TRIGGER IF EXISTS must_own_cards;
+CREATE TRIGGER must_own_cards
+BEFORE INSERT ON deck_lists
+BEGIN
+    SELECT CASE WHEN (
+        SELECT
+        ( -- find number in collection
+            SELECT count()
+            FROM   collections
+            WHERE  owner_id = ( -- find owner of the deck that NEW refers to
+                SELECT          owner_id
+                FROM            decks
+                LEFT OUTER JOIN deck_lists ON(deck_reference = deck_id)
+                WHERE           deck_id = NEW.deck_reference
+            )
+            AND set_code = NEW.set_code
+            AND card_number = NEW.card_number
+        )
+        -
+        ( -- find number in deck_list
+            SELECT count()
+            FROM   deck_lists
+            WHERE  deck_reference = NEW.deck_reference
+            AND    set_code = NEW.set_code
+            AND    card_number = NEW.card_number
+        )
+    ) <= 0
+    THEN
+        RAISE (ROLLBACK, "You do not have enough copies in your collection!")
+    END;
+END;
